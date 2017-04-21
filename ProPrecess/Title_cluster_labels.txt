@@ -1,0 +1,2630 @@
+{"text": "罗马 股东 中国 企业 曝光", "cluster": 1}
+{"text": "复出 感染 告别 2011", "cluster": 1}
+{"text": "AC 米兰 官方 宣布", "cluster": 1}
+{"text": "最佳 阵容 领衔 现役 巨星 入选", "cluster": 1}
+{"text": "足协杯 山东 北京", "cluster": 1}
+{"text": "官方 11 成功 领衔", "cluster": 1}
+{"text": "利物浦 大将 进球 助攻", "cluster": 1}
+{"text": "AC 米兰 11 确定 离队", "cluster": 1}
+{"text": "非洲 足球 先生 10 名单 公布", "cluster": 1}
+{"text": "幻灯 西班牙 2012 欧洲 亮相", "cluster": 1}
+{"text": "2011 盘点 震撼 quot 星球 quot", "cluster": 1}
+{"text": "腾讯 视频 直播 VS", "cluster": 1}
+{"text": "震惊 19 冠军 MVP", "cluster": 1}
+{"text": "告别 留下 巨头", "cluster": 1}
+{"text": "22 进球 助攻 致敬", "cluster": 1}
+{"text": "超级 先生 震惊 MVP", "cluster": 1}
+{"text": "FIFA 年终 排名 西班牙 荷兰 德国", "cluster": 1}
+{"text": "记者 申花 球员 内尔", "cluster": 1}
+{"text": "AC 米兰 名单 提前 曝光 加盟 巴萨", "cluster": 1}
+{"text": "320 年薪 报价 米兰", "cluster": 1}
+{"text": "AC 米兰 正式 放弃 永不", "cluster": 1}
+{"text": "AC 米兰 宣布 主力 15", "cluster": 1}
+{"text": "年度 最佳 阵容 候选 10 11", "cluster": 1}
+{"text": "法院 公开", "cluster": 1}
+{"text": "米兰 魔鬼 核心", "cluster": 1}
+{"text": "分析 米兰 最佳 组合", "cluster": 1}
+{"text": "14 记录 AC 米兰 3年", "cluster": 1}
+{"text": "利物浦 官方 宣布 MVP 赛季", "cluster": 1}
+{"text": "正式 宣布 条件 放弃 资格", "cluster": 1}
+{"text": "亲口 AC 米兰 谈判", "cluster": 1}
+{"text": "十年 中国 足球 足协 是否 集体", "cluster": 1}
+{"text": "中国 足球 世界 第一", "cluster": 1}
+{"text": "1000 恒大 正式 报价", "cluster": 1}
+{"text": "欧洲 冠军 主帅 自荐 泰达", "cluster": 1}
+{"text": "暗示 申花 明年 降级", "cluster": 1}
+{"text": "法国 研究", "cluster": 1}
+{"text": "幻灯 北美 冠军", "cluster": 1}
+{"text": "地产 女足 恒大", "cluster": 1}
+{"text": "10亿 20亿 纪录 曼联", "cluster": 1}
+{"text": "2012 恒大 冠军", "cluster": 1}
+{"text": "鲁能 外援 主流 球队 水平", "cluster": 1}
+{"text": "FIFA 最新 排名 上升 世界", "cluster": 1}
+{"text": "AC 米兰 巨头 取消 谈判", "cluster": 1}
+{"text": "监督 报告 证据", "cluster": 1}
+{"text": "AC 米兰 11", "cluster": 1}
+{"text": "AC 米兰 官方 宣布 谈判", "cluster": 1}
+{"text": "切尔西 敲定 1月 第1 目标", "cluster": 1}
+{"text": "赛季 主力 提前 两月 神奇 复出", "cluster": 1}
+{"text": "签约 利物浦 小将 山东 放弃", "cluster": 1}
+{"text": "AC 米兰 米兰", "cluster": 1}
+{"text": "足协 部门 鲁能", "cluster": 1}
+{"text": "致敬 曼联 神奇 进球 纪录 现役 第1", "cluster": 1}
+{"text": "足坛 风暴 回顾 09年 爆发", "cluster": 1}
+{"text": "泰达 神秘", "cluster": 1}
+{"text": "AC 米兰 巨头 圣诞 3千", "cluster": 1}
+{"text": "历史 最高 最佳", "cluster": 1}
+{"text": "2011 足坛 10 PK", "cluster": 1}
+{"text": "2011年度 最佳 11 联手 怎样", "cluster": 1}
+{"text": "AC 米兰 悍将 加盟", "cluster": 1}
+{"text": "亲口 宣布 冬季 正式 加盟", "cluster": 1}
+{"text": "足坛 年度 突破 年轻 冠军", "cluster": 1}
+{"text": "外援 第一 韩国 现役", "cluster": 1}
+{"text": "AC 米兰 先生 曝光", "cluster": 1}
+{"text": "AC 米兰 官方 宣布 巨头 敲定", "cluster": 1}
+{"text": "连续 引发 猜想", "cluster": 1}
+{"text": "11 巨星 争议 视频", "cluster": 1}
+{"text": "上演 女儿 帽子", "cluster": 1}
+{"text": "最佳 阵容 江苏 唯一 外援", "cluster": 1}
+{"text": "切尔西 官方 宣布 内尔 转会", "cluster": 1}
+{"text": "AC 米兰 最后", "cluster": 1}
+{"text": "训练 有望", "cluster": 1}
+{"text": "AC 米兰 闪电 锁定", "cluster": 1}
+{"text": "意大利 视频 网络", "cluster": 1}
+{"text": "1月 大将 复出 阵容", "cluster": 1}
+{"text": "FIFA 宣布 巴西", "cluster": 1}
+{"text": "AC 米兰 发现 关键 先生", "cluster": 1}
+{"text": "中国 提高 水平", "cluster": 1}
+{"text": "2012 时间 敲定", "cluster": 1}
+{"text": "韩国 中国", "cluster": 1}
+{"text": "泰达 足协杯 决赛 北京 举行", "cluster": 1}
+{"text": "希望 足协杯 冠军 天津", "cluster": 1}
+{"text": "没有 对手 AC 米兰 永不", "cluster": 1}
+{"text": "切尔西 统计 对手", "cluster": 1}
+{"text": "FIFA 最新 排名 西班牙 希腊 世界", "cluster": 1}
+{"text": "AC 米兰 3千 先生 官方 确认", "cluster": 1}
+{"text": "AC 米兰 悍将 冬季 巨头 锁定", "cluster": 1}
+{"text": "调查 如何 看待 2012 结果", "cluster": 1}
+{"text": "巨头 亲口 宣布 1月 计划", "cluster": 1}
+{"text": "2011 欧洲 年度 最佳 揭晓", "cluster": 1}
+{"text": "联盟 中国 小将 3年 年薪", "cluster": 1}
+{"text": "3千 先生 加盟 AC 米兰", "cluster": 1}
+{"text": "年度 最佳 阵容 候选 巴萨", "cluster": 1}
+{"text": "赛季 最佳 阵容 恒大 悍将", "cluster": 1}
+{"text": "最佳 阵容 AC 米兰 五星", "cluster": 1}
+{"text": "AC 米兰 官方 确认 阿根廷 加盟", "cluster": 1}
+{"text": "50 美元 韩国", "cluster": 1}
+{"text": "调查 如何 看待 退出 资格", "cluster": 1}
+{"text": "欧洲 16 领衔 16", "cluster": 1}
+{"text": "希望 参加 世纪 大战 巴萨", "cluster": 1}
+{"text": "2012年 波兰 欧洲 球队 历史 记录", "cluster": 1}
+{"text": "意大利 最新 名单 公布", "cluster": 1}
+{"text": "助攻 帽子 11 10 助攻", "cluster": 1}
+{"text": "女足 排名 世界 18 亚洲", "cluster": 1}
+{"text": "AC 米兰 天才 100 正式 离队", "cluster": 1}
+{"text": "成果 官员 纷纷", "cluster": 1}
+{"text": "爆发 世界 欧洲 冠军", "cluster": 1}
+{"text": "申花 2012 目标 夺冠", "cluster": 1}
+{"text": "盘点 冠军 竞争", "cluster": 1}
+{"text": "18 欧洲 领衔", "cluster": 1}
+{"text": "阿根廷", "cluster": 1}
+{"text": "十年 中国 足球 足协 是否 应该 集体", "cluster": 1}
+{"text": "建议 泰达 球队 夺冠", "cluster": 1}
+{"text": "数据 统计 10 恐怖 数据", "cluster": 1}
+{"text": "恐怖 5年 如何", "cluster": 1}
+{"text": "AC 米兰 曝光 交易 公开 抢先 所有 闪电 MVP 天才", "cluster": 1}
+{"text": "联盟 决赛 冠军 23 23", "cluster": 1}
+{"text": "冠军 主帅 正式 签约 广州", "cluster": 1}
+{"text": "上周 世界 最佳 球员 鲁能", "cluster": 1}
+{"text": "恒大 招聘 校长 年薪 200 教师 10", "cluster": 1}
+{"text": "AC 米兰", "cluster": 1}
+{"text": "幻灯 举行 圣诞 派对", "cluster": 1}
+{"text": "非洲 足球 先生 候选 名单 公布", "cluster": 1}
+{"text": "法院 公告 确认", "cluster": 1}
+{"text": "21 世纪 10年 世界 最佳", "cluster": 1}
+{"text": "14 正式 夺冠 飙升 AC 米兰", "cluster": 1}
+{"text": "一样 阿根廷 为何", "cluster": 1}
+{"text": "公开 表态 考虑 罗马 发展", "cluster": 1}
+{"text": "内尔 转会 正在 席卷 世界", "cluster": 1}
+{"text": "AC 米兰 官方 宣布 大将", "cluster": 1}
+{"text": "出炉 曼联", "cluster": 1}
+{"text": "新政 女足", "cluster": 1}
+{"text": "球员 加盟 要求", "cluster": 1}
+{"text": "巴西 留下 谈判", "cluster": 1}
+{"text": "泰达 声明 澄清", "cluster": 1}
+{"text": "宣布 进行 调查", "cluster": 1}
+{"text": "公开 显示 转会", "cluster": 1}
+{"text": "世纪 大战 阵容 玄机", "cluster": 1}
+{"text": "揭秘 女足 山东 如何 形成", "cluster": 1}
+{"text": "意大利 欧洲 组合 敲定", "cluster": 1}
+{"text": "腾讯 视频 直播 VS 新加坡", "cluster": 1}
+{"text": "联盟 最佳 复出 球员", "cluster": 1}
+{"text": "幻灯 西班牙", "cluster": 1}
+{"text": "16日 视频 直播 意大利 VS", "cluster": 1}
+{"text": "冠军 非洲 冠军", "cluster": 1}
+{"text": "世纪 大战 巴萨 最佳", "cluster": 1}
+{"text": "致敬 世界 第1 风采 20年", "cluster": 1}
+{"text": "10年 第1 视频", "cluster": 1}
+{"text": "切尔西 怎么", "cluster": 1}
+{"text": "提前 宣布 AC 米兰 首发", "cluster": 1}
+{"text": "焦点 访谈 第1 中国 足球", "cluster": 1}
+{"text": "1月 8日 开始", "cluster": 1}
+{"text": "韩国 主帅 热门 候选 中国", "cluster": 1}
+{"text": "切尔西 技术 统计 关键 数据", "cluster": 1}
+{"text": "16 魔鬼 米兰", "cluster": 1}
+{"text": "中国 小将 西班牙 遭遇 严重", "cluster": 1}
+{"text": "冬季 收购 名单 正式 曝光", "cluster": 1}
+{"text": "深圳 成都 提前 降级", "cluster": 1}
+{"text": "日本 世界 纪录", "cluster": 1}
+{"text": "巨头 亲口 暗示 冬季 离队 正式 曝光", "cluster": 1}
+{"text": "幻灯 球员 36 指南 出炉", "cluster": 1}
+{"text": "世界 顶级 足球 学校 北京", "cluster": 1}
+{"text": "美国 天体 发现 光年", "cluster": 2}
+{"text": "专题 神奇 地下 世界", "cluster": 2}
+{"text": "百年 历史 拍卖 价格 世界 纪录", "cluster": 2}
+{"text": "恐怖 外行星 僵尸 行星 行星", "cluster": 2}
+{"text": "研究 地球 生命 火山 爆发", "cluster": 2}
+{"text": "法国 科学家 发现 地球 生命", "cluster": 2}
+{"text": "研究 人员 最近 发现 恐龙 进行", "cluster": 2}
+{"text": "化石 显示", "cluster": 2}
+{"text": "奇特 利用", "cluster": 2}
+{"text": "十二 濒危 世界 历史 中国", "cluster": 2}
+{"text": "野生 动物 精彩 ：日 冬天 温泉", "cluster": 2}
+{"text": "发现 2.1 高峰", "cluster": 2}
+{"text": "覆盖", "cluster": 2}
+{"text": "威胁 数量", "cluster": 2}
+{"text": "发现 灭绝 动物 化石", "cluster": 2}
+{"text": "发现 大量 儿童", "cluster": 2}
+{"text": "百年 南极 抢先 世界 男人", "cluster": 2}
+{"text": "罕见 女王", "cluster": 2}
+{"text": "深海 鱿鱼", "cluster": 2}
+{"text": "鲨鱼 神奇", "cluster": 2}
+{"text": "印度 发现 品种 奇特 叫声", "cluster": 2}
+{"text": "五大 地球 太空 垃圾 卫星 污染", "cluster": 2}
+{"text": "全球 品种 银行", "cluster": 2}
+{"text": "47 光年 巨型 风暴", "cluster": 2}
+{"text": "美国 中心 360", "cluster": 2}
+{"text": "揭秘 技术 防止 911 灾难", "cluster": 2}
+{"text": "机器人 技术 人类", "cluster": 2}
+{"text": "日本 科学家 特殊", "cluster": 2}
+{"text": "发现 进行", "cluster": 2}
+{"text": "国家 地理 8月 最佳 照片 壮观 风暴", "cluster": 2}
+{"text": "哈勃 恒星 高速 10", "cluster": 2}
+{"text": "揭秘 巨大 环境", "cluster": 2}
+{"text": "美国", "cluster": 2}
+{"text": "迄今 南极 化石 发现", "cluster": 2}
+{"text": "探访 世界 健康 海洋 上演", "cluster": 2}
+{"text": "巨大 席卷 美国 蔓延 公里", "cluster": 2}
+{"text": "海底 发现 时期 沉船", "cluster": 2}
+{"text": "海底 发现 大型 深海 火山", "cluster": 2}
+{"text": "地球", "cluster": 2}
+{"text": "太阳 喷射 出现 极光 波兰", "cluster": 2}
+{"text": "欧洲 最高 火山 喷发 喷射", "cluster": 2}
+{"text": "光年 发现 行星", "cluster": 2}
+{"text": "研究 人类", "cluster": 2}
+{"text": "盘点 绿色 罗马 方式", "cluster": 2}
+{"text": "照片 僵尸 全过程", "cluster": 2}
+{"text": "陷阱 肯尼亚 罕见 非洲", "cluster": 2}
+{"text": "国家 地理 7月 照片", "cluster": 2}
+{"text": "发现", "cluster": 2}
+{"text": "盘点 美国 平均 年龄", "cluster": 2}
+{"text": "历史 对比", "cluster": 2}
+{"text": "世界 新增 自然 肯尼亚 系统", "cluster": 2}
+{"text": "发现新", "cluster": 2}
+{"text": "英国 16 海洋 化石", "cluster": 2}
+{"text": "揭秘 叫声 动物 奇特", "cluster": 2}
+{"text": "自然 世界 最高", "cluster": 2}
+{"text": "美国 发现 罕见 巨型 鱿鱼 90", "cluster": 2}
+{"text": "揭开 飞机", "cluster": 2}
+{"text": "太阳", "cluster": 2}
+{"text": "2011 濒危 物种 红色 公布", "cluster": 2}
+{"text": "揭秘", "cluster": 2}
+{"text": "德国 大量 黄金", "cluster": 2}
+{"text": "发现 迄今 集体", "cluster": 2}
+{"text": "科学家 预测 太阳 即将 进入", "cluster": 2}
+{"text": "科学家 中心 发现 恒星", "cluster": 2}
+{"text": "世界 各地 美丽 上空 太阳", "cluster": 2}
+{"text": "地下 公里 发现 新型 魔鬼", "cluster": 2}
+{"text": "海床 发现 巨型 公里", "cluster": 2}
+{"text": "刚果", "cluster": 2}
+{"text": "海底 17 世纪 海盗 发现", "cluster": 2}
+{"text": "11 破产 世界 末日 预言 行星", "cluster": 2}
+{"text": "揭秘 美国 神秘 51 飞机 卫星", "cluster": 2}
+{"text": "刚果 发现新", "cluster": 2}
+{"text": "2011 最佳 摄影 壮观 绿色 极光 夺冠", "cluster": 2}
+{"text": "纪念 照片 极光", "cluster": 2}
+{"text": "揭开 巨型 鱿鱼 海洋 污染", "cluster": 2}
+{"text": "阿根廷 企鹅 宝宝 罕见 企鹅", "cluster": 2}
+{"text": "石油 北极 大量 石油", "cluster": 2}
+{"text": "20 震撼 地球 卫星 照片 火山 喷射 巨大", "cluster": 2}
+{"text": "漏油 1年 海滩 变化 部分 海滩 污染", "cluster": 2}
+{"text": "研究 显示 可能 黑色", "cluster": 2}
+{"text": "北极 部分 严重 每年 30", "cluster": 2}
+{"text": "太空 图片 精选 太空 壮观", "cluster": 2}
+{"text": "英国 发现 罗马 数量 纪录", "cluster": 2}
+{"text": "奇特 物种 感染 僵尸", "cluster": 2}
+{"text": "研究 发现 大脑 理解", "cluster": 2}
+{"text": "海底 火山 喷发 形成", "cluster": 2}
+{"text": "中国 发现 恐龙 化石 证据", "cluster": 2}
+{"text": "飞机 大型 进行 飞行 表演", "cluster": 2}
+{"text": "科学家 人类 地球 第三 聪明 动物", "cluster": 2}
+{"text": "我国 科学家 发现 一个 新型", "cluster": 2}
+{"text": "北美 发现 恐龙 化石", "cluster": 2}
+{"text": "人类 发现 奇特", "cluster": 2}
+{"text": "科学家 揭示 环境 原因", "cluster": 2}
+{"text": "13 世纪 意大利 玄机 魔鬼", "cluster": 2}
+{"text": "美国 政府 否认 外星人 有关 信息", "cluster": 2}
+{"text": "刚果 火山 喷发 红色", "cluster": 2}
+{"text": "十三 动物", "cluster": 2}
+{"text": "国家 地理 高清", "cluster": 2}
+{"text": "地区 蒙古 不足", "cluster": 2}
+{"text": "国家 地理 公布 物种 僵尸", "cluster": 2}
+{"text": "太空 天体 星云", "cluster": 2}
+{"text": "揭秘 疯狂 贸易 每年 鲨鱼", "cluster": 2}
+{"text": "漏油 现场 海滩 企鹅 污染", "cluster": 2}
+{"text": "地理 探访 今日", "cluster": 2}
+{"text": "精彩 太空 火山 上空 奇特", "cluster": 2}
+{"text": "感染 行为 僵尸", "cluster": 2}
+{"text": "太空 图片 精选 非洲 覆盖", "cluster": 2}
+{"text": "研究 人员 大量 外星人", "cluster": 2}
+{"text": "澳大利亚 发现 罕见", "cluster": 2}
+{"text": "盘点 太空 纪念 人类 地球", "cluster": 2}
+{"text": "100 美元 永不 可能 发现", "cluster": 2}
+{"text": "科学家 利用 城市 寻找", "cluster": 2}
+{"text": "澳大利亚 研究 显示 速度 健康", "cluster": 2}
+{"text": "研究 改善 提高 成绩", "cluster": 2}
+{"text": "德国 成功 孕妇 置换", "cluster": 2}
+{"text": "科学家 南极 巨型 恐龙 证据", "cluster": 2}
+{"text": "大学 网上 发布", "cluster": 2}
+{"text": "纽约 时代 星球 大战 人物", "cluster": 2}
+{"text": "八大 世界 末日 VS", "cluster": 2}
+{"text": "波兰 发现 海盗 年轻 罕见", "cluster": 2}
+{"text": "科学家 红色 闪电 影像", "cluster": 2}
+{"text": "火山 壮观 喷发", "cluster": 2}
+{"text": "日本 地震 导致 海床 50", "cluster": 2}
+{"text": "国家 地理 2011 最佳 新闻 图片 51 飞机 曝光", "cluster": 2}
+{"text": "报告 2011 历史", "cluster": 2}
+{"text": "研究 揭示 为何", "cluster": 2}
+{"text": "12 中国 可能", "cluster": 2}
+{"text": "汽车", "cluster": 2}
+{"text": "太阳 活动 巨型 10 公里", "cluster": 2}
+{"text": "南极 发现 化石 企鹅", "cluster": 2}
+{"text": "世界 初选 揭晓", "cluster": 2}
+{"text": "未来 技术 飞行", "cluster": 2}
+{"text": "日本 污染 灾难 现场", "cluster": 2}
+{"text": "北极 动物", "cluster": 2}
+{"text": "太空 精选 火星 引发 200 尘埃", "cluster": 2}
+{"text": "美国 国家 地理 911 事件 25 震撼 照片", "cluster": 2}
+{"text": "美国 纽约 911 事件 现场 地下 发现 18 世纪 沉船", "cluster": 2}
+{"text": "濒危 疯狂", "cluster": 2}
+{"text": "四川 中国 最后", "cluster": 2}
+{"text": "最后 飞行 罕见 照片 故事", "cluster": 2}
+{"text": "精彩 太空 遥远 核心 黑洞", "cluster": 2}
+{"text": "人员 发现 大型 速度 手术", "cluster": 2}
+{"text": "科学家 生命 火星 生存", "cluster": 2}
+{"text": "国家 地理 2011 最佳 摄影", "cluster": 2}
+{"text": "宇宙 遥远 天体 光年", "cluster": 2}
+{"text": "澳洲 上演 星球 大战 测试", "cluster": 2}
+{"text": "深海 发现 恐龙 时代 大型", "cluster": 2}
+{"text": "全球 第一 婴儿 释放 宝宝", "cluster": 2}
+{"text": "太空 拍摄 火山 喷发 震撼 壮观", "cluster": 2}
+{"text": "研究 1000 大脑", "cluster": 2}
+{"text": "德国 医生 成功 新型 置换 手术 方法", "cluster": 2}
+{"text": "考古 专家 发现 城市", "cluster": 2}
+{"text": "摄影 震撼 不同 视角 世界", "cluster": 2}
+{"text": "世界 末日 猜想 外星人 行星 地球", "cluster": 2}
+{"text": "世界 10 神秘 事件 荷兰", "cluster": 2}
+{"text": "科学家 揭开 动物 预测 地震", "cluster": 2}
+{"text": "科学家 可能", "cluster": 2}
+{"text": "科学家 环境 顾问 解读 大会 前景", "cluster": 2}
+{"text": "蒙古 发现 巨大 恐龙 15", "cluster": 2}
+{"text": "2011 最佳 海洋 保护 摄影", "cluster": 2}
+{"text": "国家 地理 动物 飞行", "cluster": 2}
+{"text": "太空 图片 巨型 黑洞", "cluster": 2}
+{"text": "太空 照片 精选 星云", "cluster": 2}
+{"text": "太空 图片 精选 恒星", "cluster": 2}
+{"text": "太空 图片 精选 爆发 年轻", "cluster": 2}
+{"text": "太空 精选 火星 200 尘埃", "cluster": 2}
+{"text": "太阳 喷射 美国 出现 罕见 红色 极光", "cluster": 2}
+{"text": "西班牙 海底 火山 爆发 绿色", "cluster": 2}
+{"text": "太空 图片 精选 加拿大 绿色 极光", "cluster": 2}
+{"text": "全球 野生 动物 精彩 ：日 冬天 温泉", "cluster": 2}
+{"text": "精彩 太空 星云 爆发", "cluster": 2}
+{"text": "发现 罕见 鲨鱼 胎儿", "cluster": 2}
+{"text": "漏油 事故 海滩 企鹅 污染", "cluster": 2}
+{"text": "发现 罕见 女王", "cluster": 2}
+{"text": "2011 最佳 摄影 照片 夺冠", "cluster": 2}
+{"text": "美国 国家 地理 公布 照片 纪念 周年", "cluster": 2}
+{"text": "精彩 太空 太空 美国", "cluster": 2}
+{"text": "美国 发现 18 世纪 海盗 沉船", "cluster": 2}
+{"text": "36 光年 发现 迄今 地球 外行星", "cluster": 2}
+{"text": "美国 纽约 911 事故 现场 地下 发现 18 世纪 沉船", "cluster": 2}
+{"text": "精彩 太空 上空", "cluster": 2}
+{"text": "太空 星云 喷发 尘埃", "cluster": 2}
+{"text": "肯尼亚 行为 增加 非洲", "cluster": 2}
+{"text": "国家 地理 2011 最佳 旅游 照片 夺冠", "cluster": 2}
+{"text": "太空 巨型 风暴 30 公里", "cluster": 2}
+{"text": "盘点 叫声 动物 奇特", "cluster": 2}
+{"text": "太空 图片 精选 壮观 加拿大", "cluster": 2}
+{"text": "太空 图片 精选 极光 加拿大 上空", "cluster": 2}
+{"text": "太空 图片 精选 极光 加拿大", "cluster": 2}
+{"text": "太空 图片 精选 太阳 表面 喷射", "cluster": 2}
+{"text": "太空 图片 精选 星云 质量 太阳", "cluster": 2}
+{"text": "太空 图片 精选 巨型 中央 发现 黑洞", "cluster": 2}
+{"text": "沉船 发现 17 世纪 海盗", "cluster": 2}
+{"text": "2011 世界 摄影 最佳 照片 印度", "cluster": 2}
+{"text": "美国 51 照片 曝光", "cluster": 2}
+{"text": "女性 大脑 活动 影像 公布", "cluster": 2}
+{"text": "国家 地理 2011 最佳 太空", "cluster": 2}
+{"text": "科学家 女性 大脑 活动 影像", "cluster": 2}
+{"text": "发现 巨大 化石", "cluster": 2}
+{"text": "科学家 研究 不再 需要", "cluster": 2}
+{"text": "表面 3千 神秘 生命", "cluster": 2}
+{"text": "地球 亮相 美国 自然 历史", "cluster": 2}
+{"text": "生命 研究 突破 女性 身体", "cluster": 2}
+{"text": "美国 研究 人员 发现 提高", "cluster": 2}
+{"text": "快讯 2011年度 50 最佳 揭晓", "cluster": 2}
+{"text": "大型 有望 揭开 宇宙 存在", "cluster": 2}
+{"text": "飞行 问世 10", "cluster": 2}
+{"text": "早期 质量 黑洞", "cluster": 2}
+{"text": "精彩 太空 图片 太阳 加速 喷射", "cluster": 2}
+{"text": "环境 火星 生命 存在", "cluster": 2}
+{"text": "美国 进入 最近", "cluster": 2}
+{"text": "化石 恐龙 方式 接近", "cluster": 2}
+{"text": "研究 星球 存在", "cluster": 2}
+{"text": "11月 最佳 地球 卫星 图片", "cluster": 2}
+{"text": "研究 中心 成立", "cluster": 2}
+{"text": "专家 预测 火山 喷发 规模", "cluster": 2}
+{"text": "英国 研究 显示 孕妇 风险", "cluster": 2}
+{"text": "2011年 科学 发现 回顾 行星 存在", "cluster": 2}
+{"text": "美国 回应 2012 末日 预言 没有", "cluster": 2}
+{"text": "预测 未来 5年 技术 人体", "cluster": 2}
+{"text": "动物 世界 高清", "cluster": 2}
+{"text": "发现 地球 接近 行星", "cluster": 2}
+{"text": "科学家 最新 研究 揭晓 来源", "cluster": 2}
+{"text": "12月 最佳 动物 照片 出炉", "cluster": 2}
+{"text": "深海 发现新 海床", "cluster": 2}
+{"text": "火星 发现 移动 每年", "cluster": 2}
+{"text": "研究 恐龙 灭绝 火山 喷发 灾难", "cluster": 2}
+{"text": "太空 移民 人类 生存 唯一", "cluster": 2}
+{"text": "南极 企鹅 生活 宝宝 父母", "cluster": 2}
+{"text": "美国 太阳 恒星", "cluster": 2}
+{"text": "席卷 全球 风暴 风暴", "cluster": 2}
+{"text": "日本 事故 机器人 问世", "cluster": 2}
+{"text": "日本 研究 发现", "cluster": 2}
+{"text": "专家 通过 化石 发现 北极 存在 恐龙", "cluster": 2}
+{"text": "最佳 野生 图片 出炉", "cluster": 2}
+{"text": "英国 大学 上演 大战", "cluster": 2}
+{"text": "国家 地理 12月 最佳 动物 照片 出炉", "cluster": 2}
+{"text": "孕妇 真相 曝光 手机 电脑", "cluster": 2}
+{"text": "中国 海底 南极", "cluster": 2}
+{"text": "期待 灭绝 物种", "cluster": 2}
+{"text": "韩国 20 进行 迄今 宇宙", "cluster": 2}
+{"text": "印度 高中生 世界 女性", "cluster": 2}
+{"text": "科学家 外行星 锁定 潜在 星球", "cluster": 2}
+{"text": "揭秘 世界 奇特 动物 美丽", "cluster": 2}
+{"text": "重大 事件 回顾 揭示 大脑 变化", "cluster": 2}
+{"text": "香港 成功 完成 机器人 手术", "cluster": 2}
+{"text": "哈勃 圣诞 观测 天使 星云", "cluster": 2}
+{"text": "国家 地理 最高 震撼 图片", "cluster": 2}
+{"text": "德国 提出 治疗 儿童 严重 方法", "cluster": 2}
+{"text": "人类 微笑 秘密 交流 唯一 部分", "cluster": 2}
+{"text": "2012 科学 猜想 科学家 能否 恐龙", "cluster": 2}
+{"text": "美国 国际 壮观", "cluster": 2}
+{"text": "科学家 观测 宇宙 早期 诞生 恒星", "cluster": 2}
+{"text": "南极 企鹅 参加 中国 南极 冰上", "cluster": 2}
+{"text": "最新 动物 考古 人类 动物 关系", "cluster": 2}
+{"text": "德国 上空 出现", "cluster": 2}
+{"text": "投票 地理 2011年度 国家 地理 大奖", "cluster": 2}
+{"text": "中国 500 公里 高速 诞生 高清", "cluster": 2}
+{"text": "国际 2011 最佳 图片 造型 独特", "cluster": 2}
+{"text": "精彩 太空 图片 恒星 形成 宇宙 天使", "cluster": 2}
+{"text": "国家 地理 能源 新闻 事故", "cluster": 2}
+{"text": "2011 野生 环境 摄影 大赛", "cluster": 2}
+{"text": "火星 500 环境 人体 数据 突破", "cluster": 2}
+{"text": "火星 表面 温泉 存在 生命", "cluster": 2}
+{"text": "日本 报告 观测 3月 地震 引发", "cluster": 2}
+{"text": "科学家 秘密 人体 真相 曝光", "cluster": 2}
+{"text": "美国 科学 盘点 现代 10 物种 现象", "cluster": 2}
+{"text": "太阳 出现 巨型 喷射", "cluster": 2}
+{"text": "哈勃 观察 光年 遥远 黑洞", "cluster": 2}
+{"text": "摄影 拍摄 极光", "cluster": 2}
+{"text": "火星 500 即将 结束 一年 火星", "cluster": 2}
+{"text": "盘点 动物 世界 僵尸", "cluster": 2}
+{"text": "中国 经济 论坛 12月 举行", "cluster": 3}
+{"text": "周报 上周 二手 住宅 成交", "cluster": 3}
+{"text": "新浪 启动 2011 房地产 年度 评选", "cluster": 3}
+{"text": "北京 13 楼盘 推荐", "cluster": 3}
+{"text": "上市 短期 融资 风险", "cluster": 3}
+{"text": "11月 项目 开盘 最低", "cluster": 3}
+{"text": "贷款 利率 上调 置业 调查", "cluster": 3}
+{"text": "通州 北京 楼市", "cluster": 3}
+{"text": "3千 网友 30亿 购房", "cluster": 3}
+{"text": "明年 房价 下降 趋势 明显", "cluster": 3}
+{"text": "10月 北京 关注 20 楼盘", "cluster": 3}
+{"text": "中国 交会 12月 深圳 启幕", "cluster": 3}
+{"text": "建部 保障 开工 1000 目标 完成", "cluster": 3}
+{"text": "发布 第三 季度 净利润 同比 增长", "cluster": 3}
+{"text": "住宅 库存 再次 突破 12", "cluster": 3}
+{"text": "央行 调查 居民 房价 上涨 预期 大幅 回落", "cluster": 3}
+{"text": "部分 城市 调控 政策", "cluster": 3}
+{"text": "2011 搜狐 高尔夫 巡回赛 香港 决赛", "cluster": 3}
+{"text": "明年 楼市 进一步 低迷 可能性", "cluster": 3}
+{"text": "买房 降价 补偿 蔓延 全国", "cluster": 3}
+{"text": "中国 交会 12月 深圳 举行", "cluster": 3}
+{"text": "第四 房产 策划 年会 举行", "cluster": 3}
+{"text": "市场 环境 区域 楼市", "cluster": 3}
+{"text": "北京 商品 住宅 成交", "cluster": 3}
+{"text": "视角 论坛 健康 地产", "cluster": 3}
+{"text": "美国 房产 推介 火热 报名", "cluster": 3}
+{"text": "寻找 京城", "cluster": 3}
+{"text": "新浪 北京 创新 峰会 12月 15日 开幕", "cluster": 3}
+{"text": "季度 下降 城市", "cluster": 3}
+{"text": "搜狐 购房 平台 中国 地产 论坛", "cluster": 3}
+{"text": "全国 开工 住宅 30 消化", "cluster": 3}
+{"text": "中国 面临 第一 调整", "cluster": 3}
+{"text": "建部 保障 开工", "cluster": 3}
+{"text": "北京 商品房 销售 面积 十年 最低", "cluster": 3}
+{"text": "中央 经济 工作 会议 坚持 调控 动摇", "cluster": 3}
+{"text": "调查 显示 我国 城市 家庭 平均", "cluster": 3}
+{"text": "2011 微笑 天使 全国 决赛", "cluster": 3}
+{"text": "降价 优惠 排行 最高 33", "cluster": 3}
+{"text": "房产 信托 面临 兑付 压力", "cluster": 3}
+{"text": "新浪 评选 楼市 年度 关键词", "cluster": 3}
+{"text": "人民 大学 地区", "cluster": 3}
+{"text": "万科 部分 降幅 20%", "cluster": 3}
+{"text": "明年 楼市 进入 调控 关键", "cluster": 3}
+{"text": "北京 建委 表态 物业 成立 市场", "cluster": 3}
+{"text": "时期 地产 中介 房价", "cluster": 3}
+{"text": "北京 建委 业主 物业 名单", "cluster": 3}
+{"text": "房产 信托 产品 冬天", "cluster": 3}
+{"text": "2011 中国 交会 12月 深圳 启幕", "cluster": 3}
+{"text": "住宅 成交 1.4%", "cluster": 3}
+{"text": "房价 拐点 地产 行业", "cluster": 3}
+{"text": "2011 新浪 北京 创新 峰会 成功 举行", "cluster": 3}
+{"text": "周报 上周 北京 商品 住宅", "cluster": 3}
+{"text": "2011年 房地产 新闻 人物 评选 结果 揭晓", "cluster": 3}
+{"text": "人民日报 控制 投资 购房 需求", "cluster": 3}
+{"text": "解读 中央 经济 会议 坚持 楼市 调控 回归", "cluster": 3}
+{"text": "最新 上海 介入", "cluster": 3}
+{"text": "11月 全国 城市 新房 涨价", "cluster": 3}
+{"text": "第二 限价 房价 质疑", "cluster": 3}
+{"text": "搜狐 高尔夫 巡回赛 香港 决赛", "cluster": 3}
+{"text": "北京 创新 峰会 年度 大奖 物业", "cluster": 3}
+{"text": "财政部 房产 地方 财政 来源", "cluster": 3}
+{"text": "英国 12月 房价 同比 下降", "cluster": 3}
+{"text": "上周 城市 楼市 成交量 同比 下跌", "cluster": 3}
+{"text": "北京 建委 研究 涨价 事宜", "cluster": 3}
+{"text": "上周 北京 房地产 市场 低位", "cluster": 3}
+{"text": "近期 出台 措施 房价 回归", "cluster": 3}
+{"text": "房产 全国 尚未", "cluster": 3}
+{"text": "否认 明年 取消 限价", "cluster": 3}
+{"text": "我国 租房 面临 公积金 困境", "cluster": 3}
+{"text": "2011 房地产 年度 评选", "cluster": 3}
+{"text": "中国 旅游 地产 投资 置业 黄金", "cluster": 3}
+{"text": "房地产 市场 涨跌 降价", "cluster": 3}
+{"text": "第八 香港 地产 即将 召开", "cluster": 3}
+{"text": "17 热门 楼盘 PK", "cluster": 3}
+{"text": "楼市 价格 整体 下行 趋势", "cluster": 3}
+{"text": "10月 全国 保障 计划", "cluster": 3}
+{"text": "10月 热点 城市 住宅 成交", "cluster": 3}
+{"text": "北京 微笑 天使 决赛 记录", "cluster": 3}
+{"text": "北京 买房 美国 置业", "cluster": 3}
+{"text": "摄影 网络 投票 冲刺", "cluster": 3}
+{"text": "全国 住宅 销售 连续 下降", "cluster": 3}
+{"text": "北京 上海 调查 75%", "cluster": 3}
+{"text": "人民日报 如何 看待 房价 走势", "cluster": 3}
+{"text": "2011 搜狐 高尔夫 名人 全国 巡回赛 香港 决赛", "cluster": 3}
+{"text": "万科 楼盘 缩水 业主", "cluster": 3}
+{"text": "11月 资金 加速 楼市", "cluster": 3}
+{"text": "全球 土地 开发 25 中国 23", "cluster": 3}
+{"text": "折扣 报名 逼近", "cluster": 3}
+{"text": "搜狐 焦点 租房 论坛 抢先", "cluster": 3}
+{"text": "2011 影响 房地产 人物 盘点", "cluster": 3}
+{"text": "9月 住宅 指数 下跌 城市 降幅 扩大", "cluster": 3}
+{"text": "统计 10月 以来 成交 低于 200", "cluster": 3}
+{"text": "北京 通州 楼盘 降价 50%", "cluster": 3}
+{"text": "重点 城市 土地 贷款", "cluster": 3}
+{"text": "海外 地产 投资 国内", "cluster": 3}
+{"text": "2010年 违法 行为 同比 下降", "cluster": 3}
+{"text": "2011 北京 新浪 创新 峰会", "cluster": 3}
+{"text": "北京市 明年 重点 调研 保障 管理", "cluster": 3}
+{"text": "中国 美丽 100 楼盘 发布", "cluster": 3}
+{"text": "调控 房价 下行 趋势 明显", "cluster": 3}
+{"text": "30 城市 房价 目标 达成", "cluster": 3}
+{"text": "美国 投资 峰会 火热 报名", "cluster": 3}
+{"text": "北京 11月 新房 成交量 新低", "cluster": 3}
+{"text": "专题 北京 上调 二手 交易 最低 计税", "cluster": 3}
+{"text": "上周 城市 房产 成交量 同比", "cluster": 3}
+{"text": "信贷 万科 11月 销售 面积 金额", "cluster": 3}
+{"text": "楼市 调控 目标", "cluster": 3}
+{"text": "2011 第八 香港 地产 12月 9日 即将 盛大 召开", "cluster": 3}
+{"text": "房价 市场 商品房 定价 模式", "cluster": 3}
+{"text": "周报 北京 租赁 市场 进入", "cluster": 3}
+{"text": "发现 中国 美丽 100 楼盘", "cluster": 3}
+{"text": "2011 中国 CEO 高峰 论坛 举办", "cluster": 3}
+{"text": "普通 住房 标准 调整", "cluster": 3}
+{"text": "70 90 购房 故事", "cluster": 3}
+{"text": "买房 降价 补偿 差价 蔓延 全国", "cluster": 3}
+{"text": "10年 投资 选择 房产 最佳 投资", "cluster": 3}
+{"text": "央行 公开 房价 拐点", "cluster": 3}
+{"text": "建部 地方 政府 楼市 到期 延续", "cluster": 3}
+{"text": "地方 政府 楼市 调控 政策 政策", "cluster": 3}
+{"text": "李克强 坚持 实施 房价 上涨 政策", "cluster": 3}
+{"text": "城市 发展 排行榜 发布", "cluster": 3}
+{"text": "独家 策划 2011年 房地产 新闻 评选", "cluster": 3}
+{"text": "建部 购房 家庭 贷款 需求", "cluster": 3}
+{"text": "2012 中国 视角 论坛 寻找 增长", "cluster": 3}
+{"text": "中国 房地产 企业 大会 召开", "cluster": 3}
+{"text": "2011 中国 房产 年终 盘点", "cluster": 3}
+{"text": "明年 北京 措施 房价 回归", "cluster": 3}
+{"text": "住房 收入 决定", "cluster": 3}
+{"text": "2012 视角 系列 论坛 市场", "cluster": 3}
+{"text": "北京 建委 近期 调整 普通 住宅 标准", "cluster": 3}
+{"text": "央行 住房 公积金 货币 统计 范围", "cluster": 3}
+{"text": "北京 11月 入市 13 签约", "cluster": 3}
+{"text": "上海 地方 首发 资金 保障", "cluster": 3}
+{"text": "楼盘 最新 销量 排行 曝光", "cluster": 3}
+{"text": "人民 大学 报告 房地产 政策 明年", "cluster": 3}
+{"text": "70 房价 下降 范围 继续 扩大", "cluster": 3}
+{"text": "楼市 近期 覆盖 30 城市", "cluster": 3}
+{"text": "土地 改革 释放 信号", "cluster": 3}
+{"text": "季度 地产 新增 贷款 增长", "cluster": 3}
+{"text": "北京 取消 限价 商品房 条件 出让", "cluster": 3}
+{"text": "北京 官员 住房 投资 情况", "cluster": 3}
+{"text": "中国 投资 持续 低迷", "cluster": 3}
+{"text": "房价 下降 带来 问题 市场", "cluster": 3}
+{"text": "上周 北京 楼市 降幅 加大", "cluster": 3}
+{"text": "人大 报告 预测 房价 20%", "cluster": 3}
+{"text": "房价 回落 银行 体系 稳定", "cluster": 3}
+{"text": "直播 价格 指数 楼盘 研究 成果", "cluster": 3}
+{"text": "建委 北京 明确 表态 延续 政策", "cluster": 3}
+{"text": "2011 新浪 北京 创新 峰会", "cluster": 3}
+{"text": "专家 解读 房价 回归", "cluster": 3}
+{"text": "北京 2012年 完成 集体 土地", "cluster": 3}
+{"text": "11月 销售 继续", "cluster": 3}
+{"text": "北京 扩大 普通 住宅 范围", "cluster": 3}
+{"text": "北京 12月 10日 上调 二手 交易 最低 计税", "cluster": 3}
+{"text": "2011 中国 交会 12月 启幕", "cluster": 3}
+{"text": "李克强 保障 建设", "cluster": 3}
+{"text": "北京 普通 商品房 标准 放宽", "cluster": 3}
+{"text": "业主 论坛 购房 大赛", "cluster": 3}
+{"text": "12月 308 打折 17 项目 降价", "cluster": 3}
+{"text": "搜狐 焦点 2012 地产 视角 火热 进行", "cluster": 3}
+{"text": "CPI 连续 回落 涨幅 跌破 5%", "cluster": 3}
+{"text": "消化 目前 库存 需要 两年", "cluster": 3}
+{"text": "人民日报 房地产 调控 关键 时期", "cluster": 3}
+{"text": "开发商 11月 销售 集体", "cluster": 3}
+{"text": "全国 商品房 销售 10亿 高位", "cluster": 3}
+{"text": "调查 显示 网友 定价 买房", "cluster": 3}
+{"text": "全国 30 楼盘 降价 差价", "cluster": 3}
+{"text": "独家 策划 11月 北京 楼市 销售 排行榜", "cluster": 3}
+{"text": "中介 真实 生存 状况 调查", "cluster": 3}
+{"text": "复出 成立 房产 公司", "cluster": 3}
+{"text": "北京 进入 房屋 租赁 成交", "cluster": 3}
+{"text": "北京市 建委 有望", "cluster": 3}
+{"text": "10月 北京 商品 住宅 销量", "cluster": 3}
+{"text": "央行 专家 我国 房价 5年", "cluster": 3}
+{"text": "城市 楼市 成交量 同比 下跌", "cluster": 3}
+{"text": "10月 北京 楼市 销售 排行榜", "cluster": 3}
+{"text": "深圳 价格 接近 区域 商品房 价格", "cluster": 3}
+{"text": "中央 经济 工作 展望 楼市 政策", "cluster": 3}
+{"text": "全国 房地产 开发 指数 跌破 100 大关", "cluster": 3}
+{"text": "2012年 楼市 五大 猜想 楼市 降价", "cluster": 3}
+{"text": "全国 30 楼盘 承诺 降价 补偿", "cluster": 3}
+{"text": "房屋 交易 最低 计税", "cluster": 3}
+{"text": "中国 房地产 市场 下行 衰退", "cluster": 3}
+{"text": "楼盘 开发商 楼市 陷入 深度 竞争", "cluster": 3}
+{"text": "证监会 2.1 住房 公积金 投资", "cluster": 3}
+{"text": "第五 中国 购房 大会 今日 开幕", "cluster": 3}
+{"text": "发展 改革 实施 十二五 住房 保障 规划", "cluster": 3}
+{"text": "楼市 观察 警惕 大型 未来 房地产 市场", "cluster": 3}
+{"text": "探访 京城 房价 成交", "cluster": 3}
+{"text": "100 城市 房价 连续 两月 下降", "cluster": 3}
+{"text": "商业 地产 未来 黄金 十年", "cluster": 3}
+{"text": "集团 通过 新浪 传闻", "cluster": 3}
+{"text": "12月 4日 开盘 优惠", "cluster": 3}
+{"text": "北京 11月 楼盘 打折", "cluster": 3}
+{"text": "武汉 放宽 普通 住房 标准", "cluster": 3}
+{"text": "机构 预计 11月 CPI 跌破 5%", "cluster": 3}
+{"text": "未来 两年 楼市 政策 稳定", "cluster": 3}
+{"text": "城市 住宅 价格 指数 下降", "cluster": 3}
+{"text": "房价 涨幅 城市 可能 加码", "cluster": 3}
+{"text": "上周 北京 楼市 价格 下降", "cluster": 3}
+{"text": "下滑 城市", "cluster": 3}
+{"text": "12月 308 优惠 最高 70", "cluster": 3}
+{"text": "目前 房价 回落 市场 作用 结果", "cluster": 3}
+{"text": "保障 开工 背后 千亿 资金 考验", "cluster": 3}
+{"text": "财政部 扩大 房产 试点 范围", "cluster": 3}
+{"text": "房价 调研 报告 开发商 降价 20%", "cluster": 3}
+{"text": "建部 必须 购房 家庭 贷款 需求", "cluster": 3}
+{"text": "租房 需要 集体 面试", "cluster": 3}
+{"text": "建部 继续 地方 政府 房价 调控", "cluster": 3}
+{"text": "地方 债务 全国 一年 财政 收入", "cluster": 3}
+{"text": "明年 开工 保障 释放 哪些 信号", "cluster": 3}
+{"text": "明年 需要 基本 500 以上 保障", "cluster": 3}
+{"text": "中国 收购 21 世纪", "cluster": 3}
+{"text": "房价 拐点 已经 基本 出现", "cluster": 3}
+{"text": "上海 楼盘 成交 低迷", "cluster": 3}
+{"text": "新浪 独家 策划 预言 2012", "cluster": 3}
+{"text": "全国 20 承诺 降价 差价", "cluster": 3}
+{"text": "央行 3年 下调", "cluster": 3}
+{"text": "海外 投资 美国 置业 讲座", "cluster": 3}
+{"text": "12月 308 打折 最高 70", "cluster": 3}
+{"text": "地方 政府 能否 承受 房产 改革", "cluster": 3}
+{"text": "全国 房地产 开发 指数 两年 100 大关", "cluster": 3}
+{"text": "北京 楼市 库存 突破 13", "cluster": 3}
+{"text": "房价 下跌 地方 政府 承受", "cluster": 3}
+{"text": "经济 专家 政策 放宽", "cluster": 3}
+{"text": "中央 明年 楼市 调控 重大", "cluster": 3}
+{"text": "2011年 房地产 新闻 评选 结果 揭晓", "cluster": 3}
+{"text": "房价 回落 市场 作用", "cluster": 3}
+{"text": "政府 财政 补贴", "cluster": 3}
+{"text": "全国 20 楼盘 承诺 降价 差价", "cluster": 3}
+{"text": "建部 官员 房产 持续 20年", "cluster": 3}
+{"text": "季度 支付 体系 情况 数量 增长", "cluster": 3}
+{"text": "报告 5年 土地 违规 违法", "cluster": 3}
+{"text": "北京 区域 13 楼盘 推荐", "cluster": 3}
+{"text": "未来 北京 房地产 市场 趋势 研讨会 10月 27日 举办", "cluster": 3}
+{"text": "北京 11月 项目 入市", "cluster": 3}
+{"text": "11月 海外 美国 火热 报名", "cluster": 3}
+{"text": "万科 总裁 中国 楼市 告别 时代", "cluster": 3}
+{"text": "建部 保障 试点 住宅 办法", "cluster": 3}
+{"text": "微笑 天使 全国 10 出炉", "cluster": 3}
+{"text": "北京 11 新房 销售 新低", "cluster": 3}
+{"text": "16 上市 公司 低调 楼市", "cluster": 3}
+{"text": "12月 京城 308 打折", "cluster": 3}
+{"text": "11月 北京市 新增 保障 住房 开发 贷款", "cluster": 3}
+{"text": "6亿 补偿 业主 市场", "cluster": 3}
+{"text": "搜狐 高尔夫 名人 全国 巡回赛 香港 决赛", "cluster": 3}
+{"text": "建部 住房 信息 系统 不再", "cluster": 3}
+{"text": "房价 下降 地下 开发商 再次", "cluster": 3}
+{"text": "周报 10月 北京 土地 出让", "cluster": 3}
+{"text": "地产 总裁 保障 政府", "cluster": 3}
+{"text": "2011 中国 美丽 100 楼盘", "cluster": 3}
+{"text": "关注 通州 楼市", "cluster": 3}
+{"text": "京城 调查 银行 标准", "cluster": 3}
+{"text": "北京 租房 12月 1日 申请", "cluster": 3}
+{"text": "北京 创新 峰会 年度 大奖 大盘", "cluster": 3}
+{"text": "2012 调控 主要 手段", "cluster": 3}
+{"text": "中国 政府 介入", "cluster": 3}
+{"text": "机构 预测 2012年 全国 房价 平均 降幅 达到", "cluster": 3}
+{"text": "降价 排行 33", "cluster": 3}
+{"text": "报告 房价 下跌 趋势 形成", "cluster": 3}
+{"text": "年终 策划 全国 房价 调查", "cluster": 3}
+{"text": "中央 政策 我国 经济 出现", "cluster": 3}
+{"text": "武汉 保障 严重 质量 问题", "cluster": 3}
+{"text": "中央 坚持 房地产 调控 动摇", "cluster": 3}
+{"text": "11月 CPI 涨幅 14 新低", "cluster": 3}
+{"text": "北京 新建 商品房 成交 以来 下降", "cluster": 3}
+{"text": "北京 房价 调控 目标 有望 顺利 实现", "cluster": 3}
+{"text": "北京 房屋 买卖 土地 出让 实施 价格", "cluster": 3}
+{"text": "房地产 信托 面临 兑付 危机", "cluster": 3}
+{"text": "上周 北京 新建 住宅 成交", "cluster": 3}
+{"text": "英国 女王 决定 期间 3千 英镑", "cluster": 3}
+{"text": "北京 规定 人员 条件 申请 租房", "cluster": 3}
+{"text": "新房 库存 突破 12 大关", "cluster": 3}
+{"text": "香港 未来 20年 开发 土地", "cluster": 3}
+{"text": "上周 降价 盘点 最高 20", "cluster": 3}
+{"text": "地产 土地 市场 上演 年度", "cluster": 3}
+{"text": "机构 预计 明年 3月 房价 进入 同比 下降", "cluster": 3}
+{"text": "各国 女性 调查 女人 买房", "cluster": 3}
+{"text": "专家 房价 调控 短期 可能", "cluster": 3}
+{"text": "加快 全国 个人 住房 信息 工作", "cluster": 3}
+{"text": "揭秘 民间 市场 贷款 利率 5%", "cluster": 3}
+{"text": "机构 预测 11月 CPI 下行", "cluster": 3}
+{"text": "万科 14 城市 10亿", "cluster": 3}
+{"text": "数据 显示 搜狐 焦点 国内 房产 第一", "cluster": 3}
+{"text": "视角 系列 论坛 市场 发展", "cluster": 3}
+{"text": "独家 地产 三十 论坛 集团", "cluster": 3}
+{"text": "北京 12月 预计 30 入市", "cluster": 3}
+{"text": "城市 住宅 出让", "cluster": 3}
+{"text": "总部 经济 高峰 对话 开幕", "cluster": 3}
+{"text": "万科 销售 面积 10月 继续 缩水", "cluster": 3}
+{"text": "北京 10月 地产 项目 资金", "cluster": 3}
+{"text": "央行 继续 实施 货币 政策", "cluster": 3}
+{"text": "股份 公布 股份 结构 变动 公告", "cluster": 4}
+{"text": "关于 提前 事宜 第七 公告", "cluster": 4}
+{"text": "四川 公司 债券 付息 公告", "cluster": 4}
+{"text": "证券 今日 发行", "cluster": 4}
+{"text": "财政部 11 国债 13", "cluster": 4}
+{"text": "人民币 发展 加速", "cluster": 4}
+{"text": "今年 第三 凭证式 国债 10日 发行", "cluster": 4}
+{"text": "中央 国债 公司", "cluster": 4}
+{"text": "财政部 发行 200亿 人民币 国债", "cluster": 4}
+{"text": "国债 市场 震荡 上扬", "cluster": 4}
+{"text": "季度 国债 发行 怎么", "cluster": 4}
+{"text": "财政部 发行 2011年 储蓄 国债", "cluster": 4}
+{"text": "摩根 大量 买入 巴西 国债", "cluster": 4}
+{"text": "意大利 拍卖 国债 超额 认购", "cluster": 4}
+{"text": "纽约 表示 美联储 周五 美元 国债", "cluster": 4}
+{"text": "德国 国债 期货 扩大 跌幅", "cluster": 4}
+{"text": "意大利 国债 发售 交易 成本 历史 新高", "cluster": 4}
+{"text": "11 国债 22 26日 上市 交易", "cluster": 4}
+{"text": "关于 支付 2010年 记账式 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "南京 银行 近期 涨幅 国债", "cluster": 4}
+{"text": "大幅 美国 国债 美元", "cluster": 4}
+{"text": "国债 18 21日 终止 上市", "cluster": 4}
+{"text": "五年 国债 中标 利率 低迷", "cluster": 4}
+{"text": "关于 支付 2010年 记账式 十二 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "关于 2011年 地方 政府 债券 上市 交易 通知", "cluster": 4}
+{"text": "债券 交易 流通 要素 公告 11 地方", "cluster": 4}
+{"text": "关于 支付 2008年 记账式 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "关于 2011年 记账式 二十二 国债 上市 交易 通知", "cluster": 4}
+{"text": "债券 交易 流通 要素 公告 11 国债 22", "cluster": 4}
+{"text": "关于 支付 2009年 记账式 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "美联储 周四 购买 美元 美国 国债", "cluster": 4}
+{"text": "交易员 欧洲 央行 大量 意大利 短期 国债", "cluster": 4}
+{"text": "法国 国债 德国 国债 收益率 高位", "cluster": 4}
+{"text": "意大利 国债 引发 市场 避险 抛售", "cluster": 4}
+{"text": "关于 2011年 记账式 贴现 二期 国债 到期 兑付 有关 事项 通知", "cluster": 4}
+{"text": "财政部 周三 发行 280亿 记账式 国债", "cluster": 4}
+{"text": "10 国债 36 9日 终止 上市", "cluster": 4}
+{"text": "第四 凭证式 国债 10日 发售", "cluster": 4}
+{"text": "200亿 人民币 国债 超额 认购", "cluster": 4}
+{"text": "200亿 国债 部分 申请", "cluster": 4}
+{"text": "今年 凭证式 国债 19 银行 发售", "cluster": 4}
+{"text": "财政部 发行 200亿 人民币 国债 8月 17日", "cluster": 4}
+{"text": "凭证式 国债 银行", "cluster": 4}
+{"text": "财政部 推介 人民币 国债 发行", "cluster": 4}
+{"text": "财政部 举行 人民币 国债 发行 推介", "cluster": 4}
+{"text": "财政部 今年 第三 凭证式 国债", "cluster": 4}
+{"text": "评级 下调 垃圾 匈牙利 今日 国债 拍卖 面临 考验", "cluster": 4}
+{"text": "德国 国债 下跌 年末 避险", "cluster": 4}
+{"text": "交易商 央行 买入 意大利 国债", "cluster": 4}
+{"text": "希腊 拍卖 欧元 期限 13 国债 收益率 认购 倍率", "cluster": 4}
+{"text": "西班牙 拍卖 欧元 国债 最高 收益率", "cluster": 4}
+{"text": "10年 收益率 投资者 五年 国债", "cluster": 4}
+{"text": "美国 机构 利差 走势", "cluster": 4}
+{"text": "中国 大幅 美国 国债 背后", "cluster": 4}
+{"text": "个人 投资 国债", "cluster": 4}
+{"text": "消息 警告 国债 威胁 AAA 评级", "cluster": 4}
+{"text": "美国 国债 周三 价格 下跌", "cluster": 4}
+{"text": "国债 发行 30年 期待", "cluster": 4}
+{"text": "新华 国际 ：日 中国 国债", "cluster": 4}
+{"text": "：日 购买 中国 国债 选择", "cluster": 4}
+{"text": "美联储 周二 购买 美元 美国 国债", "cluster": 4}
+{"text": "美国 国债 价格 周二 收盘 下跌", "cluster": 4}
+{"text": "西班牙 成功 发行 短期 国债", "cluster": 4}
+{"text": "2011年 记账式 二十五 国债 上市 交易", "cluster": 4}
+{"text": "2011年 记账式 二十五 国债 上市", "cluster": 4}
+{"text": "支付 2006年 记账式 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "2011年 记账式 二十五 国债 上市 交易 通知", "cluster": 4}
+{"text": "支付 2007年 记账式 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "支付 2011年 记账式 国债 利息 通知", "cluster": 4}
+{"text": "支付 2008年 记账式 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "支付 2010年 记账式 十八 国债 利息 通知", "cluster": 4}
+{"text": "支付 09年 记账式 十二 国债 利息 通知", "cluster": 4}
+{"text": "支付 09年 记账式 国债 利息 通知", "cluster": 4}
+{"text": "支付 2010年 记账式 国债 利息 通知", "cluster": 4}
+{"text": "2011年 记账式 二十一 国债 上市", "cluster": 4}
+{"text": "公司 央行 联手 直接 国债 利率 上升", "cluster": 4}
+{"text": "债券 交易 流通 要素 公告 11 浙江 02", "cluster": 4}
+{"text": "央行 英国 银行业 持有 英镑 希腊 葡萄牙 意大利 西班牙 爱尔兰 国债", "cluster": 4}
+{"text": "交易员 表示 央行 市场 意大利 国债 价格", "cluster": 4}
+{"text": "日本 财务 大臣 2012 财年 开始 国债", "cluster": 4}
+{"text": "意大利 5年 国债 收益率 上升 基点", "cluster": 4}
+{"text": "日本 10年 国债 收益率 9月 以来 最高", "cluster": 4}
+{"text": "考虑 经济 状况 进一步 购买 国债 政策", "cluster": 4}
+{"text": "财政部 12月 招标 发行 280亿 国债", "cluster": 4}
+{"text": "法国 成功 拍卖 欧元 国债", "cluster": 4}
+{"text": "西班牙 成功 拍卖 欧元 短期 国债", "cluster": 4}
+{"text": "第二 储蓄 国债 承销 资格 审批 申请 情况 公布", "cluster": 4}
+{"text": "2011年 记账式 二十四 国债 上市", "cluster": 4}
+{"text": "2011年 记账式 二十四 国债 上市 交易", "cluster": 4}
+{"text": "支付 09年 记账式 三十 国债 利息 通知", "cluster": 4}
+{"text": "2004年 国债 到期 兑付 有关 事项 通知", "cluster": 4}
+{"text": "2004年 记账式 国债 终止 上市 兑付 事项 通知", "cluster": 4}
+{"text": "2011年 记账式 二十三 国债 上市", "cluster": 4}
+{"text": "支付 2011年 记账式 十二 国债 利息 通知", "cluster": 4}
+{"text": "支付 记账式 二十三 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "支付 2007年 记账式 十八 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "西班牙 拍卖 欧元 4月 到期 国债 最高 收益率", "cluster": 4}
+{"text": "德国 部分 短期 国债 收益率", "cluster": 4}
+{"text": "意大利 2年 国债 收益率 上升 16 基点", "cluster": 4}
+{"text": "中国 即将 发行 280亿 国债", "cluster": 4}
+{"text": "地方 国债 利率 现象 持续", "cluster": 4}
+{"text": "地方 利率 国债", "cluster": 4}
+{"text": "市场 期待 央行 大举 购买 国债", "cluster": 4}
+{"text": "对冲 基金 抛售 欧元 国债", "cluster": 4}
+{"text": "关于 支付 2008年 记账式 二十五 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "财政部 关于 2011年 记账式 二十五 国债 发行 工作 有关 事宜 通知", "cluster": 4}
+{"text": "关于 深圳市 2011年 政府 债券 上市 交易 通知", "cluster": 4}
+{"text": "关于 深圳市 2011年 政府 债券 二期 上市 交易 通知", "cluster": 4}
+{"text": "债券 交易 流通 要素 公告 11 国债 21 续发", "cluster": 4}
+{"text": "西班牙 财政部 17日 超过 7% 收益率 十年 国债 该国 风险 逼近 500 基点 大关", "cluster": 4}
+{"text": "意大利 政府 可以 国债 收益率 保持 水平", "cluster": 4}
+{"text": "英国 成功 拍卖 国债 政府 避险", "cluster": 4}
+{"text": "法国 成功 拍卖 70亿 欧元 国债 收益率 国家 明显 优势", "cluster": 4}
+{"text": "西班牙 11月 20日 大选 今日 国债 拍卖 考验", "cluster": 4}
+{"text": "欧盟 德国 债务 水平 值得", "cluster": 4}
+{"text": "消息 央行 市场 购买 意大利 国债", "cluster": 4}
+{"text": "葡萄牙 周三 进行 规模 欧元 短期 国债", "cluster": 4}
+{"text": "通过 购买 国债 可以 达到 通过 购买", "cluster": 4}
+{"text": "英国 10年 国债 收益率 纪录", "cluster": 4}
+{"text": "欧洲 央行 购买 成员 国债 引爆", "cluster": 4}
+{"text": "西班牙 国债 收益率 大幅 飙升", "cluster": 4}
+{"text": "西班牙 国债 收益率 突破 7%", "cluster": 4}
+{"text": "外国 投资者 9月 美国 国债", "cluster": 4}
+{"text": "地方 利率 低于 国债", "cluster": 4}
+{"text": "中国 9月 美国 国债 美元", "cluster": 4}
+{"text": "财政部 23日 11 国债 21", "cluster": 4}
+{"text": "关于 2011年 上海市 政府 债券 上市 交易 通知", "cluster": 4}
+{"text": "关于 2011年 上海市 政府 债券 二期 上市 交易 通知", "cluster": 4}
+{"text": "关于 支付 2009年 记账式 三十 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "关于 2004年 国债 到期 兑付 有关 事项 通知", "cluster": 4}
+{"text": "2011年 记账式 二十四 国债 招标 情况", "cluster": 4}
+{"text": "财政部 关于 发行 2011年 记账式 二十一 国债 有关 事宜 通知", "cluster": 4}
+{"text": "关于 2004年 记账式 国债 终止 上市 兑付 事项 通知", "cluster": 4}
+{"text": "关于 2011年 记账式 二十三 国债 上市 交易 通知", "cluster": 4}
+{"text": "债券 交易 流通 要素 公告 11 国债 23", "cluster": 4}
+{"text": "美国 国债 周二 价格 上涨", "cluster": 4}
+{"text": "11 国债 24 续发", "cluster": 4}
+{"text": "新闻 中国 10月 美元 日本 国债", "cluster": 4}
+{"text": "国债 指数 上涨 逼近 历史 高点", "cluster": 4}
+{"text": "债券 交易 流通 要素 公告 11 国债 25", "cluster": 4}
+{"text": "西班牙 国债 收益率 下降", "cluster": 4}
+{"text": "日本 10年 国债 收益率 再次", "cluster": 4}
+{"text": "意大利 国债 收益率 再度 逼近 7%", "cluster": 4}
+{"text": "西班牙 成功 拍卖 总额 欧元 12 18 国债", "cluster": 4}
+{"text": "意大利 财政部 预期 周三 意大利 德国 国债 收益率 大幅 扩大", "cluster": 4}
+{"text": "希腊 周二 拍卖 16.25亿 欧元 短期 国债", "cluster": 4}
+{"text": "希腊 拍卖 16.25亿 欧元 国债 收益率 上升 需求", "cluster": 4}
+{"text": "希腊 拍卖 短期 国债 认购 倍数", "cluster": 4}
+{"text": "希腊 拍卖 16.25亿 欧元 期限 26 国债 收益率 认购 倍率", "cluster": 4}
+{"text": "西班牙 拍卖 欧元 国债 计划 拍卖 欧元 国债", "cluster": 4}
+{"text": "西班牙 欧元 一年 国债 最高 收益率 认购 倍数", "cluster": 4}
+{"text": "西班牙 欧元 期限 18 国债 最高 收益率 认购 倍率", "cluster": 4}
+{"text": "西班牙 欧元 期限 12 国债 最高 收益率 认购 倍率", "cluster": 4}
+{"text": "法国 五年 国债 上升 基点 基点", "cluster": 4}
+{"text": "国债 收益率 继续 攀升 财政 协议 短期 危机", "cluster": 4}
+{"text": "西班牙 10年 国债 收益率 上涨 12 基点", "cluster": 4}
+{"text": "欧洲 意大利 国债 收益率 继续 上升", "cluster": 4}
+{"text": "10年 法国 德国 国债 收益 上升 基点", "cluster": 4}
+{"text": "10年 西班牙 德国 国债 收益 上升 11 基点", "cluster": 4}
+{"text": "10年 意大利 德国 国债 收益 上升 17 基点", "cluster": 4}
+{"text": "5年 意大利 德国 国债 收益 上升 12 基点", "cluster": 4}
+{"text": "2年 意大利 德国 国债 收益 上升 13 基点", "cluster": 4}
+{"text": "日本 国债 价格 周二 上涨 五年 需求 温和", "cluster": 4}
+{"text": "日本 10年 国债 收益率 上涨 基点", "cluster": 4}
+{"text": "澳大利亚 10年 国债 收益率 触及 50 低位", "cluster": 4}
+{"text": "收盘 避险 需求 上升 国债", "cluster": 4}
+{"text": "法国 拍卖 期限 13 欧元 国债 平均 收益率", "cluster": 4}
+{"text": "法国 拍卖 期限 26 欧元 国债 平均 收益率", "cluster": 4}
+{"text": "法国 拍卖 期限 欧元 国债 平均 收益率", "cluster": 4}
+{"text": "意大利 拍卖 70亿 欧元 国债 收益率 下降 需求 强劲", "cluster": 4}
+{"text": "5年 意大利 国债 收益率 上升 33 基点 7%", "cluster": 4}
+{"text": "意大利 拍卖 70亿 欧元 一年 国债 平均 收益率 回落", "cluster": 4}
+{"text": "交易商 央行 意大利 短期 国债", "cluster": 4}
+{"text": "意大利 德国 10年 国债 收益率 18 基点 基点", "cluster": 4}
+{"text": "2年 意大利 国债 收益率 上升 11 基点", "cluster": 4}
+{"text": "5年 意大利 国债 收益率 上升 基点", "cluster": 4}
+{"text": "日本 拍卖 亿日 短期 国债 平均 收益率 认购", "cluster": 4}
+{"text": "爱尔兰 总理 寻求 欧盟 达成 协议 该国 债务", "cluster": 4}
+{"text": "意大利 12月 14日 拍卖 欧元 2016年 9月 到期 国债", "cluster": 4}
+{"text": "财政部 关于 发行 2011年 记账式 二十四 国债 有关 事宜 通知", "cluster": 4}
+{"text": "交易商 央行 买入 意大利 短期 国债", "cluster": 4}
+{"text": "意大利 国债 收益率 持续 下滑 措施 经济 影响", "cluster": 4}
+{"text": "意大利 10年 国债 收益率 上涨 16 基点", "cluster": 4}
+{"text": "意大利 德国 10年 国债 收益率 基点", "cluster": 4}
+{"text": "日本 国债 价格 周五 上涨 市场 欧盟 峰会 希望", "cluster": 4}
+{"text": "日本 国内 评级 机构 下调 日本 国债 评级", "cluster": 4}
+{"text": "中国 80亿 国资", "cluster": 4}
+{"text": "啤酒 公司 债券 付息 公告", "cluster": 4}
+{"text": "新兴 市场 加速 失血 国债", "cluster": 4}
+{"text": "关于 支付 2011年 记账式 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "日本 宣布 购买 100亿 美元 中国 国债", "cluster": 4}
+{"text": "西班牙 成功 发行 欧元 短期 国债", "cluster": 4}
+{"text": "日本 百亿 美元 中国 国债", "cluster": 4}
+{"text": "日本 财务 大臣 讨论 购买 中国 国债", "cluster": 4}
+{"text": "收盘 西班牙 国债 拍卖 良好 下跌", "cluster": 4}
+{"text": "日本 财长 ：日 考虑 通过 持有 中国 国债 增强 关系", "cluster": 4}
+{"text": "日本 财长 考虑 通过 持有 中国 国债 增强 关系", "cluster": 4}
+{"text": "西班牙 国债 拍卖 收益率 大幅 回落", "cluster": 4}
+{"text": "意大利 10年 国债 收益率 下降 10 基点", "cluster": 4}
+{"text": "西班牙 周二 拍卖 短期 国债", "cluster": 4}
+{"text": "日本 购买 100亿 美元 中国 国债", "cluster": 4}
+{"text": "10年 意大利 国债 收益率 维持", "cluster": 4}
+{"text": "2年 意大利 国债 收益率 上升 14 基点", "cluster": 4}
+{"text": "日本 中国 谈判 购买 中国 国债", "cluster": 4}
+{"text": "日本 政府 购买 100亿 美元 中国 国债", "cluster": 4}
+{"text": "：日 讨论 购买 中国 国债", "cluster": 4}
+{"text": "购买 中国 国债 加强 经济", "cluster": 4}
+{"text": "日本 财务 大臣 ：日 讨论 购买 中国 国债", "cluster": 4}
+{"text": "尚未 购买 中国 国债 正式 决定", "cluster": 4}
+{"text": "日本 购买 百亿 美元 中国 国债", "cluster": 4}
+{"text": "日本 媒体 购买 规模 100亿 美元 中国 国债", "cluster": 4}
+{"text": "美国 长期 国债 价格 周一 上涨 短期 国债 表现", "cluster": 4}
+{"text": "法国 拍卖 70亿 欧元 短期 国债 收益率 明显 下降", "cluster": 4}
+{"text": "法国 拍卖 期限 12 欧元 国债 平均 收益率", "cluster": 4}
+{"text": "法国 拍卖 期限 25 欧元 国债 平均 收益率", "cluster": 4}
+{"text": "法国 拍卖 期限 47 国债 平均 收益率", "cluster": 4}
+{"text": "日本 财务 官员 财年 国债 发行 总额 亿日", "cluster": 4}
+{"text": "10年 意大利 国债 收益率 上升 基点", "cluster": 4}
+{"text": "2年 意大利 国债 收益率 上升 12 基点", "cluster": 4}
+{"text": "日本 政府 国债 价格 周一", "cluster": 4}
+{"text": "意大利 11月 25日 发售 80亿 欧元 国债", "cluster": 4}
+{"text": "意大利 央行 总理 7% 国债 收益率 达到", "cluster": 4}
+{"text": "交易员 表示 央行 意大利 国债", "cluster": 4}
+{"text": "央行 上周 购买 欧元 国债", "cluster": 4}
+{"text": "法国 债务 机构 法国 融资 成本 依然 低位", "cluster": 4}
+{"text": "国债 收益率 经济 前景 法国 评级", "cluster": 4}
+{"text": "西班牙 财政部 发行 30亿 欧元 品种 短期 国债", "cluster": 4}
+{"text": "日本 10年 国债 价格 下跌", "cluster": 4}
+{"text": "证券 国债 收益率 上行 风险", "cluster": 4}
+{"text": "荷兰 成功 拍卖 短期 国债", "cluster": 4}
+{"text": "欧洲 国债 市场 遭遇", "cluster": 4}
+{"text": "11 国债 24 23日 上市 交易", "cluster": 4}
+{"text": "资金 价格 整体 继续 上行", "cluster": 4}
+{"text": "债券 交易 流通 要素 公告 11 上海 02", "cluster": 4}
+{"text": "债券 交易 流通 要素 公告 11 上海 01", "cluster": 4}
+{"text": "债券 交易 流通 要素 公告 11 国债 24", "cluster": 4}
+{"text": "关于 2011年 记账式 二十四 国债 上市 交易 通知", "cluster": 4}
+{"text": "关于 发行 深圳市 2011年 政府 债券 有关 事宜 通知", "cluster": 4}
+{"text": "关于 发行 深圳市 2011年 政府 债券 二期 有关 事宜 通知", "cluster": 4}
+{"text": "2011 浙江 债券 发行 招标 结果 公告 二期", "cluster": 4}
+{"text": "2011 浙江 债券 发行 招标 结果 公告", "cluster": 4}
+{"text": "西班牙 第三 季度 成功 国债 增长", "cluster": 4}
+{"text": "希腊 12月 20日 拍卖 期限 13 10亿 欧元 国债", "cluster": 4}
+{"text": "央行 央行 购买 国债 规模 时间 期限 限制", "cluster": 4}
+{"text": "西班牙 周四 拍卖 国债 倍数 关注 收益率 意大利 2%", "cluster": 4}
+{"text": "德国 国债 开盘 上扬 年末 避险 推动", "cluster": 4}
+{"text": "美国 财政 30年 国债 利率 超额 认购", "cluster": 4}
+{"text": "意大利 五年 国债 收益率 上升 基点", "cluster": 4}
+{"text": "美联储 周五 购买 美元 美国 国债", "cluster": 4}
+{"text": "德国 30年 国债 收益率 历史", "cluster": 4}
+{"text": "12月 14日 外国 央行 美国 国债", "cluster": 4}
+{"text": "今年 10 外国 持有 美国 国债 减少", "cluster": 4}
+{"text": "西班牙 成功 拍卖 60亿 欧元 国债", "cluster": 4}
+{"text": "5年 国债 拍卖 收益率 历史 新高", "cluster": 4}
+{"text": "美国 债务 GDP 逼近 大关 以来", "cluster": 4}
+{"text": "日本 政府 国债 收益率 周二 小幅 上涨", "cluster": 4}
+{"text": "日本 期限 国债 走势 投资者 调整", "cluster": 4}
+{"text": "今年 企业 债务 融资 突破", "cluster": 4}
+{"text": "上海 企业 增加 保障 建设 资金", "cluster": 4}
+{"text": "浙江 今年 发行 企业 债券 200", "cluster": 4}
+{"text": "北京 国资 中心 招标 发行 100亿 企业", "cluster": 4}
+{"text": "2011年 江西省 投资 企业 债券 上市 公告", "cluster": 4}
+{"text": "集团 发行 公司 证监会 通过", "cluster": 4}
+{"text": "地产 公布 2009年 公司 债券 付息 公告", "cluster": 4}
+{"text": "央行 表示 国债 计划 认购 不足 可能 继续 需要 关注", "cluster": 4}
+{"text": "购买 中国 国债 推动 达成 一致", "cluster": 4}
+{"text": "部门 发布 储蓄 国债 承销 成员 名单", "cluster": 4}
+{"text": "克服 债务 危机 购买 意大利 国债", "cluster": 4}
+{"text": "匈牙利 12 国债 吸引 资金 欧元", "cluster": 4}
+{"text": "消息 人士 ：日 计划 购买 中国 国债 加强 关系", "cluster": 4}
+{"text": "12月 21日 外国 央行 美国 国债", "cluster": 4}
+{"text": "：日 购买 中国 国债 值得", "cluster": 4}
+{"text": "美国 国债 价格 周四 涨跌", "cluster": 4}
+{"text": "我国 组建 储蓄 国债 承销", "cluster": 4}
+{"text": "财政部 11月 10日 发售 200亿 凭证式 国债", "cluster": 4}
+{"text": "最后 凭证式 国债 周四 发售", "cluster": 4}
+{"text": "比利时 拍卖 欧元 短期 国债", "cluster": 4}
+{"text": "成功 拍卖 欧元 长期 国债", "cluster": 4}
+{"text": "意大利 国债 收益率 欧元 以来 高位", "cluster": 4}
+{"text": "欧洲 央行 上周 欧元 国债", "cluster": 4}
+{"text": "意大利 国债 收益率 危险 水平", "cluster": 4}
+{"text": "美国 国债 价格 周一 上涨", "cluster": 4}
+{"text": "意大利 国债 收益率 历史 新高", "cluster": 4}
+{"text": "2011年 记账式 贴现 二期 国债 到期 兑付 通知", "cluster": 4}
+{"text": "2011年 记账式 贴现 二期 国债 终止 上市 通知", "cluster": 4}
+{"text": "2010年 记账式 三十六 国债 到期 兑付 通知", "cluster": 4}
+{"text": "2010年 记账式 三十六 国债 终止 上市 通知", "cluster": 4}
+{"text": "支付 2005年 记账式 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "支付 2005年 记账式 十二 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "支付 2010年 记账式 十二 国债 利息 通知", "cluster": 4}
+{"text": "2011年 记账式 二十二 国债 上市", "cluster": 4}
+{"text": "支付 记账式 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "2011年 记账式 二十二 国债 上市 交易 通知", "cluster": 4}
+{"text": "支付 2009年 记账式 国债 利息 通知", "cluster": 4}
+{"text": "季度 银行 债券 市场 国债 活跃", "cluster": 4}
+{"text": "美国 国债 周三 持续 上涨", "cluster": 4}
+{"text": "财政部 发行 200亿 凭证式 国债", "cluster": 4}
+{"text": "日本 10年 国债 收益率 跌破", "cluster": 4}
+{"text": "财政部 9日 发行 280亿 国债", "cluster": 4}
+{"text": "美联储 周二 美元 美国 国债", "cluster": 4}
+{"text": "2010年 记账式 三十六 国债 终止 上市", "cluster": 4}
+{"text": "支付 09年 记账式 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "2001年 记账式 十二 国债 27日 终止 上市 公告", "cluster": 4}
+{"text": "2011年 记账式 二十二 国债 26日 上市 交易", "cluster": 4}
+{"text": "2001年 记账式 十二 国债 到期 兑付 通知", "cluster": 4}
+{"text": "证券 11 国债 24 续发 定价 分析", "cluster": 4}
+{"text": "美联储 12月 外国 央行 美国 国债 机构", "cluster": 4}
+{"text": "美国 国债 周四 价格 上涨", "cluster": 4}
+{"text": "财政部 14日 发行 280亿 10年 国债", "cluster": 4}
+{"text": "中国 10月 大举 抛售 日本 国债", "cluster": 4}
+{"text": "央行 国际 市场 加拿大 国债 需求", "cluster": 4}
+{"text": "国债 收益率 上限 问题 讨论 问题", "cluster": 4}
+{"text": "10年 西班牙 国债 收益率 上升 基点", "cluster": 4}
+{"text": "10年 意大利 国债 收益率 下降 基点", "cluster": 4}
+{"text": "5年 意大利 国债 收益率 下降 基点", "cluster": 4}
+{"text": "德国 国债 关注 利率 欧盟 峰会", "cluster": 4}
+{"text": "日本 国债 上涨 市场 欧盟 峰会", "cluster": 4}
+{"text": "10月 中国 大举 抛售 日本 国债", "cluster": 4}
+{"text": "意大利 清算 机构 下调 意大利 国债 要求", "cluster": 4}
+{"text": "周三 大幅 上涨 国债 需求 强劲", "cluster": 4}
+{"text": "财政部 决定 发行 2011年 记账式 二十五 国债 280亿", "cluster": 4}
+{"text": "意大利 意大利 国债 收益率", "cluster": 4}
+{"text": "德国 顺利 拍卖 40.9亿 欧元 5年 国债", "cluster": 4}
+{"text": "葡萄牙 10亿 欧元 国债 利率 小幅 下降", "cluster": 4}
+{"text": "德国 40.9亿 欧元 五年 国债 市场 需求 良好", "cluster": 4}
+{"text": "德国 葡萄牙 成功 拍卖 国债 需求 良好", "cluster": 4}
+{"text": "葡萄牙 拍卖 期限 国债 收益率 认购 倍率 最近 拍卖 结果 一致", "cluster": 4}
+{"text": "德国 拍卖 40.9亿 欧元 五年 国债 收益率 认购 倍率 2.1", "cluster": 4}
+{"text": "德国 国债 拍卖 市场 德国 国债 信心", "cluster": 4}
+{"text": "8月 外国 持有 美国 国债 总额 上升", "cluster": 4}
+{"text": "债券 交易 流通 要素 公告 11 国债 21", "cluster": 4}
+{"text": "储蓄 国债 25日 发行", "cluster": 4}
+{"text": "部门 希腊 国债 50% 错误", "cluster": 4}
+{"text": "西班牙 拍卖 4月 2016年 1月 1月 到期 国债 认购", "cluster": 4}
+{"text": "中国 持有 美国 国债 投资", "cluster": 4}
+{"text": "债券 交易 流通 要素 公告 11 深圳 01", "cluster": 4}
+{"text": "美联储 周一 购买 美元 美国 国债", "cluster": 4}
+{"text": "德国 财长 欧盟 峰会 提出 国债 基金", "cluster": 4}
+{"text": "证券 11 国债 25 定价 分析", "cluster": 4}
+{"text": "消息 企业 中标 利率 低于 预期", "cluster": 4}
+{"text": "国务院 利用 企业 债券 融资", "cluster": 4}
+{"text": "英国 央行 暂停 国债 购买 计划 实施", "cluster": 4}
+{"text": "美联储 11月 外国 央行 国债 机构", "cluster": 4}
+{"text": "西班牙 拍卖 欧元 1月 到期 国债 最高 收益率", "cluster": 4}
+{"text": "意大利 10年 国债 收益率 上升 12 基点", "cluster": 4}
+{"text": "希腊 11月 8日 拍卖 10亿 欧元 26 国债", "cluster": 4}
+{"text": "美国 国债 周四 价格 下跌", "cluster": 4}
+{"text": "两年 希腊 国债 收益率 历史 新高", "cluster": 4}
+{"text": "法国 成功 拍卖 70亿 欧元 长期 国债", "cluster": 4}
+{"text": "德国 政府 国债 周四 上涨", "cluster": 4}
+{"text": "2年 意大利 国债 收益率 下降 基点", "cluster": 4}
+{"text": "日本 考虑 购买 100亿 美元 中国 国债", "cluster": 4}
+{"text": "日本 100亿 美元 中国 国债", "cluster": 4}
+{"text": "债券 交易 流通 要素 公告 11 国债 24 续发", "cluster": 4}
+{"text": "2011年 记账式 二十四 国债 发行 招标 情况", "cluster": 4}
+{"text": "关于 2011年 记账式 二十五 国债 上市 交易 通知", "cluster": 4}
+{"text": "关于 支付 2007年 记账式 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "关于 支付 2006年 记账式 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "希腊 15日 短期 国债 中标 收益率 上升", "cluster": 4}
+{"text": "意大利 10年 国债 收益率 再次 回升", "cluster": 4}
+{"text": "货币 政策 最佳 资产 购买 国债", "cluster": 4}
+{"text": "欧盟 西班牙 国债 收益率 上升 危机", "cluster": 4}
+{"text": "希腊 拍卖 10亿 欧元 13 短期 国债 收益率 认购", "cluster": 4}
+{"text": "西班牙 进行 12 18 国债 拍卖 欧元", "cluster": 4}
+{"text": "日本 国债 价格 周二 上涨 跌幅", "cluster": 4}
+{"text": "央行 上周 大幅 购买 国债 数量", "cluster": 4}
+{"text": "西班牙 十年 国债 收益 攀升 6%", "cluster": 4}
+{"text": "意大利 30亿 欧元 五年 国债", "cluster": 4}
+{"text": "花旗 银行 意大利 长期 国债 拍卖 结果 利好 欧元", "cluster": 4}
+{"text": "投资 回归 国债 销售", "cluster": 4}
+{"text": "11 国债 23 16日 上市", "cluster": 4}
+{"text": "关于 支付 2005年 记账式 十三 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "日本 国债 总额 历史 新高", "cluster": 4}
+{"text": "关于 发行 2011年 浙江省 政府 债券 二期 有关 事项 通知", "cluster": 4}
+{"text": "关于 发行 2011年 浙江省 政府 债券 有关 事项 通知", "cluster": 4}
+{"text": "2011年 上海市 政府 债券 发行 结果 公告", "cluster": 4}
+{"text": "2011年 上海市 政府 债券 二期 发行 结果 公告", "cluster": 4}
+{"text": "关于 支付 2011年 记账式 十二 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "关于 支付 记账式 二十三 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "关于 支付 2007年 记账式 十八 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "发展 改革 安徽 集团 发行 企业 债券", "cluster": 4}
+{"text": "11 7月 上市 交易", "cluster": 4}
+{"text": "西班牙 西班牙 国债 平均 到期 期限 未来 该国 陷入", "cluster": 4}
+{"text": "央行 会议 一样 讨论 国债 购买 问题", "cluster": 4}
+{"text": "央行 国债 购买 计划 央行 政策 目标 一致", "cluster": 4}
+{"text": "交易员 表示 央行 购买 西班牙 意大利 国债", "cluster": 4}
+{"text": "日本 国债 价格 上涨 货币 市场 资金", "cluster": 4}
+{"text": "法国 10年 国债 收益率 下跌 基点", "cluster": 4}
+{"text": "意大利 10年 国债 收益率 上升 基点", "cluster": 4}
+{"text": "西班牙 国债 收益率 逼近 7%", "cluster": 4}
+{"text": "国债 收益率 攀升 原油 高位 回落", "cluster": 4}
+{"text": "法国 意大利 承受 国债 收益率", "cluster": 4}
+{"text": "意大利 10年 国债 收益率 回落 7%", "cluster": 4}
+{"text": "德国 财政部 反对 央行 购买 国债", "cluster": 4}
+{"text": "法国 拍卖 欧元 2016年 7月 到期 国债 收益率", "cluster": 4}
+{"text": "法国 拍卖 欧元 7月 到期 国债 收益率", "cluster": 4}
+{"text": "法国 财政部 周四 拍卖 70亿 欧元 两年 国债", "cluster": 4}
+{"text": "交易员 表示 央行 西班牙 国债 拍卖 结束 购买 该国 国债", "cluster": 4}
+{"text": "西班牙 拍卖 国债 收益率 以来 最高", "cluster": 4}
+{"text": "西班牙 拍卖 欧元 10年 国债 最高 收益率 突破 7%", "cluster": 4}
+{"text": "法国 10年 国债 收益率 德国 突破 200 基点", "cluster": 4}
+{"text": "法国 10年 国债 收益率 德国 突破 2%", "cluster": 4}
+{"text": "法国 西班牙 国债 收益率 再度 攀升", "cluster": 4}
+{"text": "17日 日本 10年 国债 收益率 1年 新低", "cluster": 4}
+{"text": "西班牙 德国 10年 国债 收益率 扩大 基点", "cluster": 4}
+{"text": "意大利 5年 国债 收益率 上升 11 基点", "cluster": 4}
+{"text": "美国 10年 国债 焦点 美国 数据", "cluster": 4}
+{"text": "欧洲 反弹 关注 国债 拍卖", "cluster": 4}
+{"text": "11月 16日 外国 央行 美国 国债", "cluster": 4}
+{"text": "支付 2005年 记账式 十三 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "西班牙 国债 收益率 上升 情绪 市场", "cluster": 4}
+{"text": "法国 债务 机构 法国 融资 成本 依然", "cluster": 4}
+{"text": "意大利 国债 收益率 必须 下降", "cluster": 4}
+{"text": "收盘 大选 市场 西班牙 国债 收益率 持续 攀升", "cluster": 4}
+{"text": "法国 拍卖 欧元 47 短期 国债 平均 收益率", "cluster": 4}
+{"text": "法国 拍卖 欧元 25 短期 国债 平均 收益率", "cluster": 4}
+{"text": "法国 拍卖 欧元 12 短期 国债 平均 收益率", "cluster": 4}
+{"text": "法国 成功 拍卖 70亿 短期 国债 主权 评级 警告", "cluster": 4}
+{"text": "主权 评级 警告 法国 成功 拍卖 70亿 短期 国债", "cluster": 4}
+{"text": "西班牙 财政部 11月 发行 最高 30亿 欧元 国债", "cluster": 4}
+{"text": "荷兰 成功 拍卖 短期 国债 收益率 下降", "cluster": 4}
+{"text": "荷兰 成功 拍卖 短期 国债 收益率 明显 下降", "cluster": 4}
+{"text": "意大利 德国 10年 国债 收益率 基点 基点", "cluster": 4}
+{"text": "西班牙 德国 10年 国债 收益率 10 基点 基点", "cluster": 4}
+{"text": "日本 10年 国债 收益率 上扬 基点", "cluster": 4}
+{"text": "日本 国债 价格 周一 下跌 关注 20年", "cluster": 4}
+{"text": "西班牙 10年 国债 收益率 下降 基点", "cluster": 4}
+{"text": "德国 国债 周一 陷入", "cluster": 4}
+{"text": "美国 债务 危机 再现 美元", "cluster": 4}
+{"text": "希腊 改革 担忧 关注 希腊 12月 20日 拍卖 国债", "cluster": 4}
+{"text": "10年 国债 中标 利率 继续 低于 市场", "cluster": 4}
+{"text": "避险 资金 国债 市场", "cluster": 4}
+{"text": "10月 我国 美元 美国 国债", "cluster": 4}
+{"text": "西班牙 成功 拍卖 60亿 欧元 国债 融资 成本 大幅 下降", "cluster": 4}
+{"text": "西班牙 拍卖 欧元 国债 计划 拍卖 规模 欧元", "cluster": 4}
+{"text": "西班牙 拍卖 欧元 2016年 到期 国债 认购 倍数", "cluster": 4}
+{"text": "西班牙 拍卖 欧元 5年 国债 最高 收益率 认购 倍率", "cluster": 4}
+{"text": "2年 意大利 国债 收益率 上升 25 基点", "cluster": 4}
+{"text": "德国 国债 周四 年末 避险 推动", "cluster": 4}
+{"text": "日本 10年 国债 收益率 新低", "cluster": 4}
+{"text": "美国 10年 国债 收益率 下跌 基点 30年 国债 收益率 下跌 基点", "cluster": 4}
+{"text": "美国 10年 国债 收益率 回落 11月 25日 以来", "cluster": 4}
+{"text": "美国 30年 国债 收益率 国债 拍卖 回落 目前", "cluster": 4}
+{"text": "欧元 德国 国债 拍卖 回升", "cluster": 4}
+{"text": "德国 拍卖 欧元 两年 国债 平均 收益率 认购 倍率", "cluster": 4}
+{"text": "意大利 五年 国债 收益率 涨幅", "cluster": 4}
+{"text": "意大利 今日 拍卖 五年 国债 收益率 6% 新高", "cluster": 4}
+{"text": "10年 西班牙 德国 国债 收益 上升 基点", "cluster": 4}
+{"text": "10年 意大利 德国 国债 收益 上升 基点", "cluster": 4}
+{"text": "财政部 发行 2011年 记账式 国债", "cluster": 4}
+{"text": "债券 交易 流通 要素 公告 11 广东 01", "cluster": 4}
+{"text": "关于 2011年 浙江省 政府 债券 二期 上市 交易 通知", "cluster": 4}
+{"text": "央行 扩大 国债 购买 规模", "cluster": 4}
+{"text": "美国 债务 问题 汇率 风险 问题", "cluster": 4}
+{"text": "纽约 国债 收益率 继续 飙升 下跌 支持", "cluster": 4}
+{"text": "拍卖 需求 意大利 2年 国债 收益率 大关", "cluster": 4}
+{"text": "央行 应该 德国 国债 拍卖 结果 表现 意大利 破产 一样", "cluster": 4}
+{"text": "央行 意大利 7% 国债 收益率", "cluster": 4}
+{"text": "5年 收益率 高位 欧洲 国债 全面 抛售", "cluster": 4}
+{"text": "乐观 认为 意大利 应对 国债 收益率 超过 7% 情况", "cluster": 4}
+{"text": "法国 国债 收益率 历史 水平", "cluster": 4}
+{"text": "德国 央行 意大利 国债 收益率 上涨 认为 该国 处于 破产 错误", "cluster": 4}
+{"text": "交易员 央行 购买 意大利 国债", "cluster": 4}
+{"text": "意大利 5年 国债 收益率 触及 欧元 诞生 以来 记录 高点", "cluster": 4}
+{"text": "意大利 拍卖 短期 国债 两年 收益率 欧元 问世", "cluster": 4}
+{"text": "意大利 拍卖 20亿 欧元 2013年 9月 到期 国债 吸引 资金 欧元", "cluster": 4}
+{"text": "意大利 拍卖 80亿 欧元 国债 吸引 资金 欧元", "cluster": 4}
+{"text": "意大利 拍卖 20亿 欧元 2013年 9月 到期 国债 平均 收益率", "cluster": 4}
+{"text": "意大利 拍卖 80亿 欧元 国债 平均 收益率", "cluster": 4}
+{"text": "意大利 两年 国债 收益率 欧元 问世 以来", "cluster": 4}
+{"text": "意大利 10年 国债 收益率 上升 14 基点", "cluster": 4}
+{"text": "意大利 5年 国债 收益率 上升 15 基点", "cluster": 4}
+{"text": "意大利 2年 国债 收益率 欧元 以来", "cluster": 4}
+{"text": "西班牙 10年 国债 收益率 上升 基点", "cluster": 4}
+{"text": "德国 国债 危机 解决 计划", "cluster": 4}
+{"text": "日本 国债 价格 周五 下滑", "cluster": 4}
+{"text": "日本 20年 国债 收益率 10月 以来", "cluster": 4}
+{"text": "日本 10年 国债 收益率 高点", "cluster": 4}
+{"text": "意大利 国债 收益率 再次 突破 7%", "cluster": 4}
+{"text": "德国 国债 拍卖 欧洲", "cluster": 4}
+{"text": "意大利 10年 国债 收益率 再度 上升 7% 以上", "cluster": 4}
+{"text": "意大利 10年 国债 收益率 7%", "cluster": 4}
+{"text": "意大利 11月 拍卖 国债 欧元 2014年 到期 10", "cluster": 4}
+{"text": "意大利 11月 进行 国债 拍卖", "cluster": 4}
+{"text": "意大利 10年 国债 收益率 再度 突破 7%", "cluster": 4}
+{"text": "葡萄牙 10年 国债 收益率 上升 基点", "cluster": 4}
+{"text": "葡萄牙 5年 国债 收益率 上升 基点", "cluster": 4}
+{"text": "葡萄牙 2年 国债 收益率 上升 基点", "cluster": 4}
+{"text": "葡萄牙 爱尔兰 德国 10年 国债 收益率 利差 大幅", "cluster": 4}
+{"text": "财政部 3年 国债 中标 利率", "cluster": 4}
+{"text": "保持 日本 国债 收益率 维持 低位", "cluster": 4}
+{"text": "德国 国债 德国 降级 警告", "cluster": 4}
+{"text": "日本 国债 价格 下跌", "cluster": 4}
+{"text": "两年 西班牙 国债 收益率 上升 基点", "cluster": 4}
+{"text": "德国 国债 周一 开盘", "cluster": 4}
+{"text": "中国 10月 大举 日本 国债", "cluster": 4}
+{"text": "中国 10月 抛售 美元 日本 国债", "cluster": 4}
+{"text": "财政部 今日 发行 280亿 记账式 国债", "cluster": 4}
+{"text": "国债 指数 逼近 历史 高点", "cluster": 4}
+{"text": "9月 以来 国债 发行 情况 一览", "cluster": 4}
+{"text": "德国 40.9亿 欧元 五年 国债", "cluster": 4}
+{"text": "收盘 情绪 意大利 国债 收益率 攀升", "cluster": 4}
+{"text": "纽约 国债 拍卖 良好 回落", "cluster": 4}
+{"text": "意大利 国债 销售 完成 涨幅", "cluster": 4}
+{"text": "西班牙 德国 10年 国债 收益率 基点", "cluster": 4}
+{"text": "总裁 欧洲 银行业 继续 意大利 国债", "cluster": 4}
+{"text": "关于 发行 2011年 广东省 政府 债券 二期 有关 事宜 通知", "cluster": 4}
+{"text": "关于 发行 2011年 广东省 政府 债券 有关 事宜 通知", "cluster": 4}
+{"text": "意大利 10年 国债 收益率 大幅 回落 63 基点", "cluster": 4}
+{"text": "德国 葡萄牙 成功 拍卖 国债", "cluster": 4}
+{"text": "关于 支付 2010年 记账式 十八 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "2011年 记账式 二十五 国债 招标 情况", "cluster": 4}
+{"text": "关于 支付 2009年 记账式 十二 国债 利息 有关 事项 通知", "cluster": 4}
+{"text": "债券 交易 流通 要素 公告 11 深圳 02", "cluster": 4}
+{"text": "关于 2011年 付息 事宜 公告", "cluster": 4}
+{"text": "意大利 德国 10年 国债 利差 触及 欧元 以来 最高", "cluster": 4}
+{"text": "美国 预计 第四 季度 发行 美元 国债", "cluster": 4}
+{"text": "德国 拍卖 20亿 欧元 1年 国债", "cluster": 4}
+{"text": "比利时 成功 拍卖 欧元 国债", "cluster": 4}
+{"text": "美国 10年 国债 价格 上涨", "cluster": 4}
+{"text": "市场 解读 有关 欧洲 央行 购买 国债 评论", "cluster": 4}
+{"text": "关于 2001年 记账式 十二 国债 到期 兑付 通知", "cluster": 4}
+{"text": "2006年 记账式 十八 国债 终止 上市 兑付 通知", "cluster": 4}
+{"text": "研究 人员 购买 欧盟 国债 解决 危机 方法", "cluster": 4}
+{"text": "德国 国债 投资 损失 提供 担保 讨论", "cluster": 4}
+{"text": "拍卖 欧元 2014年 4月 到期 国债 平均 收益率", "cluster": 4}
+{"text": "意大利 国债 拍卖 吸引 资金 欧元 计划 融资 欧元", "cluster": 4}
+{"text": "美国 国债 价格 周一 下跌", "cluster": 4}
+{"text": "法国 拍卖 70亿 短期 国债", "cluster": 4}
+{"text": "意大利 举行 国债 拍卖", "cluster": 4}
+{"text": "11月 23日 外国 央行 美国 国债", "cluster": 4}
+{"text": "对冲 基金 加码 抛售 欧元 国债", "cluster": 4}
+{"text": "债券 交易 流通 要素 公告 11 浙江 01", "cluster": 4}
+{"text": "深圳市 2011年 政府 债券 二期 发行 结果 公告", "cluster": 4}
+{"text": "深圳市 2011年 政府 债券 发行 结果 公告", "cluster": 4}
+{"text": "关于 2011年 浙江省 政府 债券 上市 交易 通知", "cluster": 4}
+{"text": "房产 信用 状况 下调", "cluster": 4}
+{"text": "发行 公司 公告 一览", "cluster": 4}
+{"text": "德国 国债 价格 市场 危机", "cluster": 4}
+{"text": "日本 国债 温和 上扬 强劲", "cluster": 4}
+{"text": "日本 10年 国债 收益率 高点 回落", "cluster": 4}
+{"text": "国际 法国 西班牙 国债", "cluster": 4}
+{"text": "3年 国债 招标 利率 低于 市场", "cluster": 4}
+{"text": "财政部 280亿 3年 国债 认购 预期", "cluster": 4}
+{"text": "日本 10年 国债 收益率 新高", "cluster": 4}
+{"text": "德国 国债 遭遇 危机", "cluster": 4}
+{"text": "债券 交易 流通 要素 公告 11 广东 02", "cluster": 4}
+{"text": "意大利 拍卖 欧元 国债 计划 拍卖 50 80亿 欧元", "cluster": 4}
+{"text": "国内 需求 支持 日本 国债 收益率 维持 低位", "cluster": 4}
+{"text": "低位 德国 国债 拍卖 亚洲 货币", "cluster": 4}
+{"text": "首席 经济学家 德国 国债 情况 显示 投资者 担忧 体系", "cluster": 4}
+{"text": "德国 国债 成功 市场 德国 危机 威胁", "cluster": 4}
+{"text": "德国 拍卖 欧元 1月 到期 国债 平均 收益率", "cluster": 4}
+{"text": "交易员 表示 央行 购买 意大利 西班牙 国债", "cluster": 4}
+{"text": "机构 市场 法国 债务 风险", "cluster": 4}
+{"text": "法国 财长 法国 国债 收益率 依旧 处于 历史 低位", "cluster": 4}
+{"text": "关于 2011年 广东省 政府 债券 二期 上市 交易 通知", "cluster": 4}
+{"text": "关于 2011年 广东省 政府 债券 上市 交易 通知", "cluster": 4}
+{"text": "2011年 记账式 二十一 国债 发行 招标 情况", "cluster": 4}
+{"text": "英镑 国债 拍卖 成功 推动 英镑 反弹", "cluster": 4}
+{"text": "法国 西班牙 成功 拍卖 国债", "cluster": 4}
+{"text": "西班牙 拍卖 欧元 2016年 1月 到期 国债 最高 收益率", "cluster": 4}
+{"text": "美国 国债 周二 价格 下跌", "cluster": 4}
+{"text": "德国 不再 要求 希腊 国债 重要", "cluster": 4}
+{"text": "欧元 五年 国债 下滑", "cluster": 4}
+{"text": "美联储 周三 美元 美国 国债", "cluster": 4}
+{"text": "2011年 记账式 二十一 国债 上市 通知", "cluster": 4}
+{"text": "2006年 记账式 十八 国债 到期 兑付 有关 事项 通知", "cluster": 4}
+{"text": "关于 2011年 记账式 二十一 国债 上市 公告", "cluster": 4}
+{"text": "关于 2006年 记账式 十八 国债 到期 兑付 通知", "cluster": 4}
+{"text": "基金 板块 进入 回升", "cluster": 4}
+{"text": "美国 长期 国债 价格 周一 上涨", "cluster": 4}
+{"text": "收盘 美联储 介入 国债 市场", "cluster": 4}
+{"text": "2年 西班牙 国债 收益率 回落 基点", "cluster": 4}
+{"text": "10年 意大利 国债 收益率 回落 基点", "cluster": 4}
+{"text": "2年 意大利 国债 收益率 回落 基点", "cluster": 4}
+{"text": "财政部 发行 280亿 记账式 国债", "cluster": 4}
+{"text": "德国 国债 市场 欧盟 峰会 乐观", "cluster": 4}
+{"text": "2年 西班牙 国债 收益率 上升 基点", "cluster": 4}
+{"text": "2年 意大利 国债 收益率 上升 19 基点", "cluster": 4}
+{"text": "世界 大学 排名 出炉 美国", "cluster": 5}
+{"text": "澳洲 放宽 留学 签证 要求", "cluster": 5}
+{"text": "加拿大 移民 现象 严重", "cluster": 5}
+{"text": "加拿大 明年 移民 数量 维持 25", "cluster": 5}
+{"text": "独家 报道 上海 世界 名校 招生 面试", "cluster": 5}
+{"text": "出国 留学 金融", "cluster": 5}
+{"text": "交流", "cluster": 5}
+{"text": "留学 教育 未来 力量", "cluster": 5}
+{"text": "中国 子女 教育 考虑 移民", "cluster": 5}
+{"text": "深度 海外 楼盘", "cluster": 5}
+{"text": "教育部 发布 2011年 留学", "cluster": 5}
+{"text": "2011 新浪 五星 金牌 留学 顾问 评选 揭晓", "cluster": 5}
+{"text": "2011年 五星 金牌 顾问 名单", "cluster": 5}
+{"text": "2010年 五星 金牌 顾问 名单", "cluster": 5}
+{"text": "留学 应该 成为 国内 教育 改革", "cluster": 5}
+{"text": "澳洲 最新 签证 政策 变化 澳洲 留学 对策", "cluster": 5}
+{"text": "留学 新政 11月 实施", "cluster": 5}
+{"text": "美国 各类 大学 排名 解读", "cluster": 5}
+{"text": "揭秘 美国 高中 录取", "cluster": 5}
+{"text": "搜狐 华东", "cluster": 5}
+{"text": "留学 总部", "cluster": 5}
+{"text": "必须 英语", "cluster": 5}
+{"text": "2011 移民 目标 教育 签证", "cluster": 5}
+{"text": "2011年 成都 学生 留学 签证", "cluster": 5}
+{"text": "澳洲 签证 新政 进入 实施", "cluster": 5}
+{"text": "留学 澳洲 澳元", "cluster": 5}
+{"text": "澳洲 留学 担保 提高 金额", "cluster": 5}
+{"text": "留学 人数 连续 20% 增长", "cluster": 5}
+{"text": "2011 五星 金牌 顾问 名单", "cluster": 5}
+{"text": "2011 中国 教育 盛典 精彩", "cluster": 5}
+{"text": "15 城市 网友 揭开 留学 中介", "cluster": 5}
+{"text": "政治 大学 2012 入学 申请", "cluster": 5}
+{"text": "探访 美国 私立 中学", "cluster": 5}
+{"text": "托福 中国 30 周年 庆典", "cluster": 5}
+{"text": "2011 各国 留学 政策 盘点", "cluster": 5}
+{"text": "欧洲 各国 留学 优势 专业 对比", "cluster": 5}
+{"text": "2012年 全球 200 出炉", "cluster": 5}
+{"text": "高中生 学习 比例 22.6%", "cluster": 5}
+{"text": "王牌 留学 服务团队", "cluster": 5}
+{"text": "教育 盛典 值得 信赖 留学 移民 外语 机构", "cluster": 5}
+{"text": "专家 一个 真实 美国 房产", "cluster": 5}
+{"text": "美国 EB -5 移民 大型 讲座", "cluster": 5}
+{"text": "记录 澳洲 学生", "cluster": 5}
+{"text": "北京", "cluster": 5}
+{"text": "2012 留学 澳洲 说明", "cluster": 5}
+{"text": "五星 金牌 顾问 全国", "cluster": 5}
+{"text": "澳洲 大学 留学生", "cluster": 5}
+{"text": "认为 投资 移民 忽悠 中国", "cluster": 5}
+{"text": "美国 调查 学生 普通 安全", "cluster": 5}
+{"text": "大学 录取 排名", "cluster": 5}
+{"text": "盘点 2011 预测 2012", "cluster": 5}
+{"text": "美国 顶级 高中 来华 招生", "cluster": 5}
+{"text": "所有 年龄 神奇 外语 学习", "cluster": 5}
+{"text": "天津 放弃 移民", "cluster": 5}
+{"text": "18 美国 大奖", "cluster": 5}
+{"text": "法国 总理 秋季", "cluster": 5}
+{"text": "子女 电脑", "cluster": 5}
+{"text": "搜狐 出国 王牌 留学 服务团队 评选 11月 16日 盛大 启动", "cluster": 5}
+{"text": "国际 教育 高峰 论坛 专家 留学 风险", "cluster": 5}
+{"text": "2011 调查 留学", "cluster": 5}
+{"text": "留学 媒体 专家 增长 原因", "cluster": 5}
+{"text": "中国 移民 是否 中国 经济", "cluster": 5}
+{"text": "美国 公布 EB -5 投资 移民 审核 政策", "cluster": 5}
+{"text": "留学生 心理 健康 关注 留学 承受", "cluster": 5}
+{"text": "移民 留学 新政 监督 学校", "cluster": 5}
+{"text": "托福 考试 中国 30 周年 庆典", "cluster": 5}
+{"text": "王牌 留学 服务团队 评选 决赛 现场", "cluster": 5}
+{"text": "全国 决赛 王牌 留学 顾问 PK 现场", "cluster": 5}
+{"text": "年度 大选 值得 信赖 留学 机构", "cluster": 5}
+{"text": "澳大利亚 产业 海外 留学生 带来 机会", "cluster": 5}
+{"text": "2012 美国 最佳 650 本科 院校 排名", "cluster": 5}
+{"text": "2011 中国 教育 盛典 10日", "cluster": 5}
+{"text": "英国 留学 签证 申请 技巧", "cluster": 5}
+{"text": "中国 第一 留学生", "cluster": 5}
+{"text": "留学 部分 高中生 高考 出国", "cluster": 5}
+{"text": "美国 取消 职业 移民 上限", "cluster": 5}
+{"text": "澳洲 教育 出口 收入 下降 担忧", "cluster": 5}
+{"text": "澳洲 放宽 中国 留学生 留学 移民 政策", "cluster": 5}
+{"text": "澳洲 留学生 事件 12", "cluster": 5}
+{"text": "王牌 留学 服务团队 评选 出炉", "cluster": 5}
+{"text": "一个 中国 留学生 一个 美国", "cluster": 5}
+{"text": "法院 移民 配偶 英语 规定", "cluster": 5}
+{"text": "2012年 申请 英国 大学", "cluster": 5}
+{"text": "措施 中国 申请 签证", "cluster": 5}
+{"text": "今年 美国 EB -5 签证 中国 人数 75%", "cluster": 5}
+{"text": "今年 美国 成都 留学 签证", "cluster": 5}
+{"text": "加拿大 留学 签证 申请 一个", "cluster": 5}
+{"text": "搜狐 出国 王牌 留学 服务团队 评选 火热 报名 进行", "cluster": 5}
+{"text": "移民 房产 论坛 最高 海外 房产", "cluster": 5}
+{"text": "海外 置业 为何", "cluster": 5}
+{"text": "大型 招聘 搜狐 出国 策划", "cluster": 5}
+{"text": "国际 咨询 等待", "cluster": 5}
+{"text": "考试 改革 深度 解析", "cluster": 5}
+{"text": "90 大学生 网络 全球 海外", "cluster": 5}
+{"text": "顾问 报告 配偶 签证 最低 年薪", "cluster": 5}
+{"text": "女孩 十年 名校 成绩 回应 质疑", "cluster": 5}
+{"text": "美国 民间 力量 资助 学生 来华 留学", "cluster": 5}
+{"text": "国际 学生 美国 课堂", "cluster": 5}
+{"text": "高考 中国 学生 美国 学生", "cluster": 5}
+{"text": "美国 投资 移民 EB -5 项目", "cluster": 5}
+{"text": "澳洲 就业 调查", "cluster": 5}
+{"text": "世界 大学 排名 背后 故事", "cluster": 5}
+{"text": "教育 人士 点评 留学", "cluster": 5}
+{"text": "移民 三年 国内 不好", "cluster": 5}
+{"text": "首发 美国 纽约 项目", "cluster": 5}
+{"text": "法国 留学 指南 选择", "cluster": 5}
+{"text": "高中生 留学 法国 参加 高考", "cluster": 5}
+{"text": "留学 加拿大 震惊 奢华 家庭 环境", "cluster": 5}
+{"text": "2012年 申请 难度 加大 12 英国 大学", "cluster": 5}
+{"text": "2011 美国 毕业生 调查 美国 专业", "cluster": 5}
+{"text": "申请 美国 名校 2012 秋季 入学", "cluster": 5}
+{"text": "中国 5年 签证 正式 提出", "cluster": 5}
+{"text": "英国 留学生 滥用 免费", "cluster": 5}
+{"text": "家长 安排 子女 出国 留学", "cluster": 5}
+{"text": "官方 留学 新加坡 学校", "cluster": 5}
+{"text": "海外 专家 世界 一流 大学", "cluster": 5}
+{"text": "最新 美国 650 本科 院校 排行榜", "cluster": 5}
+{"text": "英国 留学 签证 4月 正式 取消", "cluster": 5}
+{"text": "解读 美国 各类 大学 排名", "cluster": 5}
+{"text": "美国 计划 美国 学生 留学 中国", "cluster": 5}
+{"text": "留学 盘点 特色 美国 名校", "cluster": 5}
+{"text": "解读 女孩 名校 申请", "cluster": 5}
+{"text": "大学 学生 文化 学习", "cluster": 5}
+{"text": "移民 成功 如何 保持 美国", "cluster": 5}
+{"text": "对话 金牌 顾问 行业 发展", "cluster": 5}
+{"text": "搜狐 出国 论坛", "cluster": 5}
+{"text": "留学 教育 总部", "cluster": 5}
+{"text": "美国 投资 移民 纽约 最新 项目 发布", "cluster": 5}
+{"text": "澳洲 教育 质量 留学生 选择 主要 考虑", "cluster": 5}
+{"text": "全国 决赛 王牌 留学 顾问", "cluster": 5}
+{"text": "女儿 父母 拒绝 留学 家长", "cluster": 5}
+{"text": "搜狐 出国 王牌 留学 服务团队 评选", "cluster": 5}
+{"text": "25 网友 人气 投票 进行", "cluster": 5}
+{"text": "留学 担保 提高 金额 资金 来源", "cluster": 5}
+{"text": "中国 举行 中国 留学生 就业 指导", "cluster": 5}
+{"text": "英国 取消 毕业生 工作 签证", "cluster": 5}
+{"text": "点评 2011 最新 加拿大 大学 排名", "cluster": 5}
+{"text": "揭秘 美国 高中 录取 规则", "cluster": 5}
+{"text": "家长 20 12 孩子 留学", "cluster": 5}
+{"text": "父母 移民 申请 超级 签证", "cluster": 5}
+{"text": "王牌 顾问 25 10 PK 进行", "cluster": 5}
+{"text": "值得 信赖 留学 机构 20 评选", "cluster": 5}
+{"text": "高校 提高 留学生 门槛", "cluster": 5}
+{"text": "上海 国际 教育 高峰 论坛", "cluster": 5}
+{"text": "专家 指导 克服 留学", "cluster": 5}
+{"text": "澳洲 留学生 子女 不再 免费", "cluster": 5}
+{"text": "2011 移民 各国 政策", "cluster": 5}
+{"text": "申请 英国 大学 哪些 学生", "cluster": 5}
+{"text": "美国 大幅 增加 来华 留学生", "cluster": 5}
+{"text": "深度 解析 美国 私立 中学", "cluster": 5}
+{"text": "2011 美国 开放 报告 发布", "cluster": 5}
+{"text": "研究 报告 中国 留学生 国际 学生", "cluster": 5}
+{"text": "移民 考虑 加码 是否 审批", "cluster": 5}
+{"text": "13 天才 高考", "cluster": 5}
+{"text": "签证 申请 缓解 签证 问题", "cluster": 5}
+{"text": "移民 房产 高峰 论坛 移民 置业", "cluster": 5}
+{"text": "中国 留学生 直播 生活", "cluster": 5}
+{"text": "美国 2012年 大学 排行榜 出炉", "cluster": 5}
+{"text": "今年 中国 留学 人数", "cluster": 5}
+{"text": "内地 家庭 成为 移民 主力", "cluster": 5}
+{"text": "留学 美国 大学 招生 面试 哪些", "cluster": 5}
+{"text": "日本 政府 出台 留学 优惠 政策", "cluster": 5}
+{"text": "欧洲 出台 新政 移民", "cluster": 5}
+{"text": "认为 投资 移民 忽悠", "cluster": 5}
+{"text": "指导 备考 托福 考试 全面", "cluster": 5}
+{"text": "澳洲 签证 指导 移民 签证 办理 简介", "cluster": 5}
+{"text": "纽约 巨型 造型", "cluster": 5}
+{"text": "美国 高考 为何 中国 学生", "cluster": 5}
+{"text": "美国 650 本科 最佳 大学 排行榜", "cluster": 5}
+{"text": "搜狐 出国 王牌 留学 服务团队 诞生", "cluster": 5}
+{"text": "加拿大 公布 2012年 最新 移民 计划", "cluster": 5}
+{"text": "签证 滥用 外国 交流 学生", "cluster": 5}
+{"text": "教育部 高中生 留学 中国 留学生 22.6%", "cluster": 5}
+{"text": "北京 中学 出国 学生 涨幅", "cluster": 5}
+{"text": "创业 生活 进行", "cluster": 5}
+{"text": "配偶 移民 年龄 限制", "cluster": 5}
+{"text": "美国 12月 移民 EB 大幅", "cluster": 5}
+{"text": "2011年 澳洲 学生 签证 5%", "cluster": 5}
+{"text": "超级 签证 申请", "cluster": 5}
+{"text": "王牌 留学 服务团队 评选 投票", "cluster": 5}
+{"text": "留学 监督 部门 签证 滥用", "cluster": 5}
+{"text": "移民 盘点 2011 预测 2012", "cluster": 5}
+{"text": "中国 留学生 直播 留学 生活 网络", "cluster": 5}
+{"text": "留学 签证 申请 增加 难度", "cluster": 5}
+{"text": "英国 基本 没有 影响 浙江 留学 学生", "cluster": 5}
+{"text": "高中生 学习 人数 我国 留学 人数 22.6%", "cluster": 5}
+{"text": "美国 投资 移民 政策 陷阱", "cluster": 5}
+{"text": "中国 留学生 美国 大学 解析", "cluster": 5}
+{"text": "独家 报道 深圳 国际 教育", "cluster": 5}
+{"text": "2012 美国 大学 提高 托福 要求", "cluster": 5}
+{"text": "留学 关注 专家 教育 部门", "cluster": 5}
+{"text": "美国 EB -5 项目 投资 移民", "cluster": 5}
+{"text": "2011年 澳洲 留学生 国内 就业 形势", "cluster": 5}
+{"text": "阿根廷 中学 毕业", "cluster": 5}
+{"text": "申请 德国 留学 毕业", "cluster": 5}
+{"text": "探访 美国 私立 中学 高中", "cluster": 5}
+{"text": "澳大利亚 政府 签证 担保 条件", "cluster": 5}
+{"text": "北大 公布 2012 推荐 中学 名单", "cluster": 6}
+{"text": "江西省 2012年 空军 初选 安排", "cluster": 6}
+{"text": "父母 支持 儿子 一年", "cluster": 6}
+{"text": "全国 录取", "cluster": 6}
+{"text": "事件 可能 自主 招生", "cluster": 6}
+{"text": "最高 50 本科 专业", "cluster": 6}
+{"text": "信息 发布 平台", "cluster": 6}
+{"text": "女孩 资助 大学生", "cluster": 6}
+{"text": "纪念 北大 推荐 优秀 资格", "cluster": 6}
+{"text": "2011年 志愿 填报 成功", "cluster": 6}
+{"text": "教育部 取消 高考 户籍 限制", "cluster": 6}
+{"text": "高校 表示 政策 等待 教育部", "cluster": 6}
+{"text": "中国 飞行 学院 专业 30", "cluster": 6}
+{"text": "高校 成为 第二 卓越 计划 高校", "cluster": 6}
+{"text": "高考 志愿 填报 真相 揭秘", "cluster": 6}
+{"text": "高考 最后 200 如何 加强 学习 力量", "cluster": 6}
+{"text": "专家 建议", "cluster": 6}
+{"text": "高三 建议 父母 孩子", "cluster": 6}
+{"text": "名校 网上 招生 咨询 启动", "cluster": 6}
+{"text": "国内 名校 自主 招生 校长 新政 质疑", "cluster": 6}
+{"text": "2012 高校 推荐 资格 清华", "cluster": 6}
+{"text": "中国 人民 大学 自主 招生", "cluster": 6}
+{"text": "揭秘 广东 中学 校长 推荐 北大 全过程", "cluster": 6}
+{"text": "真实 收入 支出 曝光", "cluster": 6}
+{"text": "空军 第五 飞行 学院 简介", "cluster": 6}
+{"text": "家庭 核心", "cluster": 6}
+{"text": "专家 解析 课堂 创新 实用", "cluster": 6}
+{"text": "法学 金融 法学 研究 政法 大学 召开", "cluster": 6}
+{"text": "高校 表演 本科 专业 说明 召开", "cluster": 6}
+{"text": "招收 国防 院校 名单", "cluster": 6}
+{"text": "高考 文化 2012 高考", "cluster": 6}
+{"text": "高考 选择题 答题 技术", "cluster": 6}
+{"text": "高三 学生 英语", "cluster": 6}
+{"text": "高考 尖子 15 标准 训练", "cluster": 6}
+{"text": "高考 如何 报考 大学", "cluster": 6}
+{"text": "2012年 各地 高考 报名 时间", "cluster": 6}
+{"text": "民间 建议 取消 高考 户籍 限制 支持", "cluster": 6}
+{"text": "清华 百年 计划 实施 办法 公布", "cluster": 6}
+{"text": "高考 充电 考试 学习 计划", "cluster": 6}
+{"text": "高考 政治 复习 考古", "cluster": 6}
+{"text": "政治 复习", "cluster": 6}
+{"text": "西安 交大 少年 全国 招生", "cluster": 6}
+{"text": "如何 规模 院校 特色 了解 高校", "cluster": 6}
+{"text": "南京 学院 正式 组建 成立", "cluster": 6}
+{"text": "志愿 填报 未来 职业 第一", "cluster": 6}
+{"text": "点评 作文 什么 问题", "cluster": 6}
+{"text": "教师 数学 复习 方法", "cluster": 6}
+{"text": "高三 学生 养成 答题 习惯", "cluster": 6}
+{"text": "专家 提醒 父母 11月 关注", "cluster": 6}
+{"text": "招生 资格 高校 名单", "cluster": 6}
+{"text": "2011 高校 新增 专业 专业 名单", "cluster": 6}
+{"text": "2012 各地 高考 报名 指南", "cluster": 6}
+{"text": "高校 自主 招生 联盟 争议", "cluster": 6}
+{"text": "51 98 专业 国家 重点 建设 专业", "cluster": 6}
+{"text": "上海 纽约 大学 2013年 正式 招生", "cluster": 6}
+{"text": "山东 高考 一年 考生 利好", "cluster": 6}
+{"text": "2012年 高考 报考 高水平 运动员", "cluster": 6}
+{"text": "空军 第七 飞行 学院 简介", "cluster": 6}
+{"text": "空军 第六 飞行 学院 简介", "cluster": 6}
+{"text": "2011年 高考 实用 10 技巧", "cluster": 6}
+{"text": "备考 2012年 高考 热点 作文 发现", "cluster": 6}
+{"text": "备考 2012年 高考 热点 作文", "cluster": 6}
+{"text": "2012年 高考 常见 问题 选择题 原因 对策", "cluster": 6}
+{"text": "2011年 高考 物理 试题 上海", "cluster": 6}
+{"text": "2011年 高考 地理 试题", "cluster": 6}
+{"text": "独家 深度 解析 2011年", "cluster": 6}
+{"text": "2011年 高考 历史 试题", "cluster": 6}
+{"text": "广东 高校 校长 调整", "cluster": 6}
+{"text": "2012 大学 排行榜 北大 清华", "cluster": 6}
+{"text": "独家 对话 中国 教育 在线", "cluster": 6}
+{"text": "北大 高中生", "cluster": 6}
+{"text": "地区 国内 一流 高校 盘点", "cluster": 6}
+{"text": "回归 网络 数学 学业 养成 习惯", "cluster": 6}
+{"text": "现代 软件 学院 北京 软件", "cluster": 6}
+{"text": "2012年 内地 招生 人数 增加", "cluster": 6}
+{"text": "2011 中国 人文 标准", "cluster": 6}
+{"text": "2011 中国 人文 研究 报告 出炉", "cluster": 6}
+{"text": "同济 大学 2012 自主 招生 标准", "cluster": 6}
+{"text": "2012 大学 排行榜 科大 争议", "cluster": 6}
+{"text": "北约 华约 卓越 自主 招生 联盟 报名 结束", "cluster": 6}
+{"text": "名校 推出 自主 招生 计划", "cluster": 6}
+{"text": "2012年 广东 高考 考生 增加", "cluster": 6}
+{"text": "2012年 青海省 异地 高考 一个 传闻", "cluster": 6}
+{"text": "艺术类 考生 高考 进行", "cluster": 6}
+{"text": "2012年 高考 报名 工作 即将 开始", "cluster": 6}
+{"text": "北京大学 2012年 艺术 特长生 招生 简章", "cluster": 6}
+{"text": "上海 交通 大学 2012年 艺术 特长生 招生 简章", "cluster": 6}
+{"text": "湖南 大学 2012年 艺术 特长生 招生 简章", "cluster": 6}
+{"text": "西安 电子 科技 大学 2012年 艺术 专业 招生 实施 办法", "cluster": 6}
+{"text": "北京 大学 2012年 体育 特长生 招生 简章", "cluster": 6}
+{"text": "女儿", "cluster": 6}
+{"text": "高考 冲刺 家长 核心 考点", "cluster": 6}
+{"text": "高考 200 复习 建议", "cluster": 6}
+{"text": "教师 备考 指导 高考 数学 复习 三十六", "cluster": 6}
+{"text": "备考 2012年 高考 热点 作文 暗示", "cluster": 6}
+{"text": "北京 大学 2012 自主 选拔 录取 招生 简章", "cluster": 6}
+{"text": "2012 中国 大学 排行榜 公布", "cluster": 6}
+{"text": "2012 中国 一流 大学 名单", "cluster": 6}
+{"text": "2012 中国 36 大学", "cluster": 6}
+{"text": "宣布 退出 北约 联盟 引发", "cluster": 6}
+{"text": "广东 艺术类 报名 面临 变化 艺术", "cluster": 6}
+{"text": "广东 考生 报名 办理 确认", "cluster": 6}
+{"text": "北京大学 外语 专业 保送生 简章", "cluster": 6}
+{"text": "盘点 八大 美术 学院 优势", "cluster": 6}
+{"text": "高考 被迫", "cluster": 6}
+{"text": "清华 公布 计划 中学 名单", "cluster": 6}
+{"text": "北京市 2012年 美术 专业 统考 考试", "cluster": 6}
+{"text": "广东省 高考 取消 报考 资格", "cluster": 6}
+{"text": "教育部 试点 高校 自主 选拔 录取 人数 超过 5%", "cluster": 6}
+{"text": "内地 63 大学 免试 招收 香港 学生", "cluster": 6}
+{"text": "饮食 专家 高考 饮食 如何 安排", "cluster": 6}
+{"text": "专家 建议 父母 孩子 报考 时间", "cluster": 6}
+{"text": "中国 学生 美国 高考 学生", "cluster": 6}
+{"text": "北京 2012 高考 报名 启动", "cluster": 6}
+{"text": "网络 广东 高中 尖子 排行榜", "cluster": 6}
+{"text": "招生 大战 香港 高校 原因 揭秘", "cluster": 6}
+{"text": "同济 大学 校长 自主 招生", "cluster": 6}
+{"text": "招生 大战 香港 大学 原因", "cluster": 6}
+{"text": "中国 学生 参加 美国 高考", "cluster": 6}
+{"text": "2012年 普通 高校 招生 网上 报名 工作 规定", "cluster": 6}
+{"text": "2012年 普通 高校 招生 考试 报名 工作 通知", "cluster": 6}
+{"text": "江西省 2012年 普通 招生 简章", "cluster": 6}
+{"text": "2012年 高考 报名 11月 21日", "cluster": 6}
+{"text": "广东 2012 高考 招生 考试 报名 工作 通知", "cluster": 6}
+{"text": "2012年 广东 高考 报名 12月 1日 开始", "cluster": 6}
+{"text": "北京 名师 期中 考试 英语 怎么", "cluster": 6}
+{"text": "高考 高考 成功", "cluster": 6}
+{"text": "2012 自主 招生 计划 实施 办法", "cluster": 6}
+{"text": "职业 学校 大赛 举行", "cluster": 6}
+{"text": "武汉 大学 2012年 保送生 招生 简章", "cluster": 6}
+{"text": "大学 2012年 保送生 招生 简章", "cluster": 6}
+{"text": "四川 大学 2012年 保送生 招生 简章", "cluster": 6}
+{"text": "西安 交通 大学 2012年 保送生 选拔 实施 办法", "cluster": 6}
+{"text": "北约 华约 统考 报名 开始", "cluster": 6}
+{"text": "清华 2012 自主 选拔 招生 简章", "cluster": 6}
+{"text": "北大 2012 自主 招生 公告", "cluster": 6}
+{"text": "试题 短期 提高 答题 水平", "cluster": 6}
+{"text": "天津 大学 自主 选拔 实施", "cluster": 6}
+{"text": "卓越 联盟 自主 选拔 录取 公告", "cluster": 6}
+{"text": "2012 艺术 特长生 招生 简章", "cluster": 6}
+{"text": "长安 大学 2012 招生 简章", "cluster": 6}
+{"text": "长安 大学 2012 高水平 运动员", "cluster": 6}
+{"text": "退出 北约 自主 招生 联盟", "cluster": 6}
+{"text": "2012年 高考 招生 重大 调整", "cluster": 6}
+{"text": "63 高校 免试 香港 学生 政策", "cluster": 6}
+{"text": "卓越 联盟 自主 招生 公告", "cluster": 6}
+{"text": "卓越 联盟 自主 招生 政策", "cluster": 6}
+{"text": "清华大学 自主 选拔 计划 公告", "cluster": 6}
+{"text": "北大 2012年 大学 自主 选拔 录取 公告", "cluster": 6}
+{"text": "天津 大学 2012年 自主 选拔 实施", "cluster": 6}
+{"text": "卓越 联盟 2012年 自主 选拔 录取 实施 公告", "cluster": 6}
+{"text": "北京 科技 大学 2012年 艺术 特长生 招生 简章", "cluster": 6}
+{"text": "2012年 艺术 特长生 招生 简章", "cluster": 6}
+{"text": "长安 大学 2012年 艺术 特长生 招生 简章", "cluster": 6}
+{"text": "长安 大学 2012年 高水平 运动员 招生 简章", "cluster": 6}
+{"text": "大学 2012年 艺术 特长生 招生 简章", "cluster": 6}
+{"text": "重庆 大学 2012年 艺术 特长生 招生 实施 办法", "cluster": 6}
+{"text": "香港 高校 2012年 内地", "cluster": 6}
+{"text": "教育部 自主 招生 入选 考生 高考 志愿", "cluster": 6}
+{"text": "揭秘 香港 高校 毕业", "cluster": 6}
+{"text": "高校 自主 招生 政策 教育部", "cluster": 6}
+{"text": "2012年 大型 志愿 填报 讲座", "cluster": 6}
+{"text": "教育部 澄清 2012年 自主 招生 依旧", "cluster": 6}
+{"text": "名师 指导 如何 获得 高考", "cluster": 6}
+{"text": "高考 英语 选择题 秘诀", "cluster": 6}
+{"text": "高三 家长 如何 考生 饮食 健康", "cluster": 6}
+{"text": "报考 艺术 特长生 项目 备考 建议", "cluster": 6}
+{"text": "人大 公布 2012 自主 招生 申请 条件", "cluster": 6}
+{"text": "人大 放宽 农村 考生 保送 条件", "cluster": 6}
+{"text": "高考 报名 人数 连续 下降", "cluster": 6}
+{"text": "解决 子女 高考 明确 规定", "cluster": 6}
+{"text": "安徽 中学 校长 儿子 学校 推荐 清华 质疑", "cluster": 6}
+{"text": "高考 充电 学生 考生", "cluster": 6}
+{"text": "同济 大学 2012年 保送 简章", "cluster": 6}
+{"text": "上海 高考 11月 23日 网上 报名", "cluster": 6}
+{"text": "清华 艺术 特长生 报名 门槛", "cluster": 6}
+{"text": "上海 2012年 高考 报名 时间 确定", "cluster": 6}
+{"text": "全国 音乐 学院 优势 专业", "cluster": 6}
+{"text": "自主 招生 笔试 面试 玄机", "cluster": 6}
+{"text": "北大 清华 保送生 考试 时间 确定", "cluster": 6}
+{"text": "人民 大学 2012年 招生 简章", "cluster": 6}
+{"text": "广东 12月 1日 高考 报名", "cluster": 6}
+{"text": "2012 北京 高考 网上 报名", "cluster": 6}
+{"text": "最低 10 本科 专业", "cluster": 6}
+{"text": "同济 大学 2012年 保送生 招生 简章", "cluster": 6}
+{"text": "清华大学 艺术 特长生 招生 报名 门槛", "cluster": 6}
+{"text": "上海 高考 报名 时间 确定", "cluster": 6}
+{"text": "中国 人民 大学 2012年 保送生 招生 简章", "cluster": 6}
+{"text": "教育部 高考 增加", "cluster": 6}
+{"text": "全国 高校 城市 专业", "cluster": 6}
+{"text": "青海省 普通 高考 报名 录取 条件 补充 规定", "cluster": 6}
+{"text": "青海省 出台 普通 高考 报名 录取 条件 补充 规定", "cluster": 6}
+{"text": "如何 学校 了解 高校", "cluster": 6}
+{"text": "北京 高三 期中 考试 高考 专家 高考", "cluster": 6}
+{"text": "最后 200 如何 复习", "cluster": 6}
+{"text": "2012年 江苏 高考 考试 说明 出炉", "cluster": 6}
+{"text": "父母 支持 一年", "cluster": 6}
+{"text": "2012 高校 现场 确认", "cluster": 6}
+{"text": "自主 招生 清华 推荐", "cluster": 6}
+{"text": "美术 统考 考生 报名 参加", "cluster": 6}
+{"text": "2012 科大 公布 招生 信息", "cluster": 6}
+{"text": "卓越 联盟 15日 解读 自主 招生 政策", "cluster": 6}
+{"text": "北京 大学 自主 招生 部分 专业", "cluster": 6}
+{"text": "2012 保送生 考试 北大 清华 选拔 测试 撞车", "cluster": 6}
+{"text": "高校 自主 招生 笔试 撞车", "cluster": 6}
+{"text": "中央 美术 学院 发布 考点 选择 提醒", "cluster": 6}
+{"text": "高三 考试 成绩", "cluster": 6}
+{"text": "高考 营养 缓解 紧张 情绪", "cluster": 6}
+{"text": "2012 自主 招生 联盟 考试 时间 确定", "cluster": 6}
+{"text": "2012年 艺术 专业 统考", "cluster": 6}
+{"text": "自主 招生 免费 自荐", "cluster": 6}
+{"text": "2012 高考 报名 人数", "cluster": 6}
+{"text": "2012 江苏 高考 进行", "cluster": 6}
+{"text": "广东 2012 高考 报名 结束", "cluster": 6}
+{"text": "2012年 广州 考生 同比 考生", "cluster": 6}
+{"text": "上海 大学 2012 保送生 招生 简章", "cluster": 6}
+{"text": "现代 软件 学院 提高 2012年 高考 录取", "cluster": 6}
+{"text": "新浪 2011 中国 教育 盛典 举行", "cluster": 6}
+{"text": "招生 高校 现场 咨询", "cluster": 6}
+{"text": "高三 父母 如何 特殊 招生 简章", "cluster": 6}
+{"text": "2012年 内地 招生 人数 增加 稳定", "cluster": 6}
+{"text": "春季 高考 取消 英语 担忧 学生 毕业", "cluster": 6}
+{"text": "2011 中国 大学 人文 名单 法学", "cluster": 6}
+{"text": "2012 中国 大学 毕业生 质量 10", "cluster": 6}
+{"text": "自主 选拔 录取 办法", "cluster": 6}
+{"text": "上海 艺术 专业 招生 实施 办法", "cluster": 6}
+{"text": "自主 招生 联盟 特色", "cluster": 6}
+{"text": "规定 高中 教育 成绩 排名", "cluster": 6}
+{"text": "名师 自主 招生 笔试 全面", "cluster": 6}
+{"text": "2012年 高考 15日 开始 报名", "cluster": 6}
+{"text": "湖南 大学 2012年 保送生 招生 简章", "cluster": 6}
+{"text": "清华 推出 自主 招生 计划", "cluster": 6}
+{"text": "北大 清华 放宽 农村 考生 条件", "cluster": 6}
+{"text": "全国 创新 英语 大赛 启动", "cluster": 6}
+{"text": "预计 高考 人数 10", "cluster": 6}
+{"text": "高三 期中 考试 作文 分析", "cluster": 6}
+{"text": "高校 自主 招生 农村 考生", "cluster": 6}
+{"text": "北京 交通 大学 2012年 艺术 特长生 招生 简章", "cluster": 6}
+{"text": "中国 人民 大学 2012年 艺术 专业 招生 简章", "cluster": 6}
+{"text": "连续 两年 就业 低于 专业", "cluster": 6}
+{"text": "2012年 高校 自主 招生 工作 通知", "cluster": 6}
+{"text": "北大 清华 特殊 招生 全面 PK", "cluster": 6}
+{"text": "教育部 2012 自主 招生 工作", "cluster": 6}
+{"text": "教育部 连续 两年 就业 低于 专业", "cluster": 6}
+{"text": "交大 艺术 特长生 招生 简章", "cluster": 6}
+{"text": "中国 人民 大学 艺术 专业 简章", "cluster": 6}
+{"text": "教育部 2012 高校 自主 选拔 录取 试点 工作", "cluster": 6}
+{"text": "四川 大学 2012年 招生 简章", "cluster": 6}
+{"text": "北大 清华 特殊 招生 PK", "cluster": 6}
+{"text": "自主 招生 新政 本科 入学 申请", "cluster": 6}
+{"text": "教育部 确认 自主 招生 没有", "cluster": 6}
+{"text": "教育部 要求 高校 自主 招生 农村 考生", "cluster": 6}
+{"text": "教育部 2012年 高校 自主 选拔 录取 工作 通知", "cluster": 6}
+{"text": "北大 清华 2012年 特殊 招生 全面 PK", "cluster": 6}
+{"text": "教育部 2012 高校 自主 选拔 录取 试点", "cluster": 6}
+{"text": "清华大学 2012年 70 艺术 特长生", "cluster": 6}
+{"text": "上海 秋季 高考 网上 报名 23日 开始", "cluster": 6}
+{"text": "2012 高校 毕业生 专业", "cluster": 6}
+{"text": "指导 物理 11月 复习 计划", "cluster": 6}
+{"text": "教育 年度 盛典 12月 20日 举行", "cluster": 6}
+{"text": "北大 清华 保送生 考试 撞车", "cluster": 6}
+{"text": "考生 美术 统考 考生", "cluster": 6}
+{"text": "报考 表演 专业 考生 考试", "cluster": 6}
+{"text": "同济 资格 审核 不再", "cluster": 6}
+{"text": "清华 北大 保送生 现象 作文", "cluster": 6}
+{"text": "调查 报告 高考 不足 已经 高校 生存", "cluster": 6}
+{"text": "清华 北大 保送生 现象 清华 作文", "cluster": 6}
+{"text": "上海 春季 高考 人数 最低", "cluster": 6}
+{"text": "备考 2012年 高考 热点 作文 方式", "cluster": 6}
+{"text": "政法 大学 2012年 保送生 招生 实施 办法", "cluster": 6}
+{"text": "西安 电子 科技 大学 2012年 保送生 选拔 实施 办法", "cluster": 6}
+{"text": "山东 大学 2012年 保送生 招生 简章", "cluster": 6}
+{"text": "南京 大学 2012年 保送生 招生 简章", "cluster": 6}
+{"text": "江苏 24 院校 14 专业 招生", "cluster": 6}
+{"text": "北京 2012 高考 考试 说明 出炉 内容", "cluster": 6}
+{"text": "大学 教师 水平 教师 100", "cluster": 6}
+{"text": "14 高校 加入 广东 计划", "cluster": 6}
+{"text": "学校 尖子 被迫 保送", "cluster": 6}
+{"text": "清华 高校 招生 考生", "cluster": 6}
+{"text": "2012年 广东 高考 竞争", "cluster": 6}
+{"text": "专家 指导 如何 减少 高考 志愿 风险 技巧", "cluster": 6}
+{"text": "北大 清华 高校 免费 开放 学习", "cluster": 6}
+{"text": "安徽 大学生 免试 高校 本科", "cluster": 6}
+{"text": "山东 2012年 招生 专业 考试 说明", "cluster": 6}
+{"text": "广东 高中 学业 水平 考试 8日 报名", "cluster": 6}
+{"text": "解读 2012年 艺术类 高考 新政", "cluster": 6}
+{"text": "山东 2012 高考 11月 8日 开始", "cluster": 6}
+{"text": "广东 2011年 高中 学业 水平 考试 11月 报名", "cluster": 6}
+{"text": "第一 交大 亮相", "cluster": 6}
+{"text": "考试 提醒 空军 12月 进行", "cluster": 6}
+{"text": "甲骨文 考生 特长生", "cluster": 6}
+{"text": "2012年 山东 高考 常见 问题 解决 方法", "cluster": 6}
+{"text": "第二 卓越 计划 试点 院校", "cluster": 6}
+{"text": "专家 指导 考生 英语 复习 建议", "cluster": 6}
+{"text": "高考 常见 选择题 原因 对策", "cluster": 6}
+{"text": "北大 清华 推荐 名单 揭晓", "cluster": 6}
+{"text": "专家 如何 利用 时间 高考", "cluster": 6}
+{"text": "人民 大学 大学生 标准", "cluster": 6}
+{"text": "广东 政策 优秀 大学生 直接", "cluster": 6}
+{"text": "17 物理 提前 清华大学 录取", "cluster": 6}
+{"text": "发布 2012年 艺术 专业 考试 说明", "cluster": 6}
+{"text": "2012 户籍 考生 异地 直接 报名 参加 高考", "cluster": 6}
+{"text": "2012 艺术 招生 简章", "cluster": 6}
+{"text": "大学 自主 招生 15日 报名", "cluster": 6}
+{"text": "大学 2012 自主 选拔 录取 招生 简章", "cluster": 6}
+{"text": "参加 自主 招生 家长 注意 问题", "cluster": 6}
+{"text": "2012 普通 高校 美术 招生 统考 举行", "cluster": 6}
+{"text": "江苏 高考 网上 支付 报考", "cluster": 6}
+{"text": "优秀 作文 点评 可以 暂停", "cluster": 6}
+{"text": "清华 2012 自主 招生 百年 计划", "cluster": 6}
+{"text": "事件 可能 成为 自主 招生 考试", "cluster": 6}
+{"text": "中学 校长 推荐 学生 北大", "cluster": 6}
+{"text": "清华大学 2012 自主 选拔 推出 计划", "cluster": 6}
+{"text": "考生 家长 自主 招生 申请", "cluster": 6}
+{"text": "考生 高考 填报 志愿 秘诀", "cluster": 6}
+{"text": "高三 考生 参加 高校 自主 招生", "cluster": 6}
+{"text": "名校 自主 招生 联盟 质疑", "cluster": 6}
+{"text": "高考 充电 学习 方法", "cluster": 6}
+{"text": "高考 英语 复习 技巧", "cluster": 6}
+{"text": "11 行业 特色 大学 组建 北京 大学 联盟", "cluster": 6}
+{"text": "2012 专业 考点 曝光", "cluster": 6}
+{"text": "中学 校长 2012年 北大 推荐 资格", "cluster": 6}
+{"text": "2012年 上海 空军 工作 简介", "cluster": 6}
+{"text": "四川 空军 初选 工作 开始", "cluster": 6}
+{"text": "学习 能力 培养 提高 学习 成绩 重要 手段", "cluster": 6}
+{"text": "英语 学习 技巧 科学 冲刺", "cluster": 6}
+{"text": "2012年 高考 16 细节 问题", "cluster": 6}
+{"text": "人大 自主 招生 政策 出台", "cluster": 6}
+{"text": "评论 解析", "cluster": 6}
+{"text": "广东 高考 报名 12月 现场 确认", "cluster": 6}
+{"text": "自主 招生 考生 家长 形势", "cluster": 6}
+{"text": "教育部 否认 机构 各地 中学", "cluster": 6}
+{"text": "热点 自主 招生 北约 华约 再次 撞车", "cluster": 6}
+{"text": "2012 各地 高考 报名 政策", "cluster": 6}
+{"text": "华东 2012年 自主 招生 招生", "cluster": 6}
+{"text": "华东 大学 2012年 自主 选拔 录取 实施", "cluster": 6}
+{"text": "山东 2012 高考 报名 网上 银行 20", "cluster": 6}
+{"text": "关注 自主 招生 高校 暂停 资格", "cluster": 6}
+{"text": "广东省 高考 考生 报名 办理 确认", "cluster": 6}
+{"text": "华东 2012 自主 选拔 录取 实施 上海市", "cluster": 6}
+{"text": "广东 2012年 高考 考生 公布", "cluster": 6}
+{"text": "异地 高考 改革 居民 反对 暂停", "cluster": 6}
+{"text": "体育 进入 高考 引导 作用", "cluster": 6}
+{"text": "卓越 联盟 高校 英语", "cluster": 6}
+{"text": "关注 甲骨文 考生 大学", "cluster": 6}
+{"text": "高校 提供 信息 公开 申请", "cluster": 6}
+{"text": "自主 招生 继续 高校 联盟 开放 报名", "cluster": 6}
+{"text": "北大 特殊 招生 12月 10日", "cluster": 6}
+{"text": "北京 考试 工作 继续 加强 人文", "cluster": 6}
+{"text": "北京 高中 体育 运动员 高考", "cluster": 6}
+{"text": "专家 指导 自主 招生 申请 学校", "cluster": 6}
+{"text": "北京市 2012年 艺术 特长生 12月", "cluster": 6}
+{"text": "重庆 大学生 创业 项目 资助", "cluster": 6}
+{"text": "清华 自主 招生 咨询 举行 最高", "cluster": 6}
+{"text": "上海 春季 高考 报名 即将 开始", "cluster": 6}
+{"text": "2012 高校 自主 招生 报考 指导", "cluster": 6}
+{"text": "香港 高校 2012年 内地 招生 人数 增加", "cluster": 6}
+{"text": "大学 自主 招生 常见 问题", "cluster": 6}
+{"text": "理解 选择题 答题", "cluster": 6}
+{"text": "中国 音乐 学院 成立 音乐 科技", "cluster": 6}
+{"text": "学校 尖子 被迫 协议 保送", "cluster": 6}
+{"text": "25日 自主 招生 指导 备考", "cluster": 6}
+{"text": "备考 指导 专题 方法", "cluster": 6}
+{"text": "2011年 高考 天津 试题", "cluster": 6}
+{"text": "质疑 教育部 高考 改革 是否", "cluster": 6}
+{"text": "江苏 高考 报名 人数 5%", "cluster": 6}
+{"text": "教育部 成为 高考 内容", "cluster": 6}
+{"text": "北京 2012年 普通 高校 体育 专业 考试 考生", "cluster": 6}
+{"text": "高三 参加 学业 水平 考试", "cluster": 6}
+{"text": "北京大学 2012年 保送生 招生 简章", "cluster": 6}
+{"text": "清华 2012年 高水平 运动员 简章", "cluster": 6}
+{"text": "上海 纽约 大学 2013年 招生", "cluster": 6}
+{"text": "北大 清华 保送生 笔试 面试 撞车", "cluster": 6}
+{"text": "高考 报名 11月 25日 结束", "cluster": 6}
+{"text": "高三 参加 学业 水平 考试 外语 口语 测试", "cluster": 6}
+{"text": "考生 网上 报名 自荐 保送 清华", "cluster": 6}
+{"text": "清华大学 2012年 高水平 运动员 招生 简章", "cluster": 6}
+{"text": "清华大学 2012年 保送生 招生 简章", "cluster": 6}
+{"text": "上海 高中 学业 水平 外语 测试 口语", "cluster": 6}
+{"text": "北大 校长 面试 高考 推荐", "cluster": 6}
+{"text": "安徽 中学 校长 儿子 推荐 清华 质疑", "cluster": 6}
+{"text": "西安 电子 科技 大学 特色", "cluster": 6}
+{"text": "音乐 学院 优势 专业", "cluster": 6}
+{"text": "院校 西安 电子 科大 红色 中国", "cluster": 6}
+{"text": "中国 政法 大学 项目 招收 高水平 运动员", "cluster": 6}
+{"text": "中国 人民 大学 放宽 农村 考生 保送 条件", "cluster": 6}
+{"text": "2012年 高考 网上 报名 12月 1日 开始", "cluster": 6}
+{"text": "2012 高考 高三 期中 考试 作文 分析", "cluster": 6}
+{"text": "高三 地理 备考 自然 人文 考点", "cluster": 6}
+{"text": "清华大学 艺术 特长生 要求 艺术", "cluster": 6}
+{"text": "全国 高校 自主 招生 保送生 简章", "cluster": 6}
+{"text": "高考 充电 2012 自主 招生 报考", "cluster": 6}
+{"text": "北大 清华 13 天才 少年", "cluster": 6}
+{"text": "中国 政法 2012 高水平 运动员", "cluster": 6}
+{"text": "同济 2012年 高水平 运动员 招生", "cluster": 6}
+{"text": "天津 大学 2012年 招生 简章", "cluster": 6}
+{"text": "清华 北大 保送生 再度 撞车", "cluster": 6}
+{"text": "中国 政法 大学 2012年 高水平 运动员 招生 简章", "cluster": 6}
+{"text": "中央 大学 2012年 高水平 运动员 招生 简章", "cluster": 6}
+{"text": "大学 2012年 招收 高水平 运动员 通知", "cluster": 6}
+{"text": "同济 大学 2012年 高水平 运动员 招生 简章", "cluster": 6}
+{"text": "西安 学院 2012年 高水平 运动员 招生 简章", "cluster": 6}
+{"text": "中国 人民 大学 2012年 高水平 运动员 招生 简章", "cluster": 6}
+{"text": "中国 海洋 大学 2012年 高水平 运动员 招生 简章", "cluster": 6}
+{"text": "专题 2011年 儿童 图画 推荐 第1", "cluster": 7}
+{"text": "专题 冰上", "cluster": 7}
+{"text": "搜狐 招聘", "cluster": 7}
+{"text": "访谈 感冒 预防 护理", "cluster": 7}
+{"text": "儿童", "cluster": 7}
+{"text": "2011 儿童 图画 推荐 第1", "cluster": 7}
+{"text": "保持 年轻 身体 10", "cluster": 7}
+{"text": "专题 宝宝", "cluster": 7}
+{"text": "专题 涨价 再度", "cluster": 7}
+{"text": "国际 顾问 母乳 喂养 艺术", "cluster": 7}
+{"text": "30 产后", "cluster": 7}
+{"text": "14:00 儿童 医生 儿童 预防 治疗", "cluster": 7}
+{"text": "第二 图画 27日 北大 揭晓", "cluster": 7}
+{"text": "产后 第一 开始", "cluster": 7}
+{"text": "孕期 胎儿 健康", "cluster": 7}
+{"text": "母乳 喂养 常见 12 解析", "cluster": 7}
+{"text": "增强 宝宝 10", "cluster": 7}
+{"text": "喂养 10 错误 宝宝", "cluster": 7}
+{"text": "影响 宝宝 睡眠 12", "cluster": 7}
+{"text": "专家 访谈 宝宝 护理 保健", "cluster": 7}
+{"text": "宝宝 天赋 喂养 技巧", "cluster": 7}
+{"text": "口语 不好 BB 英语", "cluster": 7}
+{"text": "11月 冰上 北京", "cluster": 7}
+{"text": "孩子 家长", "cluster": 7}
+{"text": "中国 女性 行为 调查 启动", "cluster": 7}
+{"text": "背后", "cluster": 7}
+{"text": "音乐 妈妈 还是 宝宝", "cluster": 7}
+{"text": "如何 音乐 培养 宝宝", "cluster": 7}
+{"text": "10 方法 保护 儿童", "cluster": 7}
+{"text": "饮料 陷阱 威胁 孩子 健康", "cluster": 7}
+{"text": "2011年 儿童 图画 推荐 第1", "cluster": 7}
+{"text": "妇科 专家 讲堂 了解", "cluster": 7}
+{"text": "2011 儿童 早期 发展 国际 研讨会 专题", "cluster": 7}
+{"text": "第二 图画 11月 27日 揭晓", "cluster": 7}
+{"text": "论坛 20 宝宝 圣诞 真相", "cluster": 7}
+{"text": "专家 冬季 如何 保健 子宫", "cluster": 7}
+{"text": "专题 争议", "cluster": 7}
+{"text": "宝宝 口语 完美 训练", "cluster": 7}
+{"text": "讲堂 为什么 母乳 喂养", "cluster": 7}
+{"text": "记者 政府 加大 补贴", "cluster": 7}
+{"text": "如何 防止 孩子 感染", "cluster": 7}
+{"text": "宝宝 天赋 早期 培养 技巧", "cluster": 7}
+{"text": "孕妇 营养 课堂 如何 安全", "cluster": 7}
+{"text": "专家 怎样 应对 宝宝", "cluster": 7}
+{"text": "专家 孕期 补充 哪些 营养", "cluster": 7}
+{"text": "论坛 圣诞节 宝宝 盘点", "cluster": 7}
+{"text": "14:00 专家 儿童 发育", "cluster": 7}
+{"text": "访谈 解析 女性 子宫 健康", "cluster": 7}
+{"text": "专家 讲堂 早期 治疗", "cluster": 7}
+{"text": "宝宝 发育 10 信号", "cluster": 7}
+{"text": "妈妈 利用 缓解 情绪", "cluster": 7}
+{"text": "外国 专家 解读 儿童 健康", "cluster": 7}
+{"text": "启动 教师 计划", "cluster": 7}
+{"text": "专家 儿童 常见 症状 解析", "cluster": 7}
+{"text": "视频 讲堂 系列", "cluster": 7}
+{"text": "专题 怎样 孩子 保障 安全", "cluster": 7}
+{"text": "访谈 孩子 早期 教育", "cluster": 7}
+{"text": "2011 家庭 基金 大型 访谈", "cluster": 7}
+{"text": "孕期 控制 16 秘诀", "cluster": 7}
+{"text": "宝宝 喂养 消化 不良 怎么办", "cluster": 7}
+{"text": "孕期 营养 课堂 如何 健康", "cluster": 7}
+{"text": "视频 专家 儿童 方法", "cluster": 7}
+{"text": "讲堂 专家 如何 宝宝 获得 睡眠", "cluster": 7}
+{"text": "培养 宝宝 健康 饮食 习惯", "cluster": 7}
+{"text": "培养 聪明 孩子 习惯 直播", "cluster": 7}
+{"text": "冬季 怀孕 导致 胎儿", "cluster": 7}
+{"text": "产后 注意 什么", "cluster": 7}
+{"text": "宝宝 如何 养成 生活 习惯", "cluster": 7}
+{"text": "冬季 皮肤 疾病", "cluster": 7}
+{"text": "女性 伤害 子宫 行为 记录", "cluster": 7}
+{"text": "护理 宝宝 方法", "cluster": 7}
+{"text": "英国 女儿 10 成功", "cluster": 7}
+{"text": "伤害 宝宝 常见 危险 游戏", "cluster": 7}
+{"text": "孕妇 常见 错误 饮食 习惯", "cluster": 7}
+{"text": "养成 宝宝 良好 学习 习惯", "cluster": 7}
+{"text": "培养 BB 艺术 注意 问题", "cluster": 7}
+{"text": "宝宝 妈妈 营养 导致", "cluster": 7}
+{"text": "专题 专家 冬季 宝宝 护理 常见 问题", "cluster": 7}
+{"text": "宝宝 健康 过冬 护理 细节", "cluster": 7}
+{"text": "如何 培养 儿童 饮食", "cluster": 7}
+{"text": "孕期 危险 职业 PK 绿色 职业", "cluster": 7}
+{"text": "如何 培养 宝宝 学习 方式", "cluster": 7}
+{"text": "47 婴儿 飞机 意外", "cluster": 7}
+{"text": "护理 感冒 宝宝 五大", "cluster": 7}
+{"text": "宝宝 哪些 疾病 感冒 症状", "cluster": 7}
+{"text": "冬季 婴儿 皮肤 怎么办", "cluster": 7}
+{"text": "儿童 意外 伤害", "cluster": 7}
+{"text": "引发 疾病", "cluster": 7}
+{"text": "宝宝 10", "cluster": 7}
+{"text": "怀孕 时期 变化", "cluster": 7}
+{"text": "冬季 防止 宝宝 皮肤", "cluster": 7}
+{"text": "专家 指导 营养", "cluster": 7}
+{"text": "专家 指导 健康 怀孕", "cluster": 7}
+{"text": "冬季 宝宝 皮肤 怎么 护理", "cluster": 7}
+{"text": "妇科 专家 指导 冬季 女性 子宫 保健", "cluster": 7}
+{"text": "警惕 父母 应该 孩子", "cluster": 7}
+{"text": "2011 儿童 早期 发展 国际 研讨会", "cluster": 7}
+{"text": "提高 宝宝 哪些", "cluster": 7}
+{"text": "宝宝 意外 家长 如何 应对", "cluster": 7}
+{"text": "孕期 哪些 疫苗 保护 胎儿", "cluster": 7}
+{"text": "技巧 孩子 保护", "cluster": 7}
+{"text": "宝宝 睡眠 质量 不好 怎么办", "cluster": 7}
+{"text": "宝宝 睡眠 八大 症状", "cluster": 7}
+{"text": "我国 女性 90 增至 98", "cluster": 7}
+{"text": "专家 为什么 女性", "cluster": 7}
+{"text": "宝宝 各类 习惯 家长 应对", "cluster": 7}
+{"text": "聪明 孕期 安全 问题", "cluster": 7}
+{"text": "宝宝 喂养 消化 不良 问题", "cluster": 7}
+{"text": "BB 错误 饮食 习惯", "cluster": 7}
+{"text": "论坛 宝宝 关于 不同", "cluster": 7}
+{"text": "专题 增至 98 争议", "cluster": 7}
+{"text": "关系 如何 怎么 看待", "cluster": 7}
+{"text": "专家 讲堂 哪些", "cluster": 7}
+{"text": "图画 27日 揭晓 讲座", "cluster": 7}
+{"text": "儿童 早期 发展 国际 研讨会", "cluster": 7}
+{"text": "女人 30 16 保健", "cluster": 7}
+{"text": "讲堂 宝宝 早期 营养 发育", "cluster": 7}
+{"text": "论坛 生活", "cluster": 7}
+{"text": "提高 孕妇 营养", "cluster": 7}
+{"text": "专题 2011年 儿童 图画 推荐 第3", "cluster": 7}
+{"text": "妇科 专家 讲堂 如何 健康 宝宝", "cluster": 7}
+{"text": "中国 教育 年度 搜狐 教育 年度 盛典", "cluster": 7}
+{"text": "专家 医生", "cluster": 7}
+{"text": "宝宝 冬季 饮食", "cluster": 7}
+{"text": "14:00 宝宝 发育 风险 控制", "cluster": 7}
+{"text": "儿子 真实 纪录", "cluster": 7}
+{"text": "冬季 孕妇 饮食 问题 全面", "cluster": 7}
+{"text": "如何 早期 发现 儿童 心理", "cluster": 7}
+{"text": "期间 重点", "cluster": 7}
+{"text": "影响 BB 心理 细节", "cluster": 7}
+{"text": "宝宝 安全 预防 引导", "cluster": 7}
+{"text": "论坛 宝宝 妈妈 盘点", "cluster": 7}
+{"text": "哪些 营养 缺乏 胎儿 影响", "cluster": 7}
+{"text": "女性 应该 怎样", "cluster": 7}
+{"text": "伤害 释放 情绪", "cluster": 7}
+{"text": "如何 发现 宝宝 美术 天赋", "cluster": 7}
+{"text": "专题 安全 教育 意外 伤害", "cluster": 7}
+{"text": "讲堂 专家 孕期 保健 产后 指导", "cluster": 7}
+{"text": "遭遇 10 风险", "cluster": 7}
+{"text": "怎样 培养 孩子 自然 智能", "cluster": 7}
+{"text": "怀孕 期间 注意 补充 营养", "cluster": 7}
+{"text": "法学 如何", "cluster": 7}
+{"text": "BB 心理 压力 哪些 身体", "cluster": 7}
+{"text": "15日 2011 儿童 早期 发展 国际 研讨会", "cluster": 7}
+{"text": "访谈 冬季 宝宝 皮肤 护理", "cluster": 7}
+{"text": "孕妇 紧张 影响 BB", "cluster": 7}
+{"text": "西装 保暖", "cluster": 8}
+{"text": "PK 低调", "cluster": 8}
+{"text": "quot quot 揭秘", "cluster": 8}
+{"text": "系列 2011 盛大 举行", "cluster": 8}
+{"text": "男人", "cluster": 8}
+{"text": "香港 活动 启动", "cluster": 8}
+{"text": "时尚", "cluster": 8}
+{"text": "明星 时尚 顾问 选择", "cluster": 8}
+{"text": "时尚 如何 搭配", "cluster": 8}
+{"text": "大型 推荐", "cluster": 8}
+{"text": "背后 故事", "cluster": 8}
+{"text": "完美 组合 寒冬 风采", "cluster": 8}
+{"text": "明星 示范 冬季 帽子 时髦 搭配", "cluster": 8}
+{"text": "秋冬季 时髦 应该 怎么 搭配", "cluster": 8}
+{"text": "大衣 时尚", "cluster": 8}
+{"text": "欧美 明星 示范 冬季 帽子 时髦 搭配", "cluster": 8}
+{"text": "20", "cluster": 8}
+{"text": "印度 独特 奢华", "cluster": 8}
+{"text": "完美 组合 风采", "cluster": 8}
+{"text": "明星 街头 造型 巨星", "cluster": 8}
+{"text": "示范", "cluster": 8}
+{"text": "女性 10 周年 庆典 举办", "cluster": 8}
+{"text": "时尚 名人 重庆 盛典", "cluster": 8}
+{"text": "消费 风险 系统 启动", "cluster": 8}
+{"text": "宫廷 风格 抢眼", "cluster": 8}
+{"text": "没有 斗篷 时髦", "cluster": 8}
+{"text": "欧美 女星 经典 皮衣", "cluster": 8}
+{"text": "冬日 风格 女人", "cluster": 8}
+{"text": "2011 秋冬季 毛衣 怎么", "cluster": 8}
+{"text": "搭配 大衣 流行", "cluster": 8}
+{"text": "明星 斗篷 保暖", "cluster": 8}
+{"text": "经典 围巾 街头 保暖", "cluster": 8}
+{"text": "上海 地区 圣诞 折扣 指南", "cluster": 8}
+{"text": "派对 女王 示范", "cluster": 8}
+{"text": "香港 2011 冬日 折扣 一览", "cluster": 8}
+{"text": "女星 人人", "cluster": 8}
+{"text": "11 50 值得", "cluster": 8}
+{"text": "大衣 温暖 时髦 过冬", "cluster": 8}
+{"text": "寒冬 需要", "cluster": 8}
+{"text": "街头 造型 巨星 还是", "cluster": 8}
+{"text": "派对 如何 内衣", "cluster": 8}
+{"text": "上海 时装 时尚", "cluster": 8}
+{"text": "女星 50 秋季 最佳 搭配 示范", "cluster": 8}
+{"text": "推荐 50 温暖 人气 毛衣", "cluster": 8}
+{"text": "2011 大片 趋势 点评", "cluster": 8}
+{"text": "日本 街头 西装", "cluster": 8}
+{"text": "12 米兰 时装", "cluster": 8}
+{"text": "一样 神秘", "cluster": 8}
+{"text": "斗篷 成为 流行", "cluster": 8}
+{"text": "超级", "cluster": 8}
+{"text": "周年 庆典", "cluster": 8}
+{"text": "时髦 斗篷 保暖 过冬 搭配", "cluster": 8}
+{"text": "明星 示范 毛衣 温暖 冬季", "cluster": 8}
+{"text": "男人 风格", "cluster": 8}
+{"text": "欧美 女星 50 秋季 最佳 造型 盘点", "cluster": 8}
+{"text": "流行 热门 西装 搭配", "cluster": 8}
+{"text": "欧美 女星 秋季 最佳 造型 盘点", "cluster": 8}
+{"text": "推荐 温暖 人气 毛衣", "cluster": 8}
+{"text": "上演 顶级 奢华", "cluster": 8}
+{"text": "宫廷 抢眼", "cluster": 8}
+{"text": "内衣 圣诞 大片 低调 机会", "cluster": 8}
+{"text": "毛衣 潮流 搭配 冬日", "cluster": 8}
+{"text": "温暖 冬日 毛衣 推荐", "cluster": 8}
+{"text": "黑色 冬日 街头 主流", "cluster": 8}
+{"text": "实用 风格", "cluster": 8}
+{"text": "欧美 黑色 冬日 街头 主流", "cluster": 8}
+{"text": "时尚 大片 演绎", "cluster": 8}
+{"text": "明星 斗篷 搭配 温暖 时尚", "cluster": 8}
+{"text": "时髦 细节 毛衣 必须", "cluster": 8}
+{"text": "宫廷 秋冬季 潮流", "cluster": 8}
+{"text": "10 内衣 完美 升级", "cluster": 8}
+{"text": "明星 quot quot", "cluster": 8}
+{"text": "12 手机 时髦", "cluster": 8}
+{"text": "围巾 美丽 使命 升级 冬日 保暖", "cluster": 8}
+{"text": "时装 搭配 再次", "cluster": 8}
+{"text": "时尚 引爆", "cluster": 8}
+{"text": "20 值得 派对", "cluster": 8}
+{"text": "明星 演绎 可以 时尚", "cluster": 8}
+{"text": "明星 演绎 搭配", "cluster": 8}
+{"text": "quot quot 潮流 皮衣", "cluster": 8}
+{"text": "围巾 使命 升级 冬日 保暖", "cluster": 8}
+{"text": "印度 独特", "cluster": 8}
+{"text": "重庆 重庆 啤酒 监管 内容 曝光", "cluster": 9}
+{"text": "央行 季度 居民 投资 股票", "cluster": 9}
+{"text": "今年 美国 住房 价值 降幅", "cluster": 9}
+{"text": "寻求 银行 规定", "cluster": 9}
+{"text": "穆迪 维持 韩国 评级 展望", "cluster": 9}
+{"text": "美国 第3 季度 GDP 增速 预期", "cluster": 9}
+{"text": "日本 政府 下调 经济 增长 预期", "cluster": 9}
+{"text": "印度 央行 政策 重点 增长", "cluster": 9}
+{"text": "国际 油价 12月 上涨", "cluster": 9}
+{"text": "印度 央行 报告 资产 质量 风险", "cluster": 9}
+{"text": "苹果 iPhone 市场 份额 欧洲 部分 地区 下滑", "cluster": 9}
+{"text": "亚太 市场 盘点 主要 股市 多数", "cluster": 9}
+{"text": "日本 石油 公司 可能 收购", "cluster": 9}
+{"text": "日本 政府 日本 央行 引导 日本", "cluster": 9}
+{"text": "印度 央行 2012 财年 经济 增速 低于", "cluster": 9}
+{"text": "深度 解读 银行 注资 计划", "cluster": 9}
+{"text": "世纪 预计 明年 用户", "cluster": 9}
+{"text": "明年 发布 互联网", "cluster": 9}
+{"text": "巴西 建议 污染 环境 起诉", "cluster": 9}
+{"text": "计划 明年 新加坡 数量", "cluster": 9}
+{"text": "企业 安全 提供 美元 投资", "cluster": 9}
+{"text": "腾讯 调整 游戏", "cluster": 9}
+{"text": "教育部 建设 教育 交流 合作 广州 机制", "cluster": 9}
+{"text": "欧元 美元 周四 亚太 时段 维持 区域", "cluster": 9}
+{"text": "联合 美国 面临", "cluster": 9}
+{"text": "中国 官员 地方 基金 投资", "cluster": 9}
+{"text": "世界 各国 行业 历史 数据", "cluster": 9}
+{"text": "周四 讨论 美元 出售 亚洲 资产 交易", "cluster": 9}
+{"text": "房屋 数据 维持 道指 目前 下跌", "cluster": 9}
+{"text": "今年 全球 IPO 融资 总额", "cluster": 9}
+{"text": "板块 整体 上涨 人气", "cluster": 9}
+{"text": "科技 项目 能力 稳定 75% 以上", "cluster": 9}
+{"text": "深市 活跃 公开 信息 12 12", "cluster": 9}
+{"text": "澄清 媒体 关于 事故 传闻", "cluster": 9}
+{"text": "11月 销售 面积 金额", "cluster": 9}
+{"text": "IMF 专家 认为 世界 经济 复苏 面临 形势", "cluster": 9}
+{"text": "影业 排名 中国 概念 增速 第六", "cluster": 9}
+{"text": "全球 主权 依然 安全", "cluster": 9}
+{"text": "欧洲 投资 风险", "cluster": 9}
+{"text": "评论 人士 分析", "cluster": 9}
+{"text": "预计 全球 市场", "cluster": 9}
+{"text": "刺激 机构 介入 疫苗 概念 名单", "cluster": 9}
+{"text": "纽约 CEO 有望 超过 美元", "cluster": 9}
+{"text": "分析 德国 面临 衰退 风险", "cluster": 9}
+{"text": "欧元 多数 国际 主要 交易 对手 汇率 下跌", "cluster": 9}
+{"text": "欧元 支付 系统 欧元 支付 2014年", "cluster": 9}
+{"text": "外资 银行 融资 美元", "cluster": 9}
+{"text": "欧洲 央行 三年 贷款 欧元", "cluster": 9}
+{"text": "再次 警告 威胁 AAA 评级", "cluster": 9}
+{"text": "欧洲 经济 短期 缺乏 欧元", "cluster": 9}
+{"text": "英国 面临 破产", "cluster": 9}
+{"text": "集团 出售 英镑 物业 贷款", "cluster": 9}
+{"text": "集团 2011年 第三 季度 320 美元", "cluster": 9}
+{"text": "第一 盈利 下降", "cluster": 9}
+{"text": "预计 2012年 盈利 增长", "cluster": 9}
+{"text": "资本 评级 机构 纷纷 下调 甲骨文 目标", "cluster": 9}
+{"text": "证券 维持 股票 买入 评级", "cluster": 9}
+{"text": "意志 银行 中国 社交 游戏 报告 明年 格局", "cluster": 9}
+{"text": "法院 教育 股东 大会", "cluster": 9}
+{"text": "环球 天下 股东 大会 批准 收购 交易", "cluster": 9}
+{"text": "美国 银行 出售 美元 贷款 组合", "cluster": 9}
+{"text": "快讯 报道 国际 消费 电子", "cluster": 9}
+{"text": "汽车 寻求 顾问 削减 北美 地区", "cluster": 9}
+{"text": "CEO 旅游 坚持 媒体", "cluster": 9}
+{"text": "预测 网络 行业 2012年 最新 趋势", "cluster": 9}
+{"text": "哪些 住宅 地产 公司 重要", "cluster": 9}
+{"text": "大盘 难度", "cluster": 9}
+{"text": "公司 股东 违规 买卖 公司", "cluster": 9}
+{"text": "股票 数量 上升 成交 三年", "cluster": 9}
+{"text": "爱尔兰 财长 财政 协议 联盟", "cluster": 9}
+{"text": "国际 能源 机构 专家 油价 威胁 世界 经济 复苏", "cluster": 9}
+{"text": "欧元 10月 连续 第二 下降", "cluster": 9}
+{"text": "网站 网易 有望 获得 使命", "cluster": 9}
+{"text": "移动 合作 关系", "cluster": 9}
+{"text": "资产 起诉 瑞士 信贷 集团", "cluster": 9}
+{"text": "苹果 移动 大幅 英特尔", "cluster": 9}
+{"text": "美国 汽车 贷款 明年 继续 保持", "cluster": 9}
+{"text": "中国 汽车 租赁 行业 背后", "cluster": 9}
+{"text": "美国 值得 工作 公司 咨询", "cluster": 9}
+{"text": "美国 上周 贷款 融资 需求 大幅 上升", "cluster": 9}
+{"text": "多数 经济学家 预测 全球 经济 再次 衰退", "cluster": 9}
+{"text": "经济 衰退 导致 欧元", "cluster": 9}
+{"text": "法国 信贷 银行 考虑 业务", "cluster": 9}
+{"text": "移动 计划 明年 智能", "cluster": 9}
+{"text": "联手 在线 销售 内容", "cluster": 9}
+{"text": "调查 显示 全球 投资者 美国 股市 风险", "cluster": 9}
+{"text": "法国 克服 主权 信用 评级 情况", "cluster": 9}
+{"text": "国际 黄金 周三 亚太 时段 回升", "cluster": 9}
+{"text": "11月 以来 最低 水平", "cluster": 9}
+{"text": "澳元 美元 反弹 报道 中国 维持 货币 政策", "cluster": 9}
+{"text": "主力 资金 14日 抛售 30", "cluster": 9}
+{"text": "疯狂 历史 再次", "cluster": 9}
+{"text": "证券 关注 成本 回落 投资 机会", "cluster": 9}
+{"text": "食品 饮料 行业 评级", "cluster": 9}
+{"text": "明年 科技 改革", "cluster": 9}
+{"text": "美国 企业 经济 前景 信心 继续 上升", "cluster": 9}
+{"text": "网上 周年 股价 美元", "cluster": 9}
+{"text": "香港 基金 面临 资金 压力", "cluster": 9}
+{"text": "美联储 认为 美国 经济 改善", "cluster": 9}
+{"text": "互联网 企业 海外 上市 遭遇 寒冬", "cluster": 9}
+{"text": "评级 机构 欧盟 峰会", "cluster": 9}
+{"text": "主权 债务 危机 对比 不同", "cluster": 9}
+{"text": "美元 所有 主要 交易 对手 上涨", "cluster": 9}
+{"text": "经济学家 预测 美联储 明年 刺激", "cluster": 9}
+{"text": "欧盟 财政 协议 明年 3月 最后 敲定", "cluster": 9}
+{"text": "纽约 原油 期货 收盘 上涨", "cluster": 9}
+{"text": "12月 4日 深市 创业 公告", "cluster": 9}
+{"text": "香港 能力 大量 资本", "cluster": 9}
+{"text": "世界 经济 论坛 报告 香港 金融 发展 指数 全球", "cluster": 9}
+{"text": "新华 保险 预计 15日 上市", "cluster": 9}
+{"text": "汇率 变动 市场 什么 影响", "cluster": 9}
+{"text": "深市 活跃 公开 信息 12", "cluster": 9}
+{"text": "十二五 流通 管理 指导 发布", "cluster": 9}
+{"text": "主权 银行 债券 面临 降级 风险", "cluster": 9}
+{"text": "经济 复苏 美联储 放弃 可能性", "cluster": 9}
+{"text": "利率 政策 声明 经济 前景 面临 重大 下行 风险", "cluster": 9}
+{"text": "快讯 下调 巴西 2011年 GDP 增长 预期", "cluster": 9}
+{"text": "快讯 公司 季度 提高 每股", "cluster": 9}
+{"text": "投资 网站 股票 买入 18 美元", "cluster": 9}
+{"text": "Zynga 尚未 上市 交易 评级", "cluster": 9}
+{"text": "未来 资产 360 游戏", "cluster": 9}
+{"text": "回应 变动 网易 继续 合作", "cluster": 9}
+{"text": "腾讯 6亿 美元 今日 报价 上市", "cluster": 9}
+{"text": "股东 要求 公司 公布 潜在 收购 建议", "cluster": 9}
+{"text": "金融 清算 调查 部分 摩根 贷款", "cluster": 9}
+{"text": "航空 飞机 价值 美元", "cluster": 9}
+{"text": "Zynga 上市 70亿 美元 值得", "cluster": 9}
+{"text": "起诉 花旗 发布 信息 股价", "cluster": 9}
+{"text": "全球 经济 增长 明年 拐点", "cluster": 9}
+{"text": "证监会 11月 境外 机构 QFII 资格", "cluster": 9}
+{"text": "国际 油价 12月 21日 下跌", "cluster": 9}
+{"text": "反对 加入 欧元 比例 新高", "cluster": 9}
+{"text": "快讯 央行 通过 提供 银行业 欧元", "cluster": 9}
+{"text": "欧盟 宣布 央行 资金 资产", "cluster": 9}
+{"text": "穆迪 公司 上调 印度 债券 评级", "cluster": 9}
+{"text": "英特尔 推出 智能 手机 产品", "cluster": 9}
+{"text": "市场 等待 销售 数据", "cluster": 9}
+{"text": "环球 天下 宣布 并购 计划 完成", "cluster": 9}
+{"text": "亚太 时段 国际 黄金 攀升 延续", "cluster": 9}
+{"text": "美元 指数 美元 上行 趋势 保持", "cluster": 9}
+{"text": "明年 市场 走势 09年", "cluster": 9}
+{"text": "日本 评级 机构 下调 日本 主权 信用 评级", "cluster": 9}
+{"text": "IMF 经济学家 新兴 市场 短期", "cluster": 9}
+{"text": "完成 今日 独立 上市 交易", "cluster": 9}
+{"text": "10年 10 并购 交易 收购", "cluster": 9}
+{"text": "美国 全面 复苏 2013年", "cluster": 9}
+{"text": "中国 为何 大举 收购 资产", "cluster": 9}
+{"text": "16 机构 RQFII 资格", "cluster": 9}
+{"text": "亚太 日本 11月 出口 同比 下降", "cluster": 9}
+{"text": "顺利 日经 225 指数 上涨 1.4%", "cluster": 9}
+{"text": "中国 城市 入选 年度 未来 城市 投资", "cluster": 9}
+{"text": "证券 成为 中国 破产 清算 证券 公司", "cluster": 9}
+{"text": "经济 下行 处于 高位", "cluster": 9}
+{"text": "国家 十二五 规划 发布", "cluster": 9}
+{"text": "巴西 11月 项目 以来 最高", "cluster": 9}
+{"text": "美联储 公布 大型 银行 资本 建议", "cluster": 9}
+{"text": "全球 央行 刺激 经济 明确", "cluster": 9}
+{"text": "美联储 公布 银行 监管 规则", "cluster": 9}
+{"text": "RIM 拒绝 潜在 收购 收购", "cluster": 9}
+{"text": "股东 大会 批准 交易", "cluster": 9}
+{"text": "深圳 宣布 收购 湖南 控制 股权", "cluster": 9}
+{"text": "投资者 考虑 收购 环球 天下 事宜", "cluster": 9}
+{"text": "影业 今日 公布 股东 大会", "cluster": 9}
+{"text": "瑞士 信贷 出售 日本 银行 业务", "cluster": 9}
+{"text": "消息 考虑 联合 收购 RIM", "cluster": 9}
+{"text": "经济 低迷 欧美 圣诞 消费 乐观", "cluster": 9}
+{"text": "中国 明年 在线 视频 用户", "cluster": 9}
+{"text": "2011 网络 视频 依旧", "cluster": 9}
+{"text": "中国 房地产 降价 还是 忽悠", "cluster": 9}
+{"text": "国资 大盘 上市 公司", "cluster": 9}
+{"text": "20日 纽约 美元 主要 货币 下跌", "cluster": 9}
+{"text": "：日 购买 100亿 美元 人民币 债券", "cluster": 9}
+{"text": "央行 危机 可能 蔓延 全球", "cluster": 9}
+{"text": "瑞士 保险 今年 损失 美元", "cluster": 9}
+{"text": "日本 11月 贸易 扩大 美元", "cluster": 9}
+{"text": "明年 欧洲 央行 25 基点", "cluster": 9}
+{"text": "欧盟 IMF 提供 欧元 贷款", "cluster": 9}
+{"text": "希腊 债务 重组 谈判 陷入 困境", "cluster": 9}
+{"text": "甲骨文 第二 净利润 美元 同比", "cluster": 9}
+{"text": "新浪 股价 周二 上涨 6%", "cluster": 9}
+{"text": "改善 欧洲 各国 财政 状况", "cluster": 9}
+{"text": "最高 音乐 达成 合作 协议", "cluster": 9}
+{"text": "纽约 今年 数量 突破", "cluster": 9}
+{"text": "意大利 银行 评级 观察 名单", "cluster": 9}
+{"text": "长安 汽车 引发 强劲 反弹", "cluster": 9}
+{"text": "印度 通过 安全 扩大 食品 补贴 范围", "cluster": 9}
+{"text": "中国 考虑 提高 海外 上限", "cluster": 9}
+{"text": "调查 显示 2012年 第一 季度 美国 企业 有望 增加 招聘", "cluster": 9}
+{"text": "教育 独立 第三 审核", "cluster": 9}
+{"text": "出售 遭遇 对冲 基金", "cluster": 9}
+{"text": "公司 2012 财年 不再 招聘", "cluster": 9}
+{"text": "十二五 期间 文化 产业 融资", "cluster": 9}
+{"text": "今年 全球 汽车 销量 历史 新高", "cluster": 9}
+{"text": "商品 价格 明年 季度 强劲", "cluster": 9}
+{"text": "调查 今年 巴西 央行 目标", "cluster": 9}
+{"text": "美国 削减 计划 面临 确定 前景", "cluster": 9}
+{"text": "影响 市场 短期", "cluster": 9}
+{"text": "周一 亚太 时段 国际 黄金 回落", "cluster": 9}
+{"text": "央行 德国 可能 AAA 评级", "cluster": 9}
+{"text": "全球 股票 基金 今年 出现", "cluster": 9}
+{"text": "预计 2012 财年 收入 美元", "cluster": 9}
+{"text": "十年 期待 中国 旅游", "cluster": 9}
+{"text": "纽约 股市 出现 成交量 低迷 震荡 格局", "cluster": 9}
+{"text": "技术 中心 第七 技术 能源 系统 技术 合作 研讨会 广州 召开", "cluster": 9}
+{"text": "经典 再现 320", "cluster": 9}
+{"text": "年度 考虑 推出 融资 措施", "cluster": 9}
+{"text": "短期 政策 缺乏 利好 刺激", "cluster": 9}
+{"text": "中国 今年 销售 收入 预计", "cluster": 9}
+{"text": "证券 国际 业务 前景", "cluster": 9}
+{"text": "12月 上市 公司 股东 资金", "cluster": 9}
+{"text": "2012年 再次 出现 市场 可能性", "cluster": 9}
+{"text": "网易 经济学家 年会 IMF 总裁", "cluster": 9}
+{"text": "独家 调查 结构 中国 经济 威胁", "cluster": 9}
+{"text": "评论 为什么 危机 可能 已经 结束", "cluster": 9}
+{"text": "德国 明年 欧洲 稳定 机制 份额", "cluster": 9}
+{"text": "收购 能源 公司 股权", "cluster": 9}
+{"text": "通过 股权 置换 增加 美元 资本", "cluster": 9}
+{"text": "联合 租赁 美元 收购", "cluster": 9}
+{"text": "第四 净利润 美元 同比 下滑", "cluster": 9}
+{"text": "搜狐 视频 美国 影业 内容 合作 协议", "cluster": 9}
+{"text": "汽车 反对 出售 中国 投资者", "cluster": 9}
+{"text": "正式 俄罗斯 巴西 第五 国家 发售", "cluster": 9}
+{"text": "明年 发布 平台 移动 产品", "cluster": 9}
+{"text": "未来 哪些 股票 值得 期待", "cluster": 9}
+{"text": "实现 财务 买卖", "cluster": 9}
+{"text": "外资 中国 股票 比例 高点", "cluster": 9}
+{"text": "香港 有望 连续 3年 全球", "cluster": 9}
+{"text": "中国 涉嫌 违规 调查 结束", "cluster": 9}
+{"text": "欧元 美元 2007年 最高 水平", "cluster": 9}
+{"text": "欧洲 银行业 处于 改革 重组", "cluster": 9}
+{"text": "欧洲 未来 两年 新兴 市场 即将", "cluster": 9}
+{"text": "专家 预测 美国 明年 经济 2%", "cluster": 9}
+{"text": "穆迪 下调 比利时 主权 信用 评级", "cluster": 9}
+{"text": "美国 经济 能否 持续 观察", "cluster": 9}
+{"text": "重庆 啤酒 连续 第八 开盘", "cluster": 9}
+{"text": "深市 活跃 公开 信息 12 16", "cluster": 9}
+{"text": "深市 活跃 公开 信息 12 15", "cluster": 9}
+{"text": "深市 活跃 公开 信息 12 14", "cluster": 9}
+{"text": "深市 活跃 公开 信息 12 13", "cluster": 9}
+{"text": "2011年 国际 形势 报告 美国 亚太 目标 实现", "cluster": 9}
+{"text": "开盘 小幅 美元 指数 高位", "cluster": 9}
+{"text": "今年 全国 投资 新高", "cluster": 9}
+{"text": "事件 食品 饮料 板块", "cluster": 9}
+{"text": "收购 英国 石油 公司 股份", "cluster": 9}
+{"text": "银行 多数 业务 资本", "cluster": 9}
+{"text": "中国 信息 技术 公司 股价 低于 美元 纳斯达克 警告", "cluster": 9}
+{"text": "亚洲 2012年 欧洲 经济", "cluster": 9}
+{"text": "调查 2012年 美国 经济 增速", "cluster": 9}
+{"text": "苹果 2012年 第二 季度 推出", "cluster": 9}
+{"text": "2011年 科技 创业 公司 社交 移动", "cluster": 9}
+{"text": "租赁 唯一 租赁 如何 估值", "cluster": 9}
+{"text": "国际 年终 报道 合作 发展", "cluster": 9}
+{"text": "周二 国际 黄金 美元", "cluster": 9}
+{"text": "巴菲特 2012年 预言 世界 确定", "cluster": 9}
+{"text": "中国 暂停 香港 上市 计划", "cluster": 9}
+{"text": "西班牙 财长 第四 季度 经济 再现 增长", "cluster": 9}
+{"text": "交易员 上扬 欧元 美元 上涨", "cluster": 9}
+{"text": "日经 225 指数 下跌 25日 移动", "cluster": 9}
+{"text": "点评 12 24", "cluster": 9}
+{"text": "中央 农村 工作 会议 开幕", "cluster": 9}
+{"text": "明年 部分 上市 银行 融资 压力", "cluster": 9}
+{"text": "证券 关注 第二 试点 名单", "cluster": 9}
+{"text": "日本 央行 会议 危机 市场 持续 紧张", "cluster": 9}
+{"text": "进一步 下调 2012年 欧元 经济 增长 预期", "cluster": 9}
+{"text": "发布 2012 调研 报告", "cluster": 9}
+{"text": "韩国 政府 软件 产业 发展", "cluster": 9}
+{"text": "IMF 总裁 世界 经济 危险", "cluster": 9}
+{"text": "摩根 报告 明年 全球 经济", "cluster": 9}
+{"text": "欧洲 央行 银行 降级 威胁", "cluster": 9}
+{"text": "美国 提供 上市 融资 美元", "cluster": 9}
+{"text": "产业 2011 财年 每股 盈利 美元", "cluster": 9}
+{"text": "人人 公司 官方 声明 用户 数据", "cluster": 9}
+{"text": "PK 模式 全面", "cluster": 9}
+{"text": "今年 圣诞节 美国 市场 总额 7%", "cluster": 9}
+{"text": "分析 短期 市场 份额 继续 下滑", "cluster": 9}
+{"text": "出售 资产 加快 资本 速度", "cluster": 9}
+{"text": "iPhone 欧洲 市场 份额 下滑 用户", "cluster": 9}
+{"text": "11月 网站 独立 用户 美国 第二", "cluster": 9}
+{"text": "社交 网络 面临 困境 焦点", "cluster": 9}
+{"text": "新兴 市场 美国 全球 经济", "cluster": 9}
+{"text": "全球 货币 明年", "cluster": 9}
+{"text": "经济学家 下调 明年 巴西 预期", "cluster": 9}
+{"text": "中国 公司 模式 美国 股市 理解", "cluster": 9}
+{"text": "2011 中国 IPO 全球 第一", "cluster": 9}
+{"text": "新华 保险 上市 定价", "cluster": 9}
+{"text": "数据 显示 今年 境外 IPO", "cluster": 9}
+{"text": "背后 遭遇 风险", "cluster": 9}
+{"text": "建部 继续 坚持 房地产 调控 动摇", "cluster": 9}
+{"text": "证监会 证券 涉嫌 内幕 交易", "cluster": 9}
+{"text": "证监会 取消 12 审批 项目", "cluster": 9}
+{"text": "周五 开盘 延续 美国 数据", "cluster": 9}
+{"text": "美联储 金融 危机 期间 秘密 数据", "cluster": 9}
+{"text": "证券 12 获得 RQFII 试点 资格", "cluster": 9}
+{"text": "交会 提高 投资者 资本 要求", "cluster": 9}
+{"text": "11月 个人 收入 低于 预期", "cluster": 9}
+{"text": "法国 第三 季度 GDP 同比", "cluster": 9}
+{"text": "12月 26日 美国 欧洲 市场 圣诞节", "cluster": 9}
+{"text": "俄罗斯 央行 意外 下调 融资 利率", "cluster": 9}
+{"text": "韩国 汇率 大幅 进行", "cluster": 9}
+{"text": "中信 证券 十二 机构 境外 机构 投资者 资格", "cluster": 9}
+{"text": "关于 QFII 试点 有关 问题 通知", "cluster": 9}
+{"text": "公布 2012年 安排 1月 4日", "cluster": 9}
+{"text": "国务院 支持 移动 互联网 发展", "cluster": 9}
+{"text": "2012年 移动 互联网 突破 6亿", "cluster": 9}
+{"text": "美元 指数 美元 指数 变化", "cluster": 9}
+{"text": "12月 23日 热门 板块 机构 调研 深度", "cluster": 9}
+{"text": "美联储 可能 利率 维持 2014年", "cluster": 9}
+{"text": "今年 照片 视频 智能 手机 拍摄", "cluster": 9}
+{"text": "IMF 警告 蒙古 支出 威胁 经济", "cluster": 9}
+{"text": "欧盟 有望 IMF 注资 欧元", "cluster": 9}
+{"text": "网站 规则 手段", "cluster": 9}
+{"text": "中国 葡萄牙 注资 总额 80亿 欧元", "cluster": 9}
+{"text": "金融 风险 加大 提出 警告", "cluster": 9}
+{"text": "纽约 海外 央行 上周 美元", "cluster": 9}
+{"text": "危机 导致 股票 公司 减少", "cluster": 9}
+{"text": "多数 国际 主要 货币 汇率 下跌", "cluster": 9}
+{"text": "汽车 预计 明年 全球 销量 增长 20%", "cluster": 9}
+{"text": "央行 报告 资产 质量 风险", "cluster": 9}
+{"text": "IMF 首席 经济学家 认为 世界 经济 复苏 形势", "cluster": 9}
+{"text": "下调 匈牙利 主权 信用 评级 垃圾", "cluster": 9}
+{"text": "10月 房屋 价格 指数 下降", "cluster": 9}
+{"text": "11月 经济 指数 增长", "cluster": 9}
+{"text": "联合 信息 股价 长期 低于 美元 纳斯达克 警告", "cluster": 9}
+{"text": "环球 内幕 交易 调查 公司", "cluster": 9}
+{"text": "RIM 否认 10 没有 产品", "cluster": 9}
+{"text": "投资 机构 上调 iPhone 销售 预期", "cluster": 9}
+{"text": "移动 宣布 收购 在线 视频", "cluster": 9}
+{"text": "快讯 英特尔 市场 份额 增至", "cluster": 9}
+{"text": "全球 系统 市场 规模 美元", "cluster": 9}
+{"text": "2011年 科技 产品 盘点 移动 抢眼", "cluster": 9}
+{"text": "60亿 加码 内地 楼市", "cluster": 9}
+{"text": "中国 神秘 股东 曝光", "cluster": 9}
+{"text": "外资 加入 中国 收购", "cluster": 9}
+{"text": "国际 油价 逼近 100 美元", "cluster": 9}
+{"text": "美国 贷款 利率 历史 最低", "cluster": 9}
+{"text": "亚太 穆迪 维持 韩国 评级", "cluster": 9}
+{"text": "信心 指数 公布 小幅 上涨 道指 涨幅", "cluster": 9}
+{"text": "美国 12月 10日 银行 商业 指数", "cluster": 9}
+{"text": "北京市 部门 管理 规定 记者", "cluster": 9}
+{"text": "快讯 新浪 交易 继续 跌幅 7%", "cluster": 9}
+{"text": "西班牙 第3 季度 政府 债务 GDP 比例", "cluster": 9}
+{"text": "欧洲 银行 不良 银行 资本", "cluster": 9}
+{"text": "日本 10年 投资 产业 技术", "cluster": 9}
+{"text": "质量 安全 合作 机制", "cluster": 9}
+{"text": "2007年 银行 破产 损失 美元", "cluster": 9}
+{"text": "快讯 美国 11月 CPI 低于 预期", "cluster": 9}
+{"text": "欧盟 官员 部门 希腊 债务 重组 谈判 存在", "cluster": 9}
+{"text": "宣布 美元 计划", "cluster": 9}
+{"text": "汽车 11月 全球 销量 增长", "cluster": 9}
+{"text": "游戏 开发商 纷纷 移动 社交 商品 增长", "cluster": 9}
+{"text": "11月 CPI 同比 连续 两月 下滑", "cluster": 9}
+{"text": "西班牙 国家 地方 债务 增长", "cluster": 9}
+{"text": "RQFII 资金 投资 股市 超过 20%", "cluster": 9}
+{"text": "引爆 市场 能否 反弹", "cluster": 9}
+{"text": "实施 境外 机构 投资者 证券 投资 试点 办法 规定", "cluster": 9}
+{"text": "商品 期货 多数 大幅 反弹", "cluster": 9}
+{"text": "商品 期货 市场 全面 反弹", "cluster": 9}
+{"text": "价格 低于 美元 面临 风险", "cluster": 9}
+{"text": "美元 欧洲 银行 美元 资产", "cluster": 9}
+{"text": "11月 美国 市场 份额", "cluster": 9}
+{"text": "信息 公司 网络 价值", "cluster": 9}
+{"text": "亚太 中心 新建", "cluster": 9}
+{"text": "北京 明年 继续 实施 楼市", "cluster": 9}
+{"text": "股份 中标 第六 招标 项目", "cluster": 9}
+{"text": "花旗 暂停 部分 日本 业务", "cluster": 9}
+{"text": "美国 公司 年度 盈利 排名 第一 第二", "cluster": 9}
+{"text": "十二五 能源 规划 出炉 增长", "cluster": 9}
+{"text": "出口 企业 名单 公布", "cluster": 9}
+{"text": "李克强 推动 发展 产业 结构 调整 重点", "cluster": 9}
+{"text": "中国 美国 国债 美元 美元", "cluster": 9}
+{"text": "中信 证券 首席 涉嫌 违规 交易 证监会 调查", "cluster": 9}
+{"text": "报道 美国 今年 人数 最低", "cluster": 9}
+{"text": "美国 经济 数据 表现 乐观 日经 225 指数 温和 上涨", "cluster": 9}
+{"text": "亚太 澳洲 周五", "cluster": 9}
+{"text": "香港 10月 出口 价格 上涨", "cluster": 9}
+{"text": "穆迪 上调 美国 明年 GDP 预期", "cluster": 9}
+{"text": "欧洲 央行 下调 欧元 经济 增长 预期", "cluster": 9}
+{"text": "有望 美元 贷款 部分 股份", "cluster": 9}
+{"text": "航空 预期 2011 财年 调整 盈利 美元", "cluster": 9}
+{"text": "分析 最新 调查 环球 天下 收购", "cluster": 9}
+{"text": "英特尔 第三 季度 政府 支出 美元", "cluster": 9}
+{"text": "意志 银行 出售 全球 资产 管理 部门", "cluster": 9}
+{"text": "报告 互联网 成本 商业 信息 来源", "cluster": 9}
+{"text": "数据 移动 安全", "cluster": 9}
+{"text": "今年 全球 千亿 历史 第二", "cluster": 9}
+{"text": "2011年 中国 IPO 市场 关键词", "cluster": 9}
+{"text": "美元 多数 主要 交易 对手 汇率 下跌", "cluster": 9}
+{"text": "花旗 下调 收入 预期 影响", "cluster": 9}
+{"text": "RIM 第二 季度 净利润 美元 同比 下滑", "cluster": 9}
+{"text": "12月 15日 中国 概念 涨跌", "cluster": 9}
+{"text": "纽约 原油 期货 收盘 下跌", "cluster": 9}
+{"text": "美国 留下 美元 债务", "cluster": 9}
+{"text": "媒体 市场 IPO 机制", "cluster": 9}
+{"text": "数据 显示 重庆 啤酒 疫苗", "cluster": 9}
+{"text": "央行 调研 移动 支付 标准", "cluster": 9}
+{"text": "证监会 开放 发行 审核 全过程", "cluster": 9}
+{"text": "盘点 2011 中国 股市 八大 忽悠", "cluster": 9}
+{"text": "深圳 GDP 未来 五年 有望 香港 关注", "cluster": 9}
+{"text": "道指 开盘 上涨 上涨 纳斯达克", "cluster": 9}
+{"text": "市场 投资 市场 情绪 改善", "cluster": 9}
+{"text": "回应 涉嫌 内幕 交易 传闻", "cluster": 9}
+{"text": "欧洲 银行业 正在 处于 改革 重组", "cluster": 9}
+{"text": "欧元 多数 主要 交易 对手 汇率 下跌", "cluster": 9}
+{"text": "分析 欧元 面临 财务 风险", "cluster": 9}
+{"text": "亚太 股市 周五 收盘 反弹", "cluster": 9}
+{"text": "欧元 危机 明年 中国 经济 风险", "cluster": 9}
+{"text": "中国 企业 美国 资本 市场", "cluster": 9}
+{"text": "资金 投资 股市 超过 20%", "cluster": 9}
+{"text": "QFII 资格 额度 审批 加快", "cluster": 9}
+{"text": "审批 未来 两月 超过 两年", "cluster": 9}
+{"text": "网易 经济学家 年会 举行", "cluster": 9}
+{"text": "俄罗斯 谈判 今日 加入", "cluster": 9}
+{"text": "明年 扩大 房地产 调控 成果", "cluster": 9}
+{"text": "财政部 欧洲 危机 经济 前景 带来 严重 风险", "cluster": 9}
+{"text": "快讯 俄罗斯 成为 正式 成员", "cluster": 9}
+{"text": "国务院 出台 关于 加快 发展 技术 指导", "cluster": 9}
+{"text": "集团 2011年 中国 并购 市场 关键词", "cluster": 9}
+{"text": "经济 十年 高速 增长 背后 失血", "cluster": 9}
+{"text": "削减 上扬 道指 目前 上涨", "cluster": 9}
+{"text": "数据 支持 新高 美元 高位", "cluster": 9}
+{"text": "中国 开始 深度 50 公司 15", "cluster": 9}
+{"text": "移动 互联网 支付 最后 公里", "cluster": 9}
+{"text": "欧元 发行 十年 百亿 德国 民间", "cluster": 9}
+{"text": "国际 短期 震荡 明年", "cluster": 9}
+{"text": "美元 维持 震荡 欧元 下行", "cluster": 9}
+{"text": "报告 上市 银行 明年 净利润 增速 20%", "cluster": 9}
+{"text": "人民币 深圳 香港 带来 机会", "cluster": 9}
+{"text": "花旗 维持 恒大 地产 评级", "cluster": 9}
+{"text": "利好 释放 信号", "cluster": 9}
+{"text": "IMF 首席 经济学家 2011年 值得 警惕", "cluster": 9}
+{"text": "亚太 股市 周五 收盘 上扬", "cluster": 9}
+{"text": "12月 23日 中国 概念 涨跌", "cluster": 9}
+{"text": "主要 维持 上涨 格局", "cluster": 9}
+{"text": "巴西 政府 系列 投资 计划", "cluster": 9}
+{"text": "美国 经济 明年 增长 前景 依然", "cluster": 9}
+{"text": "纽约 黄金 期货 收盘 小幅 下跌 美元", "cluster": 9}
+{"text": "穆迪 发布 最新 评级 报告", "cluster": 9}
+{"text": "11月 美国 个人 收入 小幅 增长", "cluster": 9}
+{"text": "人人 回应 用户 事件 记录", "cluster": 9}
+{"text": "花旗 集团 已经 计划 出售", "cluster": 9}
+{"text": "美国 证券 交易 起诉 证券", "cluster": 9}
+{"text": "交会 要求 公司 报告 安全 问题", "cluster": 9}
+{"text": "巴菲特 2012年 预言 股市 大幅", "cluster": 9}
+{"text": "通过 债券 置换 融资 欧元 资本", "cluster": 9}
+{"text": "RQFII 额度 机构 个人", "cluster": 9}
+{"text": "报道 12 RQFII 试点 范围", "cluster": 9}
+{"text": "亚太 澳大利亚 10月 贸易 减少 6亿 澳元", "cluster": 9}
+{"text": "亚太 韩国 央行 下调 该国 两年 GDP 增长 预期", "cluster": 9}
+{"text": "危机 缓解 日经 225 指数 开盘 上涨 1.4%", "cluster": 9}
+{"text": "证券 市场 违法 违规 细节 曝光", "cluster": 9}
+{"text": "中央 经济 工作 会议 今日 召开", "cluster": 9}
+{"text": "中信 证券 明年 季度 反弹", "cluster": 9}
+{"text": "基金 调整 重庆 啤酒 估值", "cluster": 9}
+{"text": "财政部 11月 证券 交易 下降", "cluster": 9}
+{"text": "银行 调查 创新 监管 手段", "cluster": 9}
+{"text": "石油 有望 上调 50 美元", "cluster": 9}
+{"text": "全球 航空 欧盟 航空 进入", "cluster": 9}
+{"text": "海外 新闻 穆迪 下调 法国 银行 评级", "cluster": 9}
+{"text": "未来 十年 欧洲 陷入 增长", "cluster": 9}
+{"text": "美国 没有 可能 推出 人民币", "cluster": 9}
+{"text": "压力 测试 显示 银行业 资金 千亿 欧元", "cluster": 9}
+{"text": "表示 明年 美国 有望", "cluster": 9}
+{"text": "匈牙利 IMF 欧元 资金", "cluster": 9}
+{"text": "全球 投资者 新兴 市场 前景 依旧 乐观", "cluster": 9}
+{"text": "欧洲 央行 未来 组建 欧洲 财政部", "cluster": 9}
+{"text": "上市 计划 获得 股东 批准", "cluster": 9}
+{"text": "计划 2016年 盈利 达到 10亿 欧元", "cluster": 9}
+{"text": "下调 2011年 盈利 预期 每股 美元", "cluster": 9}
+{"text": "网易 股票 买入 评级", "cluster": 9}
+{"text": "未来 资产 维持 360 买入 评级", "cluster": 9}
+{"text": "机构 上调 苹果 iPhone 第四 季度 销售 预期", "cluster": 9}
+{"text": "Zynga 导致 IPO 估值 缩水 50%", "cluster": 9}
+{"text": "2011年 电脑 市场 盘点 苹果", "cluster": 9}
+{"text": "季度 全球 智能 规模 同比 增长", "cluster": 9}
+{"text": "美国 银行业 计划 降价 销售 投资 基金", "cluster": 9}
+{"text": "中国 概念 美国 香港 上市 趋势", "cluster": 9}
+{"text": "12月 网络 圣诞 常见 状况", "cluster": 9}
+{"text": "报告 显示 资金 继续 美国", "cluster": 9}
+{"text": "美国 大选 关键 时间", "cluster": 9}
+{"text": "第三 质疑 股价 6%", "cluster": 9}
+{"text": "花旗 报告 股价 增长", "cluster": 9}
+{"text": "手机 发布 加速 产业 发展", "cluster": 9}
+{"text": "分析 法国 评级 下调 欧洲", "cluster": 9}
+{"text": "美国 巴菲特 再次 能源 行业", "cluster": 9}
+{"text": "第三 季度 香港 居民 上升", "cluster": 9}
+{"text": "经济 十年 高速 增长 背后 市场 失血", "cluster": 9}
+{"text": "证监会 加快 QFII 额度 审批", "cluster": 9}
+{"text": "宣布 维持 长期 信用 评级", "cluster": 9}
+{"text": "经济 明年 陷入 衰退", "cluster": 9}
+{"text": "美国 媒体 报道 苹果 正在 开发 智能", "cluster": 9}
+{"text": "日本 通过 亿日 补充", "cluster": 9}
+{"text": "中国 发售 软件 平台 智能 手机", "cluster": 9}
+{"text": "法国 未来 降级 可能性 50%", "cluster": 9}
+{"text": "日本 政府 预计 财年 GDP 增长", "cluster": 9}
+{"text": "意志 银行 全球 经济 2012 展望", "cluster": 9}
+{"text": "英国 拒绝 欧盟 IMF �� 2012 展望", "cluster": 9}
