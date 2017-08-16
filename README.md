@@ -7,6 +7,6 @@ This software has been released in conjunction with the paper "Concept Decomposi
 
 For following the procedure of WordCom to use it, or repeat the experiments, please read the file: readme_for_code.txt.
 
-ProProcess fold includes all text corpora, the source code for preprocessing and postprocessing the corpora, the source code for sampling and mapping steps in WordCom.
+'ProPrecess' folder includes all text corpora, the source code for preprocessing and postprocessing the corpora, the source code for sampling and mapping steps in WordCom.
 
-Result fold includes all the results of paramter analysis for alpha and beta, the results of replications with mean_variance graphs and confidence intervals for each stochastic algorithm.
+'results' folder includes all the results of paramter analysis for alpha and beta, the results of replications with mean_variance graphs and confidence intervals for each stochastic algorithm.
