@@ -1,6 +1,6 @@
-%Reture the clustering result
-%algorithmResult: each line for each cluster
-%Z: n*1, retrun the cluster lable for each node
+% Reture the clustering result intwo different formats
+% algorithmResult: each line contains cluster members for its corresponding cluster
+% Z: n*1, list cluster label for each node
 function [algorithmResult Z] = returnLabel(R, K)
 %UNTITLED Summary of this function goes here
 %   Detailed explanation goes here
