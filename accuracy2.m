@@ -1,6 +1,6 @@
 % my accuracy for speed
-% a fast version for computing accuracy: the ratio of correct partitioned
-% nodes.
+% a fast version for computing accuracy: the ratio of correct partitioned nodes.
+
 function[accuracy]=accuracy(result,criterion)
 
 [hang1,lie1]=size(result);
