@@ -1,4 +1,4 @@
-% my accuracy for speed
+% my accuracy function for fast speed.
 % a fast version for computing accuracy: the ratio of correct partitioned nodes.
 
 function[accuracy]=accuracy(result,criterion)
