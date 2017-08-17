@@ -1,3 +1,4 @@
+%%This function is used to compute the accuracy of an algorihtm: the ratio of corrected assigned nodes.
 function[accuracy]=accuracy(result,criterion)
 [hang1,lie1]=size(result);
 [hang2,lie2]=size(criterion);
