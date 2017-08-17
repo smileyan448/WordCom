@@ -11,4 +11,4 @@ For following the procedure of WordCom to use it, or repeat the experiments, ple
 
 'results' folder includes all the results of paramter analysis for alpha and beta, the results of replications with mean_variance graphs and confidence intervals for each stochastic algorithm.
 
-Two main functions are Wordcom and WordCom_s.
+Two main functions are wordcom and wordcom_s.
