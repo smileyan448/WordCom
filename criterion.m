@@ -1,6 +1,6 @@
 %transform the n*2 (node label, cluster lable) to
-%stand_c: each line for each cluster
-%stand_com: n*1, cluster lable for each node only
+%stand_c: each line contains the cluster mebers for an corresponding cluster
+%stand_com: n*1, only list the cluster label for each node
 function [stand_C,stand_com]=criterion(community)
 n=unique(community(:,2));%community rearrangement
 m=length(n);%number of communities
