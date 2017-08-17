@@ -1,6 +1,6 @@
-% Partition a large matrix into two smaller matrice iteratively
-%A is m*N matrix, B is m*M matrix
-%distance is  N*M matrix
+% Partition a large matrix into two smaller matrice iteratively for fast computation
+% A is m*N matrix, B is m*M matrix
+% distance is  N*M matrix
 function distance=batch_distance(A,B)
     num=2;%the number of partition
     n=size(A,2);
