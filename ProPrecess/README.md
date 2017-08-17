@@ -6,4 +6,4 @@ This is the fold of ProPrecess.
 
 'mapping_code' folder includes the source code for mapping the original corpus to the word space of its subset.
 
-The executive files incuding sampling.exe, mapping.exe, prepro.exe complied in Windows 7.0 are provided. 
+The executive files of several steps of WordCom incuding sampling.exe, mapping.exe, prepro.exe complied in Windows 7.0 are provided in the folder. 
