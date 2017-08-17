@@ -1,4 +1,4 @@
-%adjust kmeans
+%Our implementation of kmeans
 %K is the number of clusters
 function [U,x,cen]=D_kmeans(new_matrix,K,id)
 x=[];
