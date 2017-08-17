@@ -1,3 +1,4 @@
+%%This function is used to compute the RandIndex value to measure the accuracy of an algorithm
 function [value] = RandIndex(result,criterionsingle)
 %[criterionsingle] = criterion();
 [hangT,lieT]=size(criterionsingle);
