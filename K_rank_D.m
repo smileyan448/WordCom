@@ -1,4 +1,8 @@
-%% automatically select centers
+%% A is the adjacency matrix of a network
+%% cc is the ground truth of clusters with k lines, each line contains its cluster members.
+%% assignment is the cluster method which has been choosed. 4 means kmeans algorithm will be used to cluster the nodes.
+
+%% automatically select centers with k nodes with highest comprehesive values.
 function [z2, qq2, N_inf_t,cen2]=K_rank_D(A,cc,assignment,auto)
 % % using diffferent centrality measures (global centrality measures, local centrality measures)
 tstart = tic;
