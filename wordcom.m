@@ -5,6 +5,7 @@ readfile = sprintf('PreProcess\\PrePro.exe %s', filename);
 dos(readfile);
 
 %% Load:term-doc matrix X
+
 filepath =sprintf('%s_matrix.txt', filename);
 X=load(filepath);
 X=X';
