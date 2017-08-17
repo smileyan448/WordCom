@@ -1,4 +1,8 @@
-%% manually select centers
+%% A is the adjacency matrix of a network
+%% cc is the ground truth of clusters with k lines, each line contains its cluster members.
+%% assignment is the cluster method which has been choosed. 4 means kmeans algorithm will be used to cluster the nodes.
+%% manually select k centers in the decision graph.
+
 function [z1, qq, cen1, z2, qq2, N_inf_t,cen2]=K_rank_D_manual(A,cc,assignment,auto)
 % % using diffferent centrality measures(global centrality measures, local centrality measures)
 tstart = tic;
@@ -35,7 +39,7 @@ end
  nneigh=zeros(1,ND);
  delta=zeros(1,ND);
  %maxd=max(max(dis));
- [N_sorted,ordN]=sort(N_inf,'descend');%½µĞòÅÅÁĞ£¬[value,index]
+ [N_sorted,ordN]=sort(N_inf,'descend');%Â½ÂµÃÃ²Ã…Ã…ÃÃÂ£Â¬[value,index]
  delta(ordN(1))=-1.;
  nneigh(ordN(1))=0;
 for ii=2:ND   
@@ -293,7 +297,7 @@ switch assignment
 %             center=new_matrix(:,icl)';
 %             [cl,~]=kmeans(new_matrix',k,'start',center,'emptyaction','singleton');
 %         end
-%         disp('µü´ú´ÎÊı£º');
+%         disp('ÂµÃ¼Â´ÃºÂ´ÃÃŠÃ½Â£Âº');
 %         disp(num);
     end
 
